@@ -20,10 +20,9 @@ module.exports = {
                 else{
                     let web3 = this.web3;
                     web3.eth.getBlock('latest',(err,latestBlock)=>{
+                        Log.log('Block [' + latestBlock.number + ']');
                         if(err){Log.log('Web3.eth.getBlock error!');next();}
-                        else {
-                            this.fillDB(tx.blockNumber,latestBlock.number,next);
-                        }
+                        else this.fillDB(tx[0].blockNumber,latestBlock.number,next);
                     });
                 }
             }
