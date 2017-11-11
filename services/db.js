@@ -1,2 +1,3 @@
-let monk = require('monk');
-module.exports = monk('localhost:27017/crypto');
+let monk = require('monk'),
+    db = monk('localhost:27017/ether');
+module.exports = db;

@@ -22,12 +22,24 @@ module.exports = {
                     web3.eth.getBlock('latest',(err,latestBlock)=>{
                         Log.log('Block [' + latestBlock.number + ']');
                         if(err){Log.log('Web3.eth.getBlock error!');next();}
-                        else this.fillDB(tx[0].blockNumber,latestBlock.number,next);
+                        else this.fillFastDB(tx[0].blockNumber,latestBlock.number,next);
                     });
                 }
             }
         });
 
+    },
+    transactionToDBHistory:function(){
+
+                if(!this.connect()) {Log.log('Geth connection error!');}
+                else{
+                    let web3 = this.web3;
+                    web3.eth.getBlock('latest',(err,latestBlock)=>{
+                        Log.log('Block [' + 2049582 + ']');
+                        if(err){Log.log('Web3.eth.getBlock error!');}
+                        else this.fillFastDB(2035000,2049582,()=>console.log('done...'));
+                    });
+                }
     },
     fillDB:function(blockFinish,blockStart,next){
         let web3 = this.web3;
@@ -40,8 +52,8 @@ module.exports = {
                     if (index === txList.length) nx();
                     else web3.eth.getTransaction(txList[index], (err, tx) => {
                         if (err) ftl(txList, ++index, nx);
-                        else if(!tx.to)ftl(txList, ++index, nx);
-                        else{
+                        else /*if(!tx.to)ftl(txList, ++index, nx);
+                        else*/{
                             tx.timestamp = b.timestamp;
                             db.get('etherTransactions').update({
                                 hash: tx.hash
@@ -55,6 +67,37 @@ module.exports = {
                 };
                 ftl(b.transactions,0,()=>{
                     this.fillDB(blockFinish,(blockStart - 1), next)
+                })
+            }
+        })
+    },
+    fillFastDB:function(blockFinish, blockStart, next){
+        let web3 = this.web3;
+        web3.eth.getBlockTransactionCount(blockStart,(err,txNumber)=>{
+            if(err && blockStart > blockFinish || !txNumber) this.fillDB(blockFinish,
+                (blockStart - 1),next);
+            else if(blockFinish === blockStart) next();
+            else {Log.log('Block ' + blockStart + ' TxNum ' + txNumber);
+                let ftlf = (txNum, nx) => {
+                    if (!txNum) nx();
+                    else web3.eth.getTransactionFromBlock(blockStart,txNum, (err, tx) => {
+                        //console.dir(blockStart);console.dir(tx);
+                        if (err || !tx) ftlf((txNum - 1), nx);
+                        else /*if(!tx.to)ftl(txList, ++index, nx);
+                        else*/{
+                            tx.timestamp = blockStart.timestamp;
+                            db.get('etherTransactions').update({
+                                hash: tx.hash
+                            },tx,{upsert:true},(err,t)=>{//console.dir(t);
+                                Log.log('Block: '+ blockStart + ' TxN: '
+                                    + txNum);
+                                ftlf((txNum - 1), nx);
+                            })
+                        }
+                    })
+                };
+                ftlf(txNumber,()=>{
+                    this.fillFastDB(blockFinish,(blockStart - 1), next)
                 })
             }
         })
