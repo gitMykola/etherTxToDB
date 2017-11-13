@@ -40,17 +40,17 @@ module.exports = {
                         else {
                             let func = (k,callback)=>{
                                 setTimeout(()=> {
-                                    if (k - 500 < 0) this.fillMegaFastDB(1, k, callback());
+                                    if (k - 750 < 1900000) this.fillMegaFastDB(1, k, callback());
                                     else {
-                                        this.fillMegaFastDB(k - 500, k, () => {
+                                        this.fillMegaFastDB(k - 750, k, () => {
                                         Log.log('Block of block: ' + k);
                                         console.log('Block of block: ' + k);
                                         });
-                                        func(k - 500,callback);
+                                        func(k - 750,callback);
                                     }
-                                },1000*20)
+                                },1000*30)
                             };
-                            func(latestBlock.number,()=>{
+                            func(2000000,()=>{
                                 Log.log('Done !!!!!!!!!!!!!!!!!!!!!!!');
                                 console.log('Done !!!!!!!!!!!!!!!!!!!!!!!');
                             });
