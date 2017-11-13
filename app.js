@@ -29,7 +29,7 @@ app.use(function(err, req, res, next) {
   res.status(err.status || 500);
   Log.log('Error: ' + err.message);
 });
-let f = ()=>{setTimeout(()=>ETH.transactionsToDB(f),1000*2)};
+let f = ()=>{setTimeout(()=>ETH.transactionsToDB(f),1000*10)};
 //ETH.transactionsToDB(f);
 ETH.transactionToDBHistory();
 
