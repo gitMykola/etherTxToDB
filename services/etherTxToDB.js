@@ -1,5 +1,4 @@
 let Log = require('../services/logToFile'),
-    db = require('../services/db'),
     EtherTXDB = require('../services/EtherTXDB'),
     Web3 = require('web3');
 
@@ -14,7 +13,7 @@ module.exports = {
         return this.web3.isConnected();
     },
     transactionsToDB:function(next){
-        db.get('etherTransactions').find({},{sort:{blockNumber:-1},limit:1},(err,tx)=>{
+        EtherTXDB.find({},{sort:{blockNumber:-1},limit:1},(err,tx)=>{
             if(err) Log.log(err.message);
             else {
                 if(!this.connect()) {Log.log('Geth connection error!');next();}
@@ -73,7 +72,7 @@ module.exports = {
                         else /*if(!tx.to)ftl(txList, ++index, nx);
                         else*/{
                             tx.timestamp = b.timestamp;
-                            db.get('etherTransactions').update({
+                            EtherTXDB.update({
                                 hash: tx.hash
                             },tx,{upsert:true},(err,t)=>{//console.dir(t);
                                 Log.log('Block: '+ blockStart + ' TxN: '
@@ -104,7 +103,7 @@ module.exports = {
                         else /*if(!tx.to)ftl(txList, ++index, nx);
                         else*/{
                             tx.timestamp = blockStart.timestamp;
-                            /*db.get('etherTransactions')*/EtherTXDB.update({
+                            EtherTXDB.update({
                                 hash: tx.hash
                             },tx,{upsert:true},(err,t)=>{//console.dir(t);
                                 Log.log('Block: '+ blockStart + ' TxN: '
@@ -140,7 +139,7 @@ module.exports = {
                         else /*if(!tx.to)ftl(txList, ++index, nx);
                         else*/{
                             tx.timestamp = b.timestamp;
-                            /*db.get('etherTransactions')*/EtherTXDB.update({
+                            EtherTXDB.update({
                                 hash: tx.hash
                             },tx,{upsert:true},(err,t)=>{//Log.log(t.toString);
                                 if(err)Log.error(err);
