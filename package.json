@@ -6,10 +6,12 @@
     "start": "node ./bin/www"
   },
   "dependencies": {
+    "bignumber": "^1.1.0",
     "debug": "~2.6.9",
     "express": "~4.15.5",
     "less-middleware": "~2.2.1",
-    "monk": "^6.0.5",
+    "mongoose": "^4.13.2",
+    "mongoose-long": "^0.1.1",
     "morgan": "~1.9.0",
     "web3": "^0.19.0"
   }

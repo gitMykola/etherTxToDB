@@ -1,26 +1,29 @@
 let mongoose = require('mongoose');
-    mongoose.connect('mongodb://127.0.0.1/ether');
+    require('mongoose-long')(mongoose);
+    mongoose.connect('mongodb://127.0.0.1/ether',{
+        useMongoClient: true,
+        /* other options */
+    });
 let Schema = mongoose.Schema,
-    BigDecimal = require('big'),
     ObjectId = Schema.ObjectId;
 
-let etherTx = new Schema({
+let EtherTxDB = new Schema({
     _id: ObjectId,
     blockHash: String,
     blockNumber: String,
     from: String,
     gas: Number,
-    gasPrice: Schema.Types.BigDecimal,
+    gasPrice: Schema.Types.Long,
     hash: String,
     input: String,
     nonce: Number,
     to: String,
     transactionIndex: Number,
-    value: Schema.Types.BigNumber,
+    value: Schema.Types.Long,
     v: String,
     r: String,
     s: String,
     timestamp: Number
 });
 
-module.exports = etherTx;
+module.exports = mongoose.model('ether_transactions',EtherTxDB);

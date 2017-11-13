@@ -1,5 +1,6 @@
 let Log = require('../services/logToFile'),
     db = require('../services/db'),
+    EtherTXDB = require('../services/EtherTXDB'),
     Web3 = require('web3');
 
 module.exports = {
@@ -35,9 +36,26 @@ module.exports = {
                 else{
                     let web3 = this.web3;
                     web3.eth.getBlock('latest',(err,latestBlock)=>{
-                        Log.log('Block [' + 2049582 + ']');
-                        if(err){Log.log('Web3.eth.getBlock error!');}
-                        else this.fillFastDB(2035000,2049582,()=>console.log('done...'));
+                        Log.log('Block [' + latestBlock.number + ']');
+                        if(err){Log.log('Web3.eth.getBlock LAST BLOCK error!');}
+                        else {
+                            let func = (k,callback)=>{
+                                setTimeout(()=> {
+                                    if (k - 500 < 0) this.fillMegaFastDB(1, k, callback());
+                                    else {
+                                        this.fillMegaFastDB(k - 500, k, () => {
+                                        Log.log('Block of block: ' + k);
+                                        console.log('Block of block: ' + k);
+                                        });
+                                        func(k - 500,callback);
+                                    }
+                                },1000*20)
+                            };
+                            func(latestBlock.number,()=>{
+                                Log.log('Done !!!!!!!!!!!!!!!!!!!!!!!');
+                                console.log('Done !!!!!!!!!!!!!!!!!!!!!!!');
+                            });
+                        }//this.fillMegaFastDB(2034500,2035000,()=>console.log('done...'));
                     });
                 }
     },
@@ -86,7 +104,7 @@ module.exports = {
                         else /*if(!tx.to)ftl(txList, ++index, nx);
                         else*/{
                             tx.timestamp = blockStart.timestamp;
-                            db.get('etherTransactions').update({
+                            /*db.get('etherTransactions')*/EtherTXDB.update({
                                 hash: tx.hash
                             },tx,{upsert:true},(err,t)=>{//console.dir(t);
                                 Log.log('Block: '+ blockStart + ' TxN: '
@@ -101,5 +119,45 @@ module.exports = {
                 })
             }
         })
+    },
+    fillMegaFastDB:function(blockFinish, blockStart,next){
+        let web3 = this.web3;
+        for(let i = blockFinish;i < blockStart; i++){
+            //Log.log(i);EtherTXDB.insertMany ([{from:"fuck"}],(e,r)=>console.log(e+r));
+        web3.eth.getBlockTransactionCount(i,(err,txNumber)=>{//Log.log(i);
+            if(err || !txNumber) {
+                Log.error('Empty block: ' + i);
+            }
+            else web3.eth.getBlock(i,(err,b)=>{
+                if(err) Log.error('Bad block: ' + i);
+                    else{
+                Log.log('Block ' + b.number + ' TxNum ' + txNumber);
+                let ftlf = (txNum, nx) => {
+                    if (!txNum) nx();
+                    else web3.eth.getTransactionFromBlock(b.number,txNum, (err, tx) => {
+                        //console.dir(blockStart);console.dir(tx);
+                        if (err || !tx) ftlf((txNum - 1), nx);
+                        else /*if(!tx.to)ftl(txList, ++index, nx);
+                        else*/{
+                            tx.timestamp = b.timestamp;
+                            /*db.get('etherTransactions')*/EtherTXDB.update({
+                                hash: tx.hash
+                            },tx,{upsert:true},(err,t)=>{//Log.log(t.toString);
+                                if(err)Log.error(err);
+                                Log.log('Block: '+ b.number + ' TxN: '
+                                    + txNum);
+                                ftlf((txNum - 1), nx);
+                            })
+                        }
+                    })
+                };
+                ftlf(txNumber,()=>{
+                    Log.log('Done block: ' + b.number)
+                })
+            }
+          })
+        });
+        }
+        next();
     }
 };

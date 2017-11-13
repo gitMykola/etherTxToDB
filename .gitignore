@@ -2,4 +2,6 @@
 .gitignore
 .idea/
 appLog.txt
+appError.txt
 node_modules/
+.node-xmlhttprequest-sync-13270
