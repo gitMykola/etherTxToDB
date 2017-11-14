@@ -1,11 +1,8 @@
 let mongoose = require('mongoose');
     require('mongoose-long')(mongoose);
-    mongoose.connect('mongodb://127.0.0.1/ether',{
-        useMongoClient: true,
-        /* other options */
-    });
 let Schema = mongoose.Schema,
     ObjectId = Schema.ObjectId;
+
 
 let EtherTxDB = new Schema({
     _id: ObjectId, // Id of current document
@@ -26,4 +23,19 @@ let EtherTxDB = new Schema({
     timestamp: Number // transaction block Unix timestamp in seconds
 });
 
-module.exports = mongoose.model('ether_transactions',EtherTxDB);
+module.exports = class EtherTXDB{
+    constructor(){
+        let conn = mongoose.createConnection('mongodb://127.0.0.1/ether?maxPoolSize=4096',{
+            useMongoClient: true
+            /* other options */
+        });
+    this.model = mongoose.model('ether_transactions', EtherTxDB);
+    };
+    update(query,data,options,callback){
+        this.model.update(query,data,options,(err,t)=>{
+                    if(err) callback("Don't UPDATE! " + err,null);
+                    callback(null,t);
+                })
+            }
+
+};

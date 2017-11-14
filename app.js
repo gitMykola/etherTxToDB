@@ -31,6 +31,7 @@ app.use(function(err, req, res, next) {
 });
 let f = ()=>{setTimeout(()=>ETH.transactionsToDB(f),1000*10)};
 //ETH.transactionsToDB(f);
-ETH.transactionToDBHistory();
-
+//ETH.transactionToDBHistory();
+//ETH.checkBlockTxCount(1998000,2000000,()=>console.log('DONE!!!!!!!'));
+ETH.transactionsToDBHistory_2_0(1999000,2000000,()=>console.log('Done!!!!!'));
 module.exports = app;
