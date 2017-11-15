@@ -2,12 +2,14 @@ let mongoose = require('mongoose');
     require('mongoose-long')(mongoose);
 let Schema = mongoose.Schema,
     ObjectId = Schema.ObjectId;
-
+    mongoose.connect('mongodb://127.0.0.1/ether',{
+    useMongoClient: true
+});
 
 let EtherTxDB = new Schema({
     _id: ObjectId, // Id of current document
     blockHash: String, // Hash of the block where this transaction was in. null when its pending.
-    blockNumber: String, // Block number where this transaction was in. null when its pending.
+    blockNumber: Number, // Block number where this transaction was in. null when its pending.
     from: String, // Address of the sender.
     gas: Number, // Gas provided by the sender.
     gasPrice: Schema.Types.Long, //  Gas price provided by the sender in wei.
@@ -23,19 +25,4 @@ let EtherTxDB = new Schema({
     timestamp: Number // transaction block Unix timestamp in seconds
 });
 
-module.exports = class EtherTXDB{
-    constructor(){
-        let conn = mongoose.createConnection('mongodb://127.0.0.1/ether?maxPoolSize=4096',{
-            useMongoClient: true
-            /* other options */
-        });
-    this.model = mongoose.model('ether_transactions', EtherTxDB);
-    };
-    update(query,data,options,callback){
-        this.model.update(query,data,options,(err,t)=>{
-                    if(err) callback("Don't UPDATE! " + err,null);
-                    callback(null,t);
-                })
-            }
-
-};
+module.exports = mongoose.model('ether_transactions', EtherTxDB);

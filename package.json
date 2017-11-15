@@ -12,7 +12,9 @@
     "less-middleware": "~2.2.1",
     "mongoose": "^4.13.2",
     "mongoose-long": "^0.1.1",
+    "monk": "^6.0.5",
     "morgan": "~1.9.0",
+    "run-parallel": "^1.1.6",
     "web3": "^0.19.0"
   }
 }
