@@ -2,8 +2,9 @@ let mongoose = require('mongoose');
     require('mongoose-long')(mongoose);
 let Schema = mongoose.Schema,
     ObjectId = Schema.ObjectId;
+    mongoose.Promise = global.Promise;
     mongoose.connect('mongodb://127.0.0.1/ether',{
-    useMongoClient: true
+    useMongoClient: true,
 });
 
 let EtherTxDB = new Schema({

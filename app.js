@@ -30,8 +30,8 @@ app.use(function(err, req, res, next) {
   Log.log('Error: ' + err.message);
 });
 let f = ()=>{setTimeout(()=>ETH.transactionsToDB(f),1000*10)};
-//ETH.transactionsToDB(f);
+ETH.transactionsToDB(f);
 //ETH.fillMegaFastDB(1999996,2000000,()=>console.log('Done!!!!!'));
-ETH.checkBlockTxCount(1999800,2000000,()=>console.log('DONE!!!!!!!'));
+//ETH.checkBlockTxCount(1999800,2000000,()=>console.log('DONE!!!!!!!'));
 //ETH.transactionsToDBHistory_2_1(1999800,2000000,()=>console.log('Done!!!!!'));
 module.exports = app;

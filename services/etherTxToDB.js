@@ -27,16 +27,22 @@ module.exports = {
         return this.web3.isConnected();
     },
     transactionsToDB:function(next){
-        EtherTXDB.find({},{sort:{blockNumber:-1},limit:1},(err,tx)=>{
-            if(err) Log.log(err.message);
+        EtherTXDB.find({}).select('blockNumber').sort({blockNumber:-1}).limit(1).exec((err,tx)=>{
+            if(err) Log.error(err.message);
             else {
+
                 if(!this.connect()) {Log.log('Geth connection error!');next();}
                 else{
                     let web3 = this.web3;
                     web3.eth.getBlock('latest',(err,latestBlock)=>{
-                        Log.log('Block [' + latestBlock.number + ']');
+                        let bNum = tx[0]?tx[0].blockNumber:latestBlock.number - 1;
+                        Log.log('Block [' + latestBlock.number + '] ' + tx.length);
                         if(err){Log.log('Web3.eth.getBlock error!');next();}
-                        else this.fillFastDB(tx[0].blockNumber,latestBlock.number,next);
+                        else if(latestBlock.number - bNum > 0) {
+                            Log.log('In');
+                            this.fillFastDB(bNum,latestBlock.number,next);
+                        }
+                            else next();
                     });
                 }
             }
@@ -171,7 +177,7 @@ module.exports = {
             })
         }
     },
-    fillFastDB:function(etherTX,blockFinish, blockStart, next){
+    fillFastDB:function(blockFinish, blockStart, next){
         //let web3 = this.web3;
         let web3 = null;
         if (web3 !== null) {
@@ -181,7 +187,7 @@ module.exports = {
         }
         //console.log(blockFinish + ' finish  -  ' + blockStart + ' start ');
         web3.eth.getBlockTransactionCount(blockStart,(err,txNumber)=>{
-            if(err && blockStart > blockFinish || !txNumber) {this.fillFastDB(etherTX,blockFinish,
+            if(err && blockStart > blockFinish || !txNumber) {this.fillFastDB(blockFinish,
                 (blockStart - 1),next);//console.log('Block ' + blockStart + ' f ' + blockFinish);
                 //console.dir(err);
             }
@@ -198,7 +204,7 @@ module.exports = {
                             else /*if(!tx.to)ftl(txList, ++index, nx);
                             else*/{console.log('Block ' + b.number);
                                 tx.timestamp = b.timestamp;
-                                /*db.get('ether_transactions')*/etherTX.update({
+                                EtherTXDB.update({
                                     hash: tx.hash
                                 }, tx, {upsert: true}, (err, t) => {
                                     //console.dir(err);console.dir(t);
@@ -211,7 +217,7 @@ module.exports = {
                     })
                 };
                 ftlf(txNumber,()=>{
-                    this.fillFastDB(etherTX,blockFinish,(blockStart - 1), next)
+                    this.fillFastDB(blockFinish,(blockStart - 1), next)
                 })
             }
         })
