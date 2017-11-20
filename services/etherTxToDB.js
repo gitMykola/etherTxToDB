@@ -141,6 +141,182 @@ module.exports = {
             //parallel(par,next);
         }
         },
+    transactionsToDBHistory_2_2:function(finish,start,next){
+        this.connect();
+        if(!this.web3.isConnected()){console.log('Geth NOT CONNECTED!');next();}
+        else {
+            let c = 50;
+            let boxesCount = (start - finish) ? Math.floor((start - finish) / c) : 0,
+                lastBox = (start - finish) % c;
+            //let childETH = [];
+            let coll = db.get('ether_transactions');
+            let par = [];
+            if (boxesCount)
+                for (let i = 0; i < c; i++) {
+                    //eth.push(new EtherTXDB());
+                    /*childETH[i] = fork('/home/mykola/PhpstormProjects/etherTXToDB/services/childETHTxToDB');
+                    childETH[i].send({
+                        message:'Start child '+i,
+                        ind:i,
+                        finishB:finish + i * boxesCount,
+                        startB:finish + (i + 1) * boxesCount,
+                    });*/
+                     console.log('Num: ' + i + '  ' + (finish + i * boxesCount) + ' ' + (finish + (i + 1) * boxesCount));
+                    par.push(
+                                ()=>this.fillMegaFastDB(i, coll,
+                                    new Web3(new Web3.providers.HttpProvider('http://localhost:8545')),
+                                    (finish + i * boxesCount),
+                                    (finish + (i + 1) * boxesCount),
+                                    () => console.log('Box ' + i + ' done.'))
+                            );
+                    //console.log(i);
+                }
+            console.log(lastBox + ' Last');
+            if (lastBox) par.push(
+                                    ()=>this.fillMegaFastDB(c, coll,
+                                        new Web3(new Web3.providers.HttpProvider('http://localhost:8545')),
+                                        c * boxesCount, c * boxesCount + lastBox, () => console.log('Box ' + c + ' done.'))
+                                );
+            /*{
+                let lastChild = fork('/home/mykola/PhpstormProjects/etherTXToDB/services/childETHTxToDB');
+                lastChild.send({
+                    message:'Start last child '+c,
+                    ind:c,
+                    finishB:c * boxesCount,
+                    startB:c * boxesCount + lastBox,
+                });
+            }*/
+            //else {}
+            parallel(par,next);
+        }
+    },
+    transactionsToDBHistory_2_3:function(finish,start,next){
+        const web3 = this.instWeb3();
+        if(!web3 || finish >= start){console.log('Geth NOT CONNECTED!');next();}
+        else {
+            let coll = db.get('ether_transactions');
+            /*this.fillDBVirtual(
+                new Web3(new Web3.providers.HttpProvider('http://localhost:8545')),
+                finish,
+                start,
+                [],
+                (txs) => {
+                    let up = (k,utx,callba)=>{
+                        if(k >= utx.length)
+                        {
+                            //Log.log(block.number + ' CountTX: ' + k);
+                            callba();
+                        }
+                        else
+                            coll.update({hash:utx[k].hash},utx[k],{upsert:true},(err,t)=>{//Log.log(t.toString);
+                                //Log.error(err + ' ' + JSON.stringify(t));
+                                up(++k,utx,callba);
+                            });
+                    };
+                    up(0,txs,next);
+                    });*/
+            let c = 50;
+            let boxesCount = (start - finish) ? Math.floor((start - finish) / c) : 0,
+                lastBox = (start - finish) % c;
+            let par = [];
+            if (boxesCount)
+                for (let i = 0; i < c; i++) {
+                    console.log('Num: ' + i + '  ' + (finish + i * boxesCount) + ' ' + (finish + (i + 1) * boxesCount));
+                    par.push(
+                        ()=>this.fillDBVirtual(
+                            this.web3,//new Web3(new Web3.providers.HttpProvider('http://localhost:8545')),
+                            (finish + i * boxesCount),
+                            (finish + (i + 1) * boxesCount),
+                            [],
+                            (txs) => {
+                                let up = (k,utx,callba)=>{
+                                    if(k >= utx.length)
+                                    {
+                                        //Log.log(block.number + ' CountTX: ' + k);
+                                        console.log('Box ' + i + ' done.');
+                                        callba();
+                                    }
+                                    else
+                                        coll.update({hash:utx[k].hash},utx[k],{upsert:true},(err,t)=>{//Log.log(t.toString);
+                                            //Log.error(err + ' ' + JSON.stringify(t));
+                                            up(++k,utx,callba);
+                                        });
+                                };
+                                up(0,txs,next);
+                            })
+                    );
+                }
+            console.log(lastBox + ' Last');
+            if (lastBox) par.push(
+                ()=>this.fillDBVirtual(
+                    this.web3,//new Web3(new Web3.providers.HttpProvider('http://localhost:8545')),
+                    c * boxesCount,
+                    c * boxesCount + lastBox,
+                    [],
+                    (txs) => {
+                        let up = (k,utx,callba)=>{
+                            if(k >= utx.length)
+                            {
+                                //Log.log(block.number + ' CountTX: ' + k);
+                                console.log('Box ' + i + ' done.');
+                                callba();
+                            }
+                            else
+                                coll.update({hash:utx[k].hash},utx[k],{upsert:true},(err,t)=>{//Log.log(t.toString);
+                                    //Log.error(err + ' ' + JSON.stringify(t));
+                                    up(++k,utx,callba);
+                                });
+                        };
+                        up(0,txs,next);
+                    })
+            );
+            parallel(par,next);
+        }
+    },
+    transactionsToDBHistory_2_4:function(finish,start,next) {
+        Log.log(finish + ' Start...');
+        //const txs = [];
+        //let blockCount = 0;
+        const web3 = this.instWeb3();
+        const coll = db.get('ether_transactions');
+        if (!web3 || finish >= start) {
+            console.log('Geth NOT CONNECTED!');
+            next();
+        }
+        else
+            for (let i = finish; i <= start; i++)
+                web3.eth.getBlock(i, true, (err, block) => {
+                    if (err || !block.transactions.length) {
+                        Log.error('Block error or empty: ' + i);
+                    }
+                    else {
+                        Log.log('Block N: ' + block.number);
+                        let data = block.transactions.map(tx => {
+                            tx.timestamp = block.timestamp;
+                            return tx;
+                        });
+                        let up = (k, utx, callba) => {
+                            if (k >= utx.length) callba();
+                            else
+                                coll.update({hash: utx[k].hash}, utx[k], {upsert: true}, (err, t) => {
+                                    if (err) console.log(err);
+                                    up(++k, utx, callba);
+                                });
+                        };
+                        up(0, data, () => {console.log(' test ' + i + ' ' + start);
+                            if (i >= start) {
+                                console.log(i + ' FINISH !!!');
+                                Log.log(i + ' FINISH !!!');
+                                //next();
+                            } else console.log(i + ' Done.');
+                        });
+
+                    }
+                    if (i >= start) next();
+
+                })
+
+    },
     fillDB:function(etherTX,blockFinish,blockStart,next){
         if(!this.connect()){
             console.log('NOT CONNECTED!');
@@ -222,14 +398,14 @@ module.exports = {
             }
         })
     },
-    fillMegaFastDB:function(blockFinish, blockStart,next){
-        if(!this.connect() || blockFinish >= blockStart) next();
+    fillMegaFastDB:function(ind, dbe, web33, blockFinish, blockStart,next){
+        if(!this.connect() || blockFinish === blockStart) next();
         else{
-        let web3 = this.web3;
-        web3.eth.getBlock(blockFinish, true,(err,block)=>{
+        //let web3 = this.web3;
+        web33.eth.getBlock(blockFinish, true,(err,block)=>{
             if(err || !block.transactions.length) {
-                Log.error('Empty block: ' + blockFinish);
-                this.fillMegaFastDB(++blockFinish,blockStart,next);
+                //Log.error('Empty block: ' + blockFinish);
+                this.fillMegaFastDB(ind, dbe, web33, ++blockFinish,blockStart,next);
             }
             else {
                 let data = block.transactions.map(tx=>{
@@ -238,62 +414,83 @@ module.exports = {
                 let up = (k,utx,callba)=>{
                     if(k >= utx.length)
                     {
-                        Log.log(block.number + ' CountTX: ' + k);
+                        //Log.log(block.number + ' CountTX: ' + k);
                         callba();
                     }
                     else
-                    db.get('ether_transactions').update({hash:utx[k].hash},utx[k],{upsert:true},(err,t)=>{//Log.log(t.toString);
+                    dbe.update({hash:utx[k].hash},utx[k],{upsert:true},(err,t)=>{//Log.log(t.toString);
                         //Log.error(err + ' ' + JSON.stringify(t));
                         up(++k,utx,callba);
                         });
                     };
-                up(0,data,()=>this.fillMegaFastDB(++blockFinish,blockStart,next));
+                up(0,data,()=>this.fillMegaFastDB(ind, dbe, web33,++blockFinish,blockStart,next));
 
             }
 
             });
         }
     },
-    checkBlockTxCount:function(blockFinish,blockStart,next){
-        if(!this.connect()){
+    fillDBVirtual:function(blockFinish, blockStart, txs, next){
+        if(!this.connect() || blockFinish >= blockStart) next(txs);
+        else{
+            let web3 = this.web3;
+            web3.eth.getBlock(blockFinish, true,(err,block)=>{
+                if(err || !block.transactions.length) {
+                    //Log.error('Empty block: ' + blockFinish);
+                    this.fillDBVirtual(++blockFinish,blockStart,txs,next);
+                }
+                else {
+                    Log.log('Block N: ' + block.number);
+                    let data = block.transactions.map(tx=>{
+                        tx.timestamp = block.timestamp;return tx;});
+                    this.fillDBVirtual(++blockFinish,blockStart,txs.concat(data),next);
+                    //let et = new EtherTXDB();
+                    /*let up = (k,utx,callba)=>{
+                        if(k >= utx.length)
+                        {
+                            //Log.log(block.number + ' CountTX: ' + k);
+                            callba();
+                        }
+                        else
+                            dbe.update({hash:utx[k].hash},utx[k],{upsert:true},(err,t)=>{//Log.log(t.toString);
+                                //Log.error(err + ' ' + JSON.stringify(t));
+                                up(++k,utx,callba);
+                            });
+                    };
+                    up(0,data,()=>this.fillMegaFastDB(ind, dbe, web33,++blockFinish,blockStart,next));
+                    */
+                }
+
+            });
+        }
+    },
+    checkBlockTxCount:function(blockFinish,blockStart,next) {
+        if (!this.connect()) {
             console.log('NOT CONNECTED!');
             next();
         }
-        else
-        {
-            //let etherTX = new EtherTXDB();
+        else {
             let web3 = this.web3;
-            let fun = (fn, st, callback) => {
-                if(fn >= st) callback();
-                else {
-                    //let k = ((b + 500) > st) ? st : (b + 500);
-                    //for (let i = b; i < k; i++) {//Log.log(b+' BLOCK');
-                    db.get('ether_transactions').find({blockNumber: fn}, (err, txs) => {
-                        Log.error(fn+' '+ txs.length);
-                        if (err) {
-                            console.log('Block ERROR: ' + fn);
-                            fun(++fn, st, callback);
-                        }
-                        else {
-                            web3.eth.getBlock(fn, (err, bl) => {
-                                if (err) {
-                                    Log.error('Block error: ' + fn);
-                                    fun(++fn, st, callback);
-                                }
-                                else if (bl.transactions.length !== txs.length)
-                                    Log.error('ICORRECT BLOCK DATA RECORD: '
-                                        + fn + '/' + bl.number + ' '
-                                        + bl.transactions.length + ' ' + txs.length);
-                                fun(++fn, st, callback);
-                                //else Log.log('Block OK '+ bl.number)
-                            })
-                        }
-                    });
-                    //}
-                }
-
-            };
-            fun(blockFinish, blockStart, next);
+            for (let i = blockFinish; i <= blockStart; i++)
+                setTimeout(()=>{
+                Log.log(i + ' block checking...');
+                db.get('ether_transactions').find({blockNumber: i}, (err, txs) => {
+                    //Log.error(fn+' '+ txs.length);
+                    if (err) Log.error('Block ERROR: ' + i);
+                    else
+                        web3.eth.getBlock(i, (err, bl) => {
+                            if (err) Log.error('Block error: ' + i);
+                            else if (bl.transactions.length !== txs.length)
+                                Log.error('ICORRECT BLOCK DATA RECORD: '
+                                    + i + '/' + bl.number + ' '
+                                    + bl.transactions.length + ' ' + txs.length);
+                            if (i === blockStart) {
+                                Log.log(i + ' FINISH!!!');
+                                next();
+                            }
+                        })
+                });
+                }, 0.5)
+            }
         }
-    }
 };

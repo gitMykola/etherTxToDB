@@ -29,9 +29,20 @@ app.use(function(err, req, res, next) {
   res.status(err.status || 500);
   Log.log('Error: ' + err.message);
 });
-let f = ()=>{setTimeout(()=>ETH.transactionsToDB(f),1000*10)};
-ETH.transactionsToDB(f);
+//let f = ()=>{setTimeout(()=>ETH.transactionsToDB(f),1000*10)};
+//ETH.transactionsToDB(f);
 //ETH.fillMegaFastDB(1999996,2000000,()=>console.log('Done!!!!!'));
-//ETH.checkBlockTxCount(1999800,2000000,()=>console.log('DONE!!!!!!!'));
+//ETH.checkBlockTxCount(1999000,2000000,()=>console.log('DONE!!!!!!!'));
 //ETH.transactionsToDBHistory_2_1(1999800,2000000,()=>console.log('Done!!!!!'));
+let f = (k)=>{
+              if(k < 2000000)
+                setTimeout(()=>{
+                  ETH.transactionsToDBHistory_2_4(k,k + 100,
+                    ()=>f(k + 100))
+                  },1000*0.05);
+              else console.log('Done          UUUUUUUUUUUUUUUUU');
+            };
+const ks = 1990000;
+ETH.transactionsToDBHistory_2_4(ks,ks + 100,
+    ()=>f(ks + 100));
 module.exports = app;

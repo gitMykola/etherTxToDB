@@ -1,0 +1,4561 @@
+
+Mon Nov 20 2017 02:26:32 GMT+0200 (EET)
+Block error or empty: 1990000
+Mon Nov 20 2017 02:26:32 GMT+0200 (EET)
+Block error or empty: 1990007
+Mon Nov 20 2017 02:26:32 GMT+0200 (EET)
+Block error or empty: 1990065
+Mon Nov 20 2017 02:26:32 GMT+0200 (EET)
+Block error or empty: 1990064
+Mon Nov 20 2017 02:26:32 GMT+0200 (EET)
+Block error or empty: 1990062
+Mon Nov 20 2017 02:26:32 GMT+0200 (EET)
+Block error or empty: 1990061
+Mon Nov 20 2017 02:26:32 GMT+0200 (EET)
+Block error or empty: 1990050
+Mon Nov 20 2017 02:26:32 GMT+0200 (EET)
+Block error or empty: 1990060
+Mon Nov 20 2017 02:26:32 GMT+0200 (EET)
+Block error or empty: 1990082
+Mon Nov 20 2017 02:26:32 GMT+0200 (EET)
+Block error or empty: 1990024
+Mon Nov 20 2017 02:26:32 GMT+0200 (EET)
+Block error or empty: 1990022
+Mon Nov 20 2017 02:26:32 GMT+0200 (EET)
+Block error or empty: 1990015
+Mon Nov 20 2017 02:26:32 GMT+0200 (EET)
+Block error or empty: 1990099
+Mon Nov 20 2017 02:26:32 GMT+0200 (EET)
+Block error or empty: 1990098
+Mon Nov 20 2017 02:26:32 GMT+0200 (EET)
+Block error or empty: 1990034
+Mon Nov 20 2017 02:26:32 GMT+0200 (EET)
+Block error or empty: 1990033
+Mon Nov 20 2017 02:26:32 GMT+0200 (EET)
+Block error or empty: 1990072
+Mon Nov 20 2017 02:26:32 GMT+0200 (EET)
+Block error or empty: 1990068
+Mon Nov 20 2017 02:26:32 GMT+0200 (EET)
+Block error or empty: 1990066
+Mon Nov 20 2017 02:26:32 GMT+0200 (EET)
+Block error or empty: 1990093
+Mon Nov 20 2017 02:26:32 GMT+0200 (EET)
+Block error or empty: 1990036
+Mon Nov 20 2017 02:26:33 GMT+0200 (EET)
+Block error or empty: 1990102
+Mon Nov 20 2017 02:26:33 GMT+0200 (EET)
+Block error or empty: 1990151
+Mon Nov 20 2017 02:26:33 GMT+0200 (EET)
+Block error or empty: 1990150
+Mon Nov 20 2017 02:26:33 GMT+0200 (EET)
+Block error or empty: 1990136
+Mon Nov 20 2017 02:26:33 GMT+0200 (EET)
+Block error or empty: 1990134
+Mon Nov 20 2017 02:26:33 GMT+0200 (EET)
+Block error or empty: 1990117
+Mon Nov 20 2017 02:26:33 GMT+0200 (EET)
+Block error or empty: 1990115
+Mon Nov 20 2017 02:26:33 GMT+0200 (EET)
+Block error or empty: 1990199
+Mon Nov 20 2017 02:26:33 GMT+0200 (EET)
+Block error or empty: 1990197
+Mon Nov 20 2017 02:26:33 GMT+0200 (EET)
+Block error or empty: 1990195
+Mon Nov 20 2017 02:26:33 GMT+0200 (EET)
+Block error or empty: 1990191
+Mon Nov 20 2017 02:26:33 GMT+0200 (EET)
+Block error or empty: 1990190
+Mon Nov 20 2017 02:26:33 GMT+0200 (EET)
+Block error or empty: 1990171
+Mon Nov 20 2017 02:26:33 GMT+0200 (EET)
+Block error or empty: 1990169
+Mon Nov 20 2017 02:26:33 GMT+0200 (EET)
+Block error or empty: 1990168
+Mon Nov 20 2017 02:26:33 GMT+0200 (EET)
+Block error or empty: 1990158
+Mon Nov 20 2017 02:26:33 GMT+0200 (EET)
+Block error or empty: 1990162
+Mon Nov 20 2017 02:26:33 GMT+0200 (EET)
+Block error or empty: 1990186
+Mon Nov 20 2017 02:26:33 GMT+0200 (EET)
+Block error or empty: 1990184
+Mon Nov 20 2017 02:26:33 GMT+0200 (EET)
+Block error or empty: 1990182
+Mon Nov 20 2017 02:26:33 GMT+0200 (EET)
+Block error or empty: 1990194
+Mon Nov 20 2017 02:26:33 GMT+0200 (EET)
+Block error or empty: 1990180
+Mon Nov 20 2017 02:26:34 GMT+0200 (EET)
+Block error or empty: 1990205
+Mon Nov 20 2017 02:26:34 GMT+0200 (EET)
+Block error or empty: 1990212
+Mon Nov 20 2017 02:26:34 GMT+0200 (EET)
+Block error or empty: 1990229
+Mon Nov 20 2017 02:26:34 GMT+0200 (EET)
+Block error or empty: 1990243
+Mon Nov 20 2017 02:26:34 GMT+0200 (EET)
+Block error or empty: 1990245
+Mon Nov 20 2017 02:26:34 GMT+0200 (EET)
+Block error or empty: 1990259
+Mon Nov 20 2017 02:26:34 GMT+0200 (EET)
+Block error or empty: 1990261
+Mon Nov 20 2017 02:26:34 GMT+0200 (EET)
+Block error or empty: 1990271
+Mon Nov 20 2017 02:26:34 GMT+0200 (EET)
+Block error or empty: 1990273
+Mon Nov 20 2017 02:26:34 GMT+0200 (EET)
+Block error or empty: 1990294
+Mon Nov 20 2017 02:26:34 GMT+0200 (EET)
+Block error or empty: 1990300
+Mon Nov 20 2017 02:26:34 GMT+0200 (EET)
+Block error or empty: 1990230
+Mon Nov 20 2017 02:26:35 GMT+0200 (EET)
+Block error or empty: 1990300
+Mon Nov 20 2017 02:26:35 GMT+0200 (EET)
+Block error or empty: 1990304
+Mon Nov 20 2017 02:26:35 GMT+0200 (EET)
+Block error or empty: 1990306
+Mon Nov 20 2017 02:26:35 GMT+0200 (EET)
+Block error or empty: 1990321
+Mon Nov 20 2017 02:26:35 GMT+0200 (EET)
+Block error or empty: 1990336
+Mon Nov 20 2017 02:26:35 GMT+0200 (EET)
+Block error or empty: 1990338
+Mon Nov 20 2017 02:26:35 GMT+0200 (EET)
+Block error or empty: 1990366
+Mon Nov 20 2017 02:26:35 GMT+0200 (EET)
+Block error or empty: 1990368
+Mon Nov 20 2017 02:26:35 GMT+0200 (EET)
+Block error or empty: 1990382
+Mon Nov 20 2017 02:26:35 GMT+0200 (EET)
+Block error or empty: 1990386
+Mon Nov 20 2017 02:26:35 GMT+0200 (EET)
+Block error or empty: 1990388
+Mon Nov 20 2017 02:26:35 GMT+0200 (EET)
+Block error or empty: 1990396
+Mon Nov 20 2017 02:26:35 GMT+0200 (EET)
+Block error or empty: 1990314
+Mon Nov 20 2017 02:26:35 GMT+0200 (EET)
+Block error or empty: 1990346
+Mon Nov 20 2017 02:26:35 GMT+0200 (EET)
+Block error or empty: 1990432
+Mon Nov 20 2017 02:26:35 GMT+0200 (EET)
+Block error or empty: 1990423
+Mon Nov 20 2017 02:26:35 GMT+0200 (EET)
+Block error or empty: 1990422
+Mon Nov 20 2017 02:26:35 GMT+0200 (EET)
+Block error or empty: 1990426
+Mon Nov 20 2017 02:26:35 GMT+0200 (EET)
+Block error or empty: 1990499
+Mon Nov 20 2017 02:26:35 GMT+0200 (EET)
+Block error or empty: 1990492
+Mon Nov 20 2017 02:26:35 GMT+0200 (EET)
+Block error or empty: 1990486
+Mon Nov 20 2017 02:26:35 GMT+0200 (EET)
+Block error or empty: 1990458
+Mon Nov 20 2017 02:26:35 GMT+0200 (EET)
+Block error or empty: 1990479
+Mon Nov 20 2017 02:26:35 GMT+0200 (EET)
+Block error or empty: 1990475
+Mon Nov 20 2017 02:26:35 GMT+0200 (EET)
+Block error or empty: 1990474
+Mon Nov 20 2017 02:26:35 GMT+0200 (EET)
+Block error or empty: 1990454
+Mon Nov 20 2017 02:26:35 GMT+0200 (EET)
+Block error or empty: 1990449
+Mon Nov 20 2017 02:26:35 GMT+0200 (EET)
+Block error or empty: 1990448
+Mon Nov 20 2017 02:26:36 GMT+0200 (EET)
+Block error or empty: 1990504
+Mon Nov 20 2017 02:26:36 GMT+0200 (EET)
+Block error or empty: 1990506
+Mon Nov 20 2017 02:26:36 GMT+0200 (EET)
+Block error or empty: 1990516
+Mon Nov 20 2017 02:26:36 GMT+0200 (EET)
+Block error or empty: 1990518
+Mon Nov 20 2017 02:26:36 GMT+0200 (EET)
+Block error or empty: 1990565
+Mon Nov 20 2017 02:26:36 GMT+0200 (EET)
+Block error or empty: 1990549
+Mon Nov 20 2017 02:26:36 GMT+0200 (EET)
+Block error or empty: 1990574
+Mon Nov 20 2017 02:26:36 GMT+0200 (EET)
+Block error or empty: 1990542
+Mon Nov 20 2017 02:26:36 GMT+0200 (EET)
+Block error or empty: 1990543
+Mon Nov 20 2017 02:26:36 GMT+0200 (EET)
+Block error or empty: 1990558
+Mon Nov 20 2017 02:26:36 GMT+0200 (EET)
+Block error or empty: 1990522
+Mon Nov 20 2017 02:26:36 GMT+0200 (EET)
+Block error or empty: 1990521
+Mon Nov 20 2017 02:26:36 GMT+0200 (EET)
+Block error or empty: 1990553
+Mon Nov 20 2017 02:26:37 GMT+0200 (EET)
+Block error or empty: 1990611
+Mon Nov 20 2017 02:26:37 GMT+0200 (EET)
+Block error or empty: 1990609
+Mon Nov 20 2017 02:26:37 GMT+0200 (EET)
+Block error or empty: 1990693
+Mon Nov 20 2017 02:26:37 GMT+0200 (EET)
+Block error or empty: 1990692
+Mon Nov 20 2017 02:26:37 GMT+0200 (EET)
+Block error or empty: 1990663
+Mon Nov 20 2017 02:26:37 GMT+0200 (EET)
+Block error or empty: 1990687
+Mon Nov 20 2017 02:26:37 GMT+0200 (EET)
+Block error or empty: 1990685
+Mon Nov 20 2017 02:26:37 GMT+0200 (EET)
+Block error or empty: 1990644
+Mon Nov 20 2017 02:26:37 GMT+0200 (EET)
+Block error or empty: 1990700
+Mon Nov 20 2017 02:26:37 GMT+0200 (EET)
+Block error or empty: 1990698
+Mon Nov 20 2017 02:26:38 GMT+0200 (EET)
+Block error or empty: 1990700
+Mon Nov 20 2017 02:26:38 GMT+0200 (EET)
+Block error or empty: 1990704
+Mon Nov 20 2017 02:26:38 GMT+0200 (EET)
+Block error or empty: 1990706
+Mon Nov 20 2017 02:26:38 GMT+0200 (EET)
+Block error or empty: 1990800
+Mon Nov 20 2017 02:26:38 GMT+0200 (EET)
+Block error or empty: 1990798
+Mon Nov 20 2017 02:26:38 GMT+0200 (EET)
+Block error or empty: 1990775
+Mon Nov 20 2017 02:26:39 GMT+0200 (EET)
+Block error or empty: 1990732
+Mon Nov 20 2017 02:26:39 GMT+0200 (EET)
+Block error or empty: 1990748
+Mon Nov 20 2017 02:26:39 GMT+0200 (EET)
+Block error or empty: 1990800
+Mon Nov 20 2017 02:26:39 GMT+0200 (EET)
+Block error or empty: 1990856
+Mon Nov 20 2017 02:26:39 GMT+0200 (EET)
+Block error or empty: 1990806
+Mon Nov 20 2017 02:26:39 GMT+0200 (EET)
+Block error or empty: 1990878
+Mon Nov 20 2017 02:26:39 GMT+0200 (EET)
+Block error or empty: 1990877
+Mon Nov 20 2017 02:26:39 GMT+0200 (EET)
+Block error or empty: 1990867
+Mon Nov 20 2017 02:26:39 GMT+0200 (EET)
+Block error or empty: 1990864
+Mon Nov 20 2017 02:26:40 GMT+0200 (EET)
+Block error or empty: 1990962
+Mon Nov 20 2017 02:26:40 GMT+0200 (EET)
+Block error or empty: 1990964
+Mon Nov 20 2017 02:26:40 GMT+0200 (EET)
+Block error or empty: 1990982
+Mon Nov 20 2017 02:26:40 GMT+0200 (EET)
+Block error or empty: 1990983
+Mon Nov 20 2017 02:26:40 GMT+0200 (EET)
+Block error or empty: 1990985
+Mon Nov 20 2017 02:26:40 GMT+0200 (EET)
+Block error or empty: 1990987
+Mon Nov 20 2017 02:26:40 GMT+0200 (EET)
+Block error or empty: 1990968
+Mon Nov 20 2017 02:26:40 GMT+0200 (EET)
+Block error or empty: 1990931
+Mon Nov 20 2017 02:26:40 GMT+0200 (EET)
+Block error or empty: 1990915
+Mon Nov 20 2017 02:26:41 GMT+0200 (EET)
+Block error or empty: 1991007
+Mon Nov 20 2017 02:26:41 GMT+0200 (EET)
+Block error or empty: 1991062
+Mon Nov 20 2017 02:26:41 GMT+0200 (EET)
+Block error or empty: 1991074
+Mon Nov 20 2017 02:26:41 GMT+0200 (EET)
+Block error or empty: 1991044
+Mon Nov 20 2017 02:26:41 GMT+0200 (EET)
+Block error or empty: 1991068
+Mon Nov 20 2017 02:26:41 GMT+0200 (EET)
+Block error or empty: 1991066
+Mon Nov 20 2017 02:26:41 GMT+0200 (EET)
+Block error or empty: 1991023
+Mon Nov 20 2017 02:26:41 GMT+0200 (EET)
+Block error or empty: 1991079
+Mon Nov 20 2017 02:26:41 GMT+0200 (EET)
+Block error or empty: 1991057
+Mon Nov 20 2017 02:26:41 GMT+0200 (EET)
+Block error or empty: 1991053
+Mon Nov 20 2017 02:26:41 GMT+0200 (EET)
+Block error or empty: 1991028
+Mon Nov 20 2017 02:26:41 GMT+0200 (EET)
+Block error or empty: 1991038
+Mon Nov 20 2017 02:26:42 GMT+0200 (EET)
+Block error or empty: 1991176
+Mon Nov 20 2017 02:26:42 GMT+0200 (EET)
+Block error or empty: 1991160
+Mon Nov 20 2017 02:26:42 GMT+0200 (EET)
+Block error or empty: 1991172
+Mon Nov 20 2017 02:26:42 GMT+0200 (EET)
+Block error or empty: 1991156
+Mon Nov 20 2017 02:26:42 GMT+0200 (EET)
+Block error or empty: 1991166
+Mon Nov 20 2017 02:26:42 GMT+0200 (EET)
+Block error or empty: 1991192
+Mon Nov 20 2017 02:26:42 GMT+0200 (EET)
+Block error or empty: 1991118
+Mon Nov 20 2017 02:26:42 GMT+0200 (EET)
+Block error or empty: 1991116
+Mon Nov 20 2017 02:26:42 GMT+0200 (EET)
+Block error or empty: 1991183
+Mon Nov 20 2017 02:26:42 GMT+0200 (EET)
+Block error or empty: 1991128
+Mon Nov 20 2017 02:26:42 GMT+0200 (EET)
+Block error or empty: 1991132
+Mon Nov 20 2017 02:26:42 GMT+0200 (EET)
+Block error or empty: 1991202
+Mon Nov 20 2017 02:26:42 GMT+0200 (EET)
+Block error or empty: 1991204
+Mon Nov 20 2017 02:26:42 GMT+0200 (EET)
+Block error or empty: 1991208
+Mon Nov 20 2017 02:26:42 GMT+0200 (EET)
+Block error or empty: 1991212
+Mon Nov 20 2017 02:26:42 GMT+0200 (EET)
+Block error or empty: 1991224
+Mon Nov 20 2017 02:26:42 GMT+0200 (EET)
+Block error or empty: 1991262
+Mon Nov 20 2017 02:26:42 GMT+0200 (EET)
+Block error or empty: 1991272
+Mon Nov 20 2017 02:26:42 GMT+0200 (EET)
+Block error or empty: 1991254
+Mon Nov 20 2017 02:26:42 GMT+0200 (EET)
+Block error or empty: 1991244
+Mon Nov 20 2017 02:26:43 GMT+0200 (EET)
+Block error or empty: 1991268
+Mon Nov 20 2017 02:26:43 GMT+0200 (EET)
+Block error or empty: 1991225
+Mon Nov 20 2017 02:26:43 GMT+0200 (EET)
+Block error or empty: 1991390
+Mon Nov 20 2017 02:26:43 GMT+0200 (EET)
+Block error or empty: 1991386
+Mon Nov 20 2017 02:26:43 GMT+0200 (EET)
+Block error or empty: 1991380
+Mon Nov 20 2017 02:26:44 GMT+0200 (EET)
+Block error or empty: 1991323
+Mon Nov 20 2017 02:26:45 GMT+0200 (EET)
+Block error or empty: 1991450
+Mon Nov 20 2017 02:26:45 GMT+0200 (EET)
+Block error or empty: 1991449
+Mon Nov 20 2017 02:26:45 GMT+0200 (EET)
+Block error or empty: 1991426
+Mon Nov 20 2017 02:26:45 GMT+0200 (EET)
+Block error or empty: 1991419
+Mon Nov 20 2017 02:26:45 GMT+0200 (EET)
+Block error or empty: 1991439
+Mon Nov 20 2017 02:26:45 GMT+0200 (EET)
+Block error or empty: 1991435
+Mon Nov 20 2017 02:26:45 GMT+0200 (EET)
+Block error or empty: 1991496
+Mon Nov 20 2017 02:26:45 GMT+0200 (EET)
+Block error or empty: 1991472
+Mon Nov 20 2017 02:26:45 GMT+0200 (EET)
+Block error or empty: 1991597
+Mon Nov 20 2017 02:26:45 GMT+0200 (EET)
+Block error or empty: 1991589
+Mon Nov 20 2017 02:26:46 GMT+0200 (EET)
+Block error or empty: 1991588
+Mon Nov 20 2017 02:26:46 GMT+0200 (EET)
+Block error or empty: 1991587
+Mon Nov 20 2017 02:26:46 GMT+0200 (EET)
+Block error or empty: 1991583
+Mon Nov 20 2017 02:26:46 GMT+0200 (EET)
+Block error or empty: 1991578
+Mon Nov 20 2017 02:26:46 GMT+0200 (EET)
+Block error or empty: 1991524
+Mon Nov 20 2017 02:26:46 GMT+0200 (EET)
+Block error or empty: 1991599
+Mon Nov 20 2017 02:26:46 GMT+0200 (EET)
+Block error or empty: 1991512
+Mon Nov 20 2017 02:26:46 GMT+0200 (EET)
+Block error or empty: 1991507
+Mon Nov 20 2017 02:26:46 GMT+0200 (EET)
+Block error or empty: 1991573
+Mon Nov 20 2017 02:26:47 GMT+0200 (EET)
+Block error or empty: 1991653
+Mon Nov 20 2017 02:26:47 GMT+0200 (EET)
+Block error or empty: 1991654
+Mon Nov 20 2017 02:26:47 GMT+0200 (EET)
+Block error or empty: 1991640
+Mon Nov 20 2017 02:26:47 GMT+0200 (EET)
+Block error or empty: 1991648
+Mon Nov 20 2017 02:26:47 GMT+0200 (EET)
+Block error or empty: 1991647
+Mon Nov 20 2017 02:26:47 GMT+0200 (EET)
+Block error or empty: 1991646
+Mon Nov 20 2017 02:26:47 GMT+0200 (EET)
+Block error or empty: 1991636
+Mon Nov 20 2017 02:26:47 GMT+0200 (EET)
+Block error or empty: 1991634
+Mon Nov 20 2017 02:26:47 GMT+0200 (EET)
+Block error or empty: 1991670
+Mon Nov 20 2017 02:26:47 GMT+0200 (EET)
+Block error or empty: 1991686
+Mon Nov 20 2017 02:26:47 GMT+0200 (EET)
+Block error or empty: 1991621
+Mon Nov 20 2017 02:26:47 GMT+0200 (EET)
+Block error or empty: 1991659
+Mon Nov 20 2017 02:26:47 GMT+0200 (EET)
+Block error or empty: 1991681
+Mon Nov 20 2017 02:26:47 GMT+0200 (EET)
+Block error or empty: 1991678
+Mon Nov 20 2017 02:26:47 GMT+0200 (EET)
+Block error or empty: 1991610
+Mon Nov 20 2017 02:26:48 GMT+0200 (EET)
+Block error or empty: 1991701
+Mon Nov 20 2017 02:26:48 GMT+0200 (EET)
+Block error or empty: 1991703
+Mon Nov 20 2017 02:26:48 GMT+0200 (EET)
+Block error or empty: 1991707
+Mon Nov 20 2017 02:26:48 GMT+0200 (EET)
+Block error or empty: 1991786
+Mon Nov 20 2017 02:26:48 GMT+0200 (EET)
+Block error or empty: 1991783
+Mon Nov 20 2017 02:26:48 GMT+0200 (EET)
+Block error or empty: 1991781
+Mon Nov 20 2017 02:26:49 GMT+0200 (EET)
+Block error or empty: 1991822
+Mon Nov 20 2017 02:26:49 GMT+0200 (EET)
+Block error or empty: 1991814
+Mon Nov 20 2017 02:26:49 GMT+0200 (EET)
+Block error or empty: 1991867
+Mon Nov 20 2017 02:26:49 GMT+0200 (EET)
+Block error or empty: 1991815
+Mon Nov 20 2017 02:26:49 GMT+0200 (EET)
+Block error or empty: 1991849
+Mon Nov 20 2017 02:26:50 GMT+0200 (EET)
+Block error or empty: 1991905
+Mon Nov 20 2017 02:26:50 GMT+0200 (EET)
+Block error or empty: 1991909
+Mon Nov 20 2017 02:26:50 GMT+0200 (EET)
+Block error or empty: 1991997
+Mon Nov 20 2017 02:26:50 GMT+0200 (EET)
+Block error or empty: 1991960
+Mon Nov 20 2017 02:26:50 GMT+0200 (EET)
+Block error or empty: 1991958
+Mon Nov 20 2017 02:26:50 GMT+0200 (EET)
+Block error or empty: 1991955
+Mon Nov 20 2017 02:26:50 GMT+0200 (EET)
+Block error or empty: 1991967
+Mon Nov 20 2017 02:26:50 GMT+0200 (EET)
+Block error or empty: 1991901
+Mon Nov 20 2017 02:26:51 GMT+0200 (EET)
+Block error or empty: 1991940
+Mon Nov 20 2017 02:26:51 GMT+0200 (EET)
+Block error or empty: 1991938
+Mon Nov 20 2017 02:26:51 GMT+0200 (EET)
+Block error or empty: 1991980
+Mon Nov 20 2017 02:26:51 GMT+0200 (EET)
+Block error or empty: 1992010
+Mon Nov 20 2017 02:26:51 GMT+0200 (EET)
+Block error or empty: 1992022
+Mon Nov 20 2017 02:26:51 GMT+0200 (EET)
+Block error or empty: 1992091
+Mon Nov 20 2017 02:26:52 GMT+0200 (EET)
+Block error or empty: 1992107
+Mon Nov 20 2017 02:26:52 GMT+0200 (EET)
+Block error or empty: 1992109
+Mon Nov 20 2017 02:26:53 GMT+0200 (EET)
+Block error or empty: 1992204
+Mon Nov 20 2017 02:26:53 GMT+0200 (EET)
+Block error or empty: 1992296
+Mon Nov 20 2017 02:26:53 GMT+0200 (EET)
+Block error or empty: 1992234
+Mon Nov 20 2017 02:26:53 GMT+0200 (EET)
+Block error or empty: 1992223
+Mon Nov 20 2017 02:26:53 GMT+0200 (EET)
+Block error or empty: 1992251
+Mon Nov 20 2017 02:26:53 GMT+0200 (EET)
+Block error or empty: 1992220
+Mon Nov 20 2017 02:26:53 GMT+0200 (EET)
+Block error or empty: 1992218
+Mon Nov 20 2017 02:26:53 GMT+0200 (EET)
+Block error or empty: 1992214
+Mon Nov 20 2017 02:26:53 GMT+0200 (EET)
+Block error or empty: 1992247
+Mon Nov 20 2017 02:26:53 GMT+0200 (EET)
+Block error or empty: 1992237
+Mon Nov 20 2017 02:26:53 GMT+0200 (EET)
+Block error or empty: 1992230
+Mon Nov 20 2017 02:26:53 GMT+0200 (EET)
+Block error or empty: 1992289
+Mon Nov 20 2017 02:26:54 GMT+0200 (EET)
+Block error or empty: 1992228
+Mon Nov 20 2017 02:26:54 GMT+0200 (EET)
+Block error or empty: 1992279
+Mon Nov 20 2017 02:26:55 GMT+0200 (EET)
+Block error or empty: 1992303
+Mon Nov 20 2017 02:26:55 GMT+0200 (EET)
+Block error or empty: 1992308
+Mon Nov 20 2017 02:26:55 GMT+0200 (EET)
+Block error or empty: 1992355
+Mon Nov 20 2017 02:26:55 GMT+0200 (EET)
+Block error or empty: 1992371
+Mon Nov 20 2017 02:26:55 GMT+0200 (EET)
+Block error or empty: 1992372
+Mon Nov 20 2017 02:26:55 GMT+0200 (EET)
+Block error or empty: 1992353
+Mon Nov 20 2017 02:26:55 GMT+0200 (EET)
+Block error or empty: 1992388
+Mon Nov 20 2017 02:26:55 GMT+0200 (EET)
+Block error or empty: 1992314
+Mon Nov 20 2017 02:26:55 GMT+0200 (EET)
+Block error or empty: 1992359
+Mon Nov 20 2017 02:26:55 GMT+0200 (EET)
+Block error or empty: 1992358
+Mon Nov 20 2017 02:26:55 GMT+0200 (EET)
+Block error or empty: 1992357
+Mon Nov 20 2017 02:26:55 GMT+0200 (EET)
+Block error or empty: 1992340
+Mon Nov 20 2017 02:26:55 GMT+0200 (EET)
+Block error or empty: 1992366
+Mon Nov 20 2017 02:26:55 GMT+0200 (EET)
+Block error or empty: 1992363
+Mon Nov 20 2017 02:26:55 GMT+0200 (EET)
+Block error or empty: 1992342
+Mon Nov 20 2017 02:26:55 GMT+0200 (EET)
+Block error or empty: 1992383
+Mon Nov 20 2017 02:26:55 GMT+0200 (EET)
+Block error or empty: 1992361
+Mon Nov 20 2017 02:26:55 GMT+0200 (EET)
+Block error or empty: 1992360
+Mon Nov 20 2017 02:26:56 GMT+0200 (EET)
+Block error or empty: 1992404
+Mon Nov 20 2017 02:26:56 GMT+0200 (EET)
+Block error or empty: 1992421
+Mon Nov 20 2017 02:26:56 GMT+0200 (EET)
+Block error or empty: 1992423
+Mon Nov 20 2017 02:26:56 GMT+0200 (EET)
+Block error or empty: 1992425
+Mon Nov 20 2017 02:26:56 GMT+0200 (EET)
+Block error or empty: 1992433
+Mon Nov 20 2017 02:26:56 GMT+0200 (EET)
+Block error or empty: 1992437
+Mon Nov 20 2017 02:26:56 GMT+0200 (EET)
+Block error or empty: 1992438
+Mon Nov 20 2017 02:26:56 GMT+0200 (EET)
+Block error or empty: 1992440
+Mon Nov 20 2017 02:26:56 GMT+0200 (EET)
+Block error or empty: 1992444
+Mon Nov 20 2017 02:26:56 GMT+0200 (EET)
+Block error or empty: 1992460
+Mon Nov 20 2017 02:26:56 GMT+0200 (EET)
+Block error or empty: 1992493
+Mon Nov 20 2017 02:26:56 GMT+0200 (EET)
+Block error or empty: 1992490
+Mon Nov 20 2017 02:26:56 GMT+0200 (EET)
+Block error or empty: 1992489
+Mon Nov 20 2017 02:26:56 GMT+0200 (EET)
+Block error or empty: 1992487
+Mon Nov 20 2017 02:26:56 GMT+0200 (EET)
+Block error or empty: 1992485
+Mon Nov 20 2017 02:26:56 GMT+0200 (EET)
+Block error or empty: 1992499
+Mon Nov 20 2017 02:26:56 GMT+0200 (EET)
+Block error or empty: 1992483
+Mon Nov 20 2017 02:26:56 GMT+0200 (EET)
+Block error or empty: 1992481
+Mon Nov 20 2017 02:26:56 GMT+0200 (EET)
+Block error or empty: 1992476
+Mon Nov 20 2017 02:26:57 GMT+0200 (EET)
+Block error or empty: 1992501
+Mon Nov 20 2017 02:26:57 GMT+0200 (EET)
+Block error or empty: 1992504
+Mon Nov 20 2017 02:26:57 GMT+0200 (EET)
+Block error or empty: 1992508
+Mon Nov 20 2017 02:26:57 GMT+0200 (EET)
+Block error or empty: 1992509
+Mon Nov 20 2017 02:26:57 GMT+0200 (EET)
+Block error or empty: 1992511
+Mon Nov 20 2017 02:26:57 GMT+0200 (EET)
+Block error or empty: 1992512
+Mon Nov 20 2017 02:26:57 GMT+0200 (EET)
+Block error or empty: 1992513
+Mon Nov 20 2017 02:26:57 GMT+0200 (EET)
+Block error or empty: 1992514
+Mon Nov 20 2017 02:26:57 GMT+0200 (EET)
+Block error or empty: 1992515
+Mon Nov 20 2017 02:26:57 GMT+0200 (EET)
+Block error or empty: 1992541
+Mon Nov 20 2017 02:26:57 GMT+0200 (EET)
+Block error or empty: 1992542
+Mon Nov 20 2017 02:26:57 GMT+0200 (EET)
+Block error or empty: 1992548
+Mon Nov 20 2017 02:26:57 GMT+0200 (EET)
+Block error or empty: 1992539
+Mon Nov 20 2017 02:26:57 GMT+0200 (EET)
+Block error or empty: 1992517
+Mon Nov 20 2017 02:26:57 GMT+0200 (EET)
+Block error or empty: 1992516
+Mon Nov 20 2017 02:26:57 GMT+0200 (EET)
+Block error or empty: 1992600
+Mon Nov 20 2017 02:26:57 GMT+0200 (EET)
+Block error or empty: 1992586
+Mon Nov 20 2017 02:26:57 GMT+0200 (EET)
+Block error or empty: 1992596
+Mon Nov 20 2017 02:26:57 GMT+0200 (EET)
+Block error or empty: 1992593
+Mon Nov 20 2017 02:26:57 GMT+0200 (EET)
+Block error or empty: 1992578
+Mon Nov 20 2017 02:26:57 GMT+0200 (EET)
+Block error or empty: 1992528
+Mon Nov 20 2017 02:26:57 GMT+0200 (EET)
+Block error or empty: 1992527
+Mon Nov 20 2017 02:26:57 GMT+0200 (EET)
+Block error or empty: 1992525
+Mon Nov 20 2017 02:26:57 GMT+0200 (EET)
+Block error or empty: 1992555
+Mon Nov 20 2017 02:26:57 GMT+0200 (EET)
+Block error or empty: 1992576
+Mon Nov 20 2017 02:26:57 GMT+0200 (EET)
+Block error or empty: 1992573
+Mon Nov 20 2017 02:26:57 GMT+0200 (EET)
+Block error or empty: 1992571
+Mon Nov 20 2017 02:26:57 GMT+0200 (EET)
+Block error or empty: 1992523
+Mon Nov 20 2017 02:26:57 GMT+0200 (EET)
+Block error or empty: 1992582
+Mon Nov 20 2017 02:26:57 GMT+0200 (EET)
+Block error or empty: 1992519
+Mon Nov 20 2017 02:26:57 GMT+0200 (EET)
+Block error or empty: 1992561
+Mon Nov 20 2017 02:26:57 GMT+0200 (EET)
+Block error or empty: 1992560
+Mon Nov 20 2017 02:26:58 GMT+0200 (EET)
+Block error or empty: 1992556
+Mon Nov 20 2017 02:26:58 GMT+0200 (EET)
+Block error or empty: 1992600
+Mon Nov 20 2017 02:26:58 GMT+0200 (EET)
+Block error or empty: 1992602
+Mon Nov 20 2017 02:26:58 GMT+0200 (EET)
+Block error or empty: 1992612
+Mon Nov 20 2017 02:26:58 GMT+0200 (EET)
+Block error or empty: 1992613
+Mon Nov 20 2017 02:26:58 GMT+0200 (EET)
+Block error or empty: 1992615
+Mon Nov 20 2017 02:26:58 GMT+0200 (EET)
+Block error or empty: 1992616
+Mon Nov 20 2017 02:26:58 GMT+0200 (EET)
+Block error or empty: 1992618
+Mon Nov 20 2017 02:26:58 GMT+0200 (EET)
+Block error or empty: 1992621
+Mon Nov 20 2017 02:26:58 GMT+0200 (EET)
+Block error or empty: 1992623
+Mon Nov 20 2017 02:26:58 GMT+0200 (EET)
+Block error or empty: 1992624
+Mon Nov 20 2017 02:26:58 GMT+0200 (EET)
+Block error or empty: 1992606
+Mon Nov 20 2017 02:26:58 GMT+0200 (EET)
+Block error or empty: 1992692
+Mon Nov 20 2017 02:26:58 GMT+0200 (EET)
+Block error or empty: 1992662
+Mon Nov 20 2017 02:26:58 GMT+0200 (EET)
+Block error or empty: 1992660
+Mon Nov 20 2017 02:26:58 GMT+0200 (EET)
+Block error or empty: 1992659
+Mon Nov 20 2017 02:26:58 GMT+0200 (EET)
+Block error or empty: 1992674
+Mon Nov 20 2017 02:26:58 GMT+0200 (EET)
+Block error or empty: 1992656
+Mon Nov 20 2017 02:26:58 GMT+0200 (EET)
+Block error or empty: 1992654
+Mon Nov 20 2017 02:26:58 GMT+0200 (EET)
+Block error or empty: 1992689
+Mon Nov 20 2017 02:26:58 GMT+0200 (EET)
+Block error or empty: 1992688
+Mon Nov 20 2017 02:26:58 GMT+0200 (EET)
+Block error or empty: 1992687
+Mon Nov 20 2017 02:26:58 GMT+0200 (EET)
+Block error or empty: 1992650
+Mon Nov 20 2017 02:26:58 GMT+0200 (EET)
+Block error or empty: 1992649
+Mon Nov 20 2017 02:26:58 GMT+0200 (EET)
+Block error or empty: 1992684
+Mon Nov 20 2017 02:26:58 GMT+0200 (EET)
+Block error or empty: 1992682
+Mon Nov 20 2017 02:26:58 GMT+0200 (EET)
+Block error or empty: 1992681
+Mon Nov 20 2017 02:26:58 GMT+0200 (EET)
+Block error or empty: 1992680
+Mon Nov 20 2017 02:26:58 GMT+0200 (EET)
+Block error or empty: 1992678
+Mon Nov 20 2017 02:26:58 GMT+0200 (EET)
+Block error or empty: 1992646
+Mon Nov 20 2017 02:26:58 GMT+0200 (EET)
+Block error or empty: 1992638
+Mon Nov 20 2017 02:26:58 GMT+0200 (EET)
+Block error or empty: 1992641
+Mon Nov 20 2017 02:26:58 GMT+0200 (EET)
+Block error or empty: 1992637
+Mon Nov 20 2017 02:26:58 GMT+0200 (EET)
+Block error or empty: 1992629
+Mon Nov 20 2017 02:26:58 GMT+0200 (EET)
+Block error or empty: 1992628
+Mon Nov 20 2017 02:26:58 GMT+0200 (EET)
+Block error or empty: 1992627
+Mon Nov 20 2017 02:26:58 GMT+0200 (EET)
+Block error or empty: 1992666
+Mon Nov 20 2017 02:26:58 GMT+0200 (EET)
+Block error or empty: 1992635
+Mon Nov 20 2017 02:26:58 GMT+0200 (EET)
+Block error or empty: 1992634
+Mon Nov 20 2017 02:26:58 GMT+0200 (EET)
+Block error or empty: 1992633
+Mon Nov 20 2017 02:26:58 GMT+0200 (EET)
+Block error or empty: 1992663
+Mon Nov 20 2017 02:26:58 GMT+0200 (EET)
+Block error or empty: 1992632
+Mon Nov 20 2017 02:26:58 GMT+0200 (EET)
+Block error or empty: 1992700
+Mon Nov 20 2017 02:26:58 GMT+0200 (EET)
+Block error or empty: 1992696
+Mon Nov 20 2017 02:26:58 GMT+0200 (EET)
+Block error or empty: 1992695
+Mon Nov 20 2017 02:26:59 GMT+0200 (EET)
+Block error or empty: 1992700
+Mon Nov 20 2017 02:26:59 GMT+0200 (EET)
+Block error or empty: 1992704
+Mon Nov 20 2017 02:26:59 GMT+0200 (EET)
+Block error or empty: 1992705
+Mon Nov 20 2017 02:26:59 GMT+0200 (EET)
+Block error or empty: 1992719
+Mon Nov 20 2017 02:26:59 GMT+0200 (EET)
+Block error or empty: 1992721
+Mon Nov 20 2017 02:26:59 GMT+0200 (EET)
+Block error or empty: 1992720
+Mon Nov 20 2017 02:26:59 GMT+0200 (EET)
+Block error or empty: 1992728
+Mon Nov 20 2017 02:26:59 GMT+0200 (EET)
+Block error or empty: 1992718
+Mon Nov 20 2017 02:26:59 GMT+0200 (EET)
+Block error or empty: 1992724
+Mon Nov 20 2017 02:26:59 GMT+0200 (EET)
+Block error or empty: 1992715
+Mon Nov 20 2017 02:26:59 GMT+0200 (EET)
+Block error or empty: 1992712
+Mon Nov 20 2017 02:26:59 GMT+0200 (EET)
+Block error or empty: 1992707
+Mon Nov 20 2017 02:26:59 GMT+0200 (EET)
+Block error or empty: 1992706
+Mon Nov 20 2017 02:26:59 GMT+0200 (EET)
+Block error or empty: 1992774
+Mon Nov 20 2017 02:26:59 GMT+0200 (EET)
+Block error or empty: 1992772
+Mon Nov 20 2017 02:26:59 GMT+0200 (EET)
+Block error or empty: 1992771
+Mon Nov 20 2017 02:26:59 GMT+0200 (EET)
+Block error or empty: 1992770
+Mon Nov 20 2017 02:26:59 GMT+0200 (EET)
+Block error or empty: 1992769
+Mon Nov 20 2017 02:26:59 GMT+0200 (EET)
+Block error or empty: 1992762
+Mon Nov 20 2017 02:26:59 GMT+0200 (EET)
+Block error or empty: 1992765
+Mon Nov 20 2017 02:26:59 GMT+0200 (EET)
+Block error or empty: 1992786
+Mon Nov 20 2017 02:26:59 GMT+0200 (EET)
+Block error or empty: 1992746
+Mon Nov 20 2017 02:26:59 GMT+0200 (EET)
+Block error or empty: 1992759
+Mon Nov 20 2017 02:26:59 GMT+0200 (EET)
+Block error or empty: 1992744
+Mon Nov 20 2017 02:26:59 GMT+0200 (EET)
+Block error or empty: 1992780
+Mon Nov 20 2017 02:26:59 GMT+0200 (EET)
+Block error or empty: 1992779
+Mon Nov 20 2017 02:26:59 GMT+0200 (EET)
+Block error or empty: 1992777
+Mon Nov 20 2017 02:26:59 GMT+0200 (EET)
+Block error or empty: 1992736
+Mon Nov 20 2017 02:26:59 GMT+0200 (EET)
+Block error or empty: 1992739
+Mon Nov 20 2017 02:26:59 GMT+0200 (EET)
+Block error or empty: 1992738
+Mon Nov 20 2017 02:26:59 GMT+0200 (EET)
+Block error or empty: 1992798
+Mon Nov 20 2017 02:26:59 GMT+0200 (EET)
+Block error or empty: 1992734
+Mon Nov 20 2017 02:26:59 GMT+0200 (EET)
+Block error or empty: 1992731
+Mon Nov 20 2017 02:26:59 GMT+0200 (EET)
+Block error or empty: 1992730
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992801
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992802
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992820
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992821
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992822
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992823
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992824
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992825
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992829
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992838
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992840
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992843
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992844
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992846
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992851
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992853
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992854
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992855
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992856
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992857
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992858
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992859
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992860
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992861
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992862
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992864
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992866
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992868
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992869
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992870
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992872
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992873
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992876
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992877
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992879
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992880
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992881
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992882
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992883
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992886
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992887
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992888
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992892
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992893
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992894
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992895
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992896
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992897
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992899
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992847
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992890
+Mon Nov 20 2017 02:27:00 GMT+0200 (EET)
+Block error or empty: 1992900
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992900
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992902
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992904
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992905
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992907
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992910
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992913
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992914
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992915
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992918
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992919
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992922
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992923
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992924
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992927
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992928
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992929
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992931
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992969
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992975
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992976
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992979
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992980
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992981
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992997
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992998
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992995
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992994
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992974
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992993
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992990
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992988
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992954
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992953
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992952
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992951
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992949
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992983
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992948
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992947
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992946
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992945
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992944
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992943
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992963
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992962
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992961
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992940
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992939
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992938
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992936
+Mon Nov 20 2017 02:27:01 GMT+0200 (EET)
+Block error or empty: 1992934
+Mon Nov 20 2017 02:27:02 GMT+0200 (EET)
+Block error or empty: 1993005
+Mon Nov 20 2017 02:27:02 GMT+0200 (EET)
+Block error or empty: 1993007
+Mon Nov 20 2017 02:27:02 GMT+0200 (EET)
+Block error or empty: 1993008
+Mon Nov 20 2017 02:27:02 GMT+0200 (EET)
+Block error or empty: 1993009
+Mon Nov 20 2017 02:27:02 GMT+0200 (EET)
+Block error or empty: 1993011
+Mon Nov 20 2017 02:27:02 GMT+0200 (EET)
+Block error or empty: 1993014
+Mon Nov 20 2017 02:27:02 GMT+0200 (EET)
+Block error or empty: 1993017
+Mon Nov 20 2017 02:27:02 GMT+0200 (EET)
+Block error or empty: 1993018
+Mon Nov 20 2017 02:27:02 GMT+0200 (EET)
+Block error or empty: 1993020
+Mon Nov 20 2017 02:27:02 GMT+0200 (EET)
+Block error or empty: 1993053
+Mon Nov 20 2017 02:27:02 GMT+0200 (EET)
+Block error or empty: 1993062
+Mon Nov 20 2017 02:27:02 GMT+0200 (EET)
+Block error or empty: 1993063
+Mon Nov 20 2017 02:27:02 GMT+0200 (EET)
+Block error or empty: 1993081
+Mon Nov 20 2017 02:27:02 GMT+0200 (EET)
+Block error or empty: 1993061
+Mon Nov 20 2017 02:27:02 GMT+0200 (EET)
+Block error or empty: 1993060
+Mon Nov 20 2017 02:27:02 GMT+0200 (EET)
+Block error or empty: 1993059
+Mon Nov 20 2017 02:27:02 GMT+0200 (EET)
+Block error or empty: 1993049
+Mon Nov 20 2017 02:27:02 GMT+0200 (EET)
+Block error or empty: 1993042
+Mon Nov 20 2017 02:27:02 GMT+0200 (EET)
+Block error or empty: 1993027
+Mon Nov 20 2017 02:27:02 GMT+0200 (EET)
+Block error or empty: 1993040
+Mon Nov 20 2017 02:27:02 GMT+0200 (EET)
+Block error or empty: 1993038
+Mon Nov 20 2017 02:27:02 GMT+0200 (EET)
+Block error or empty: 1993037
+Mon Nov 20 2017 02:27:02 GMT+0200 (EET)
+Block error or empty: 1993022
+Mon Nov 20 2017 02:27:02 GMT+0200 (EET)
+Block error or empty: 1993035
+Mon Nov 20 2017 02:27:02 GMT+0200 (EET)
+Block error or empty: 1993033
+Mon Nov 20 2017 02:27:02 GMT+0200 (EET)
+Block error or empty: 1993075
+Mon Nov 20 2017 02:27:02 GMT+0200 (EET)
+Block error or empty: 1993073
+Mon Nov 20 2017 02:27:02 GMT+0200 (EET)
+Block error or empty: 1993030
+Mon Nov 20 2017 02:27:02 GMT+0200 (EET)
+Block error or empty: 1993028
+Mon Nov 20 2017 02:27:02 GMT+0200 (EET)
+Block error or empty: 1993092
+Mon Nov 20 2017 02:27:02 GMT+0200 (EET)
+Block error or empty: 1993085
+Mon Nov 20 2017 02:27:02 GMT+0200 (EET)
+Block error or empty: 1993086
+Mon Nov 20 2017 02:27:03 GMT+0200 (EET)
+Block error or empty: 1993103
+Mon Nov 20 2017 02:27:03 GMT+0200 (EET)
+Block error or empty: 1993109
+Mon Nov 20 2017 02:27:03 GMT+0200 (EET)
+Block error or empty: 1993111
+Mon Nov 20 2017 02:27:03 GMT+0200 (EET)
+Block error or empty: 1993107
+Mon Nov 20 2017 02:27:03 GMT+0200 (EET)
+Block error or empty: 1993158
+Mon Nov 20 2017 02:27:03 GMT+0200 (EET)
+Block error or empty: 1993155
+Mon Nov 20 2017 02:27:03 GMT+0200 (EET)
+Block error or empty: 1993154
+Mon Nov 20 2017 02:27:03 GMT+0200 (EET)
+Block error or empty: 1993198
+Mon Nov 20 2017 02:27:03 GMT+0200 (EET)
+Block error or empty: 1993144
+Mon Nov 20 2017 02:27:03 GMT+0200 (EET)
+Block error or empty: 1993143
+Mon Nov 20 2017 02:27:03 GMT+0200 (EET)
+Block error or empty: 1993105
+Mon Nov 20 2017 02:27:03 GMT+0200 (EET)
+Block error or empty: 1993141
+Mon Nov 20 2017 02:27:03 GMT+0200 (EET)
+Block error or empty: 1993140
+Mon Nov 20 2017 02:27:03 GMT+0200 (EET)
+Block error or empty: 1993150
+Mon Nov 20 2017 02:27:03 GMT+0200 (EET)
+Block error or empty: 1993149
+Mon Nov 20 2017 02:27:03 GMT+0200 (EET)
+Block error or empty: 1993136
+Mon Nov 20 2017 02:27:03 GMT+0200 (EET)
+Block error or empty: 1993146
+Mon Nov 20 2017 02:27:03 GMT+0200 (EET)
+Block error or empty: 1993163
+Mon Nov 20 2017 02:27:03 GMT+0200 (EET)
+Block error or empty: 1993133
+Mon Nov 20 2017 02:27:03 GMT+0200 (EET)
+Block error or empty: 1993114
+Mon Nov 20 2017 02:27:03 GMT+0200 (EET)
+Block error or empty: 1993182
+Mon Nov 20 2017 02:27:03 GMT+0200 (EET)
+Block error or empty: 1993127
+Mon Nov 20 2017 02:27:03 GMT+0200 (EET)
+Block error or empty: 1993180
+Mon Nov 20 2017 02:27:03 GMT+0200 (EET)
+Block error or empty: 1993179
+Mon Nov 20 2017 02:27:03 GMT+0200 (EET)
+Block error or empty: 1993177
+Mon Nov 20 2017 02:27:03 GMT+0200 (EET)
+Block error or empty: 1993123
+Mon Nov 20 2017 02:27:04 GMT+0200 (EET)
+Block error or empty: 1993273
+Mon Nov 20 2017 02:27:04 GMT+0200 (EET)
+Block error or empty: 1993255
+Mon Nov 20 2017 02:27:04 GMT+0200 (EET)
+Block error or empty: 1993254
+Mon Nov 20 2017 02:27:04 GMT+0200 (EET)
+Block error or empty: 1993272
+Mon Nov 20 2017 02:27:04 GMT+0200 (EET)
+Block error or empty: 1993211
+Mon Nov 20 2017 02:27:04 GMT+0200 (EET)
+Block error or empty: 1993217
+Mon Nov 20 2017 02:27:04 GMT+0200 (EET)
+Block error or empty: 1993216
+Mon Nov 20 2017 02:27:04 GMT+0200 (EET)
+Block error or empty: 1993214
+Mon Nov 20 2017 02:27:04 GMT+0200 (EET)
+Block error or empty: 1993297
+Mon Nov 20 2017 02:27:04 GMT+0200 (EET)
+Block error or empty: 1993263
+Mon Nov 20 2017 02:27:04 GMT+0200 (EET)
+Block error or empty: 1993280
+Mon Nov 20 2017 02:27:04 GMT+0200 (EET)
+Block error or empty: 1993257
+Mon Nov 20 2017 02:27:04 GMT+0200 (EET)
+Block error or empty: 1993293
+Mon Nov 20 2017 02:27:04 GMT+0200 (EET)
+Block error or empty: 1993278
+Mon Nov 20 2017 02:27:05 GMT+0200 (EET)
+Block error or empty: 1993266
+Mon Nov 20 2017 02:27:05 GMT+0200 (EET)
+Block error or empty: 1993361
+Mon Nov 20 2017 02:27:05 GMT+0200 (EET)
+Block error or empty: 1993357
+Mon Nov 20 2017 02:27:05 GMT+0200 (EET)
+Block error or empty: 1993325
+Mon Nov 20 2017 02:27:05 GMT+0200 (EET)
+Block error or empty: 1993352
+Mon Nov 20 2017 02:27:05 GMT+0200 (EET)
+Block error or empty: 1993323
+Mon Nov 20 2017 02:27:06 GMT+0200 (EET)
+Block error or empty: 1993340
+Mon Nov 20 2017 02:27:06 GMT+0200 (EET)
+Block error or empty: 1993338
+Mon Nov 20 2017 02:27:06 GMT+0200 (EET)
+Block error or empty: 1993337
+Mon Nov 20 2017 02:27:06 GMT+0200 (EET)
+Block error or empty: 1993320
+Mon Nov 20 2017 02:27:06 GMT+0200 (EET)
+Block error or empty: 1993385
+Mon Nov 20 2017 02:27:06 GMT+0200 (EET)
+Block error or empty: 1993399
+Mon Nov 20 2017 02:27:06 GMT+0200 (EET)
+Block error or empty: 1993384
+Mon Nov 20 2017 02:27:06 GMT+0200 (EET)
+Block error or empty: 1993380
+Mon Nov 20 2017 02:27:06 GMT+0200 (EET)
+Block error or empty: 1993369
+Mon Nov 20 2017 02:27:06 GMT+0200 (EET)
+Block error or empty: 1993378
+Mon Nov 20 2017 02:27:06 GMT+0200 (EET)
+Block error or empty: 1993387
+Mon Nov 20 2017 02:27:07 GMT+0200 (EET)
+Block error or empty: 1993389
+Mon Nov 20 2017 02:27:07 GMT+0200 (EET)
+Block error or empty: 1993309
+Mon Nov 20 2017 02:27:07 GMT+0200 (EET)
+Block error or empty: 1993390
+Mon Nov 20 2017 02:27:08 GMT+0200 (EET)
+Block error or empty: 1993459
+Mon Nov 20 2017 02:27:08 GMT+0200 (EET)
+Block error or empty: 1993457
+Mon Nov 20 2017 02:27:08 GMT+0200 (EET)
+Block error or empty: 1993456
+Mon Nov 20 2017 02:27:08 GMT+0200 (EET)
+Block error or empty: 1993455
+Mon Nov 20 2017 02:27:08 GMT+0200 (EET)
+Block error or empty: 1993437
+Mon Nov 20 2017 02:27:08 GMT+0200 (EET)
+Block error or empty: 1993448
+Mon Nov 20 2017 02:27:08 GMT+0200 (EET)
+Block error or empty: 1993435
+Mon Nov 20 2017 02:27:08 GMT+0200 (EET)
+Block error or empty: 1993433
+Mon Nov 20 2017 02:27:08 GMT+0200 (EET)
+Block error or empty: 1993409
+Mon Nov 20 2017 02:27:08 GMT+0200 (EET)
+Block error or empty: 1993408
+Mon Nov 20 2017 02:27:08 GMT+0200 (EET)
+Block error or empty: 1993426
+Mon Nov 20 2017 02:27:08 GMT+0200 (EET)
+Block error or empty: 1993528
+Mon Nov 20 2017 02:27:08 GMT+0200 (EET)
+Block error or empty: 1993586
+Mon Nov 20 2017 02:27:08 GMT+0200 (EET)
+Block error or empty: 1993596
+Mon Nov 20 2017 02:27:08 GMT+0200 (EET)
+Block error or empty: 1993593
+Mon Nov 20 2017 02:27:08 GMT+0200 (EET)
+Block error or empty: 1993545
+Mon Nov 20 2017 02:27:08 GMT+0200 (EET)
+Block error or empty: 1993575
+Mon Nov 20 2017 02:27:08 GMT+0200 (EET)
+Block error or empty: 1993570
+Mon Nov 20 2017 02:27:08 GMT+0200 (EET)
+Block error or empty: 1993569
+Mon Nov 20 2017 02:27:08 GMT+0200 (EET)
+Block error or empty: 1993591
+Mon Nov 20 2017 02:27:09 GMT+0200 (EET)
+Block error or empty: 1993581
+Mon Nov 20 2017 02:27:09 GMT+0200 (EET)
+Block error or empty: 1993578
+Mon Nov 20 2017 02:27:09 GMT+0200 (EET)
+Block error or empty: 1993642
+Mon Nov 20 2017 02:27:09 GMT+0200 (EET)
+Block error or empty: 1993643
+Mon Nov 20 2017 02:27:09 GMT+0200 (EET)
+Block error or empty: 1993638
+Mon Nov 20 2017 02:27:09 GMT+0200 (EET)
+Block error or empty: 1993654
+Mon Nov 20 2017 02:27:09 GMT+0200 (EET)
+Block error or empty: 1993692
+Mon Nov 20 2017 02:27:09 GMT+0200 (EET)
+Block error or empty: 1993691
+Mon Nov 20 2017 02:27:09 GMT+0200 (EET)
+Block error or empty: 1993690
+Mon Nov 20 2017 02:27:09 GMT+0200 (EET)
+Block error or empty: 1993683
+Mon Nov 20 2017 02:27:09 GMT+0200 (EET)
+Block error or empty: 1993682
+Mon Nov 20 2017 02:27:09 GMT+0200 (EET)
+Block error or empty: 1993681
+Mon Nov 20 2017 02:27:09 GMT+0200 (EET)
+Block error or empty: 1993699
+Mon Nov 20 2017 02:27:09 GMT+0200 (EET)
+Block error or empty: 1993698
+Mon Nov 20 2017 02:27:09 GMT+0200 (EET)
+Block error or empty: 1993671
+Mon Nov 20 2017 02:27:09 GMT+0200 (EET)
+Block error or empty: 1993697
+Mon Nov 20 2017 02:27:09 GMT+0200 (EET)
+Block error or empty: 1993696
+Mon Nov 20 2017 02:27:09 GMT+0200 (EET)
+Block error or empty: 1993695
+Mon Nov 20 2017 02:27:09 GMT+0200 (EET)
+Block error or empty: 1993694
+Mon Nov 20 2017 02:27:09 GMT+0200 (EET)
+Block error or empty: 1993668
+Mon Nov 20 2017 02:27:09 GMT+0200 (EET)
+Block error or empty: 1993677
+Mon Nov 20 2017 02:27:10 GMT+0200 (EET)
+Block error or empty: 1993701
+Mon Nov 20 2017 02:27:10 GMT+0200 (EET)
+Block error or empty: 1993703
+Mon Nov 20 2017 02:27:10 GMT+0200 (EET)
+Block error or empty: 1993705
+Mon Nov 20 2017 02:27:10 GMT+0200 (EET)
+Block error or empty: 1993707
+Mon Nov 20 2017 02:27:10 GMT+0200 (EET)
+Block error or empty: 1993709
+Mon Nov 20 2017 02:27:10 GMT+0200 (EET)
+Block error or empty: 1993711
+Mon Nov 20 2017 02:27:10 GMT+0200 (EET)
+Block error or empty: 1993713
+Mon Nov 20 2017 02:27:10 GMT+0200 (EET)
+Block error or empty: 1993719
+Mon Nov 20 2017 02:27:10 GMT+0200 (EET)
+Block error or empty: 1993720
+Mon Nov 20 2017 02:27:10 GMT+0200 (EET)
+Block error or empty: 1993722
+Mon Nov 20 2017 02:27:10 GMT+0200 (EET)
+Block error or empty: 1993799
+Mon Nov 20 2017 02:27:10 GMT+0200 (EET)
+Block error or empty: 1993752
+Mon Nov 20 2017 02:27:10 GMT+0200 (EET)
+Block error or empty: 1993751
+Mon Nov 20 2017 02:27:10 GMT+0200 (EET)
+Block error or empty: 1993795
+Mon Nov 20 2017 02:27:10 GMT+0200 (EET)
+Block error or empty: 1993762
+Mon Nov 20 2017 02:27:10 GMT+0200 (EET)
+Block error or empty: 1993761
+Mon Nov 20 2017 02:27:10 GMT+0200 (EET)
+Block error or empty: 1993793
+Mon Nov 20 2017 02:27:10 GMT+0200 (EET)
+Block error or empty: 1993792
+Mon Nov 20 2017 02:27:10 GMT+0200 (EET)
+Block error or empty: 1993749
+Mon Nov 20 2017 02:27:10 GMT+0200 (EET)
+Block error or empty: 1993716
+Mon Nov 20 2017 02:27:10 GMT+0200 (EET)
+Block error or empty: 1993718
+Mon Nov 20 2017 02:27:10 GMT+0200 (EET)
+Block error or empty: 1993746
+Mon Nov 20 2017 02:27:10 GMT+0200 (EET)
+Block error or empty: 1993744
+Mon Nov 20 2017 02:27:10 GMT+0200 (EET)
+Block error or empty: 1993743
+Mon Nov 20 2017 02:27:10 GMT+0200 (EET)
+Block error or empty: 1993742
+Mon Nov 20 2017 02:27:10 GMT+0200 (EET)
+Block error or empty: 1993741
+Mon Nov 20 2017 02:27:10 GMT+0200 (EET)
+Block error or empty: 1993756
+Mon Nov 20 2017 02:27:10 GMT+0200 (EET)
+Block error or empty: 1993755
+Mon Nov 20 2017 02:27:10 GMT+0200 (EET)
+Block error or empty: 1993784
+Mon Nov 20 2017 02:27:10 GMT+0200 (EET)
+Block error or empty: 1993782
+Mon Nov 20 2017 02:27:10 GMT+0200 (EET)
+Block error or empty: 1993780
+Mon Nov 20 2017 02:27:10 GMT+0200 (EET)
+Block error or empty: 1993731
+Mon Nov 20 2017 02:27:10 GMT+0200 (EET)
+Block error or empty: 1993729
+Mon Nov 20 2017 02:27:10 GMT+0200 (EET)
+Block error or empty: 1993739
+Mon Nov 20 2017 02:27:10 GMT+0200 (EET)
+Block error or empty: 1993738
+Mon Nov 20 2017 02:27:10 GMT+0200 (EET)
+Block error or empty: 1993735
+Mon Nov 20 2017 02:27:10 GMT+0200 (EET)
+Block error or empty: 1993726
+Mon Nov 20 2017 02:27:10 GMT+0200 (EET)
+Block error or empty: 1993724
+Mon Nov 20 2017 02:27:10 GMT+0200 (EET)
+Block error or empty: 1993777
+Mon Nov 20 2017 02:27:10 GMT+0200 (EET)
+Block error or empty: 1993776
+Mon Nov 20 2017 02:27:10 GMT+0200 (EET)
+Block error or empty: 1993772
+Mon Nov 20 2017 02:27:10 GMT+0200 (EET)
+Block error or empty: 1993740
+Mon Nov 20 2017 02:27:10 GMT+0200 (EET)
+Block error or empty: 1993770
+Mon Nov 20 2017 02:27:10 GMT+0200 (EET)
+Block error or empty: 1993765
+Mon Nov 20 2017 02:27:11 GMT+0200 (EET)
+Block error or empty: 1993816
+Mon Nov 20 2017 02:27:11 GMT+0200 (EET)
+Block error or empty: 1993818
+Mon Nov 20 2017 02:27:11 GMT+0200 (EET)
+Block error or empty: 1993806
+Mon Nov 20 2017 02:27:11 GMT+0200 (EET)
+Block error or empty: 1993805
+Mon Nov 20 2017 02:27:11 GMT+0200 (EET)
+Block error or empty: 1993803
+Mon Nov 20 2017 02:27:11 GMT+0200 (EET)
+Block error or empty: 1993880
+Mon Nov 20 2017 02:27:11 GMT+0200 (EET)
+Block error or empty: 1993900
+Mon Nov 20 2017 02:27:12 GMT+0200 (EET)
+Block error or empty: 1993899
+Mon Nov 20 2017 02:27:12 GMT+0200 (EET)
+Block error or empty: 1993898
+Mon Nov 20 2017 02:27:12 GMT+0200 (EET)
+Block error or empty: 1993897
+Mon Nov 20 2017 02:27:12 GMT+0200 (EET)
+Block error or empty: 1993866
+Mon Nov 20 2017 02:27:12 GMT+0200 (EET)
+Block error or empty: 1993893
+Mon Nov 20 2017 02:27:12 GMT+0200 (EET)
+Block error or empty: 1993863
+Mon Nov 20 2017 02:27:12 GMT+0200 (EET)
+Block error or empty: 1993862
+Mon Nov 20 2017 02:27:12 GMT+0200 (EET)
+Block error or empty: 1993891
+Mon Nov 20 2017 02:27:12 GMT+0200 (EET)
+Block error or empty: 1993889
+Mon Nov 20 2017 02:27:12 GMT+0200 (EET)
+Block error or empty: 1993888
+Mon Nov 20 2017 02:27:12 GMT+0200 (EET)
+Block error or empty: 1993887
+Mon Nov 20 2017 02:27:12 GMT+0200 (EET)
+Block error or empty: 1993877
+Mon Nov 20 2017 02:27:12 GMT+0200 (EET)
+Block error or empty: 1993876
+Mon Nov 20 2017 02:27:12 GMT+0200 (EET)
+Block error or empty: 1993884
+Mon Nov 20 2017 02:27:12 GMT+0200 (EET)
+Block error or empty: 1993872
+Mon Nov 20 2017 02:27:12 GMT+0200 (EET)
+Block error or empty: 1993850
+Mon Nov 20 2017 02:27:12 GMT+0200 (EET)
+Block error or empty: 1993848
+Mon Nov 20 2017 02:27:12 GMT+0200 (EET)
+Block error or empty: 1993839
+Mon Nov 20 2017 02:27:12 GMT+0200 (EET)
+Block error or empty: 1993858
+Mon Nov 20 2017 02:27:12 GMT+0200 (EET)
+Block error or empty: 1993870
+Mon Nov 20 2017 02:27:12 GMT+0200 (EET)
+Block error or empty: 1993868
+Mon Nov 20 2017 02:27:12 GMT+0200 (EET)
+Block error or empty: 1993832
+Mon Nov 20 2017 02:27:12 GMT+0200 (EET)
+Block error or empty: 1993829
+Mon Nov 20 2017 02:27:12 GMT+0200 (EET)
+Block error or empty: 1993854
+Mon Nov 20 2017 02:27:12 GMT+0200 (EET)
+Block error or empty: 1993853
+Mon Nov 20 2017 02:27:12 GMT+0200 (EET)
+Block error or empty: 1993842
+Mon Nov 20 2017 02:27:12 GMT+0200 (EET)
+Block error or empty: 1993833
+Mon Nov 20 2017 02:27:12 GMT+0200 (EET)
+Block error or empty: 1993871
+Mon Nov 20 2017 02:27:13 GMT+0200 (EET)
+Block error or empty: 1993900
+Mon Nov 20 2017 02:27:13 GMT+0200 (EET)
+Block error or empty: 1993902
+Mon Nov 20 2017 02:27:13 GMT+0200 (EET)
+Block error or empty: 1993903
+Mon Nov 20 2017 02:27:13 GMT+0200 (EET)
+Block error or empty: 1993913
+Mon Nov 20 2017 02:27:13 GMT+0200 (EET)
+Block error or empty: 1993914
+Mon Nov 20 2017 02:27:13 GMT+0200 (EET)
+Block error or empty: 1993915
+Mon Nov 20 2017 02:27:13 GMT+0200 (EET)
+Block error or empty: 1993916
+Mon Nov 20 2017 02:27:13 GMT+0200 (EET)
+Block error or empty: 1993917
+Mon Nov 20 2017 02:27:13 GMT+0200 (EET)
+Block error or empty: 1993919
+Mon Nov 20 2017 02:27:13 GMT+0200 (EET)
+Block error or empty: 1993910
+Mon Nov 20 2017 02:27:13 GMT+0200 (EET)
+Block error or empty: 1993932
+Mon Nov 20 2017 02:27:13 GMT+0200 (EET)
+Block error or empty: 1993930
+Mon Nov 20 2017 02:27:13 GMT+0200 (EET)
+Block error or empty: 1993985
+Mon Nov 20 2017 02:27:13 GMT+0200 (EET)
+Block error or empty: 1993999
+Mon Nov 20 2017 02:27:13 GMT+0200 (EET)
+Block error or empty: 1993982
+Mon Nov 20 2017 02:27:13 GMT+0200 (EET)
+Block error or empty: 1993926
+Mon Nov 20 2017 02:27:13 GMT+0200 (EET)
+Block error or empty: 1993925
+Mon Nov 20 2017 02:27:13 GMT+0200 (EET)
+Block error or empty: 1993971
+Mon Nov 20 2017 02:27:13 GMT+0200 (EET)
+Block error or empty: 1993969
+Mon Nov 20 2017 02:27:13 GMT+0200 (EET)
+Block error or empty: 1993957
+Mon Nov 20 2017 02:27:13 GMT+0200 (EET)
+Block error or empty: 1993955
+Mon Nov 20 2017 02:27:13 GMT+0200 (EET)
+Block error or empty: 1993953
+Mon Nov 20 2017 02:27:13 GMT+0200 (EET)
+Block error or empty: 1993967
+Mon Nov 20 2017 02:27:13 GMT+0200 (EET)
+Block error or empty: 1993966
+Mon Nov 20 2017 02:27:13 GMT+0200 (EET)
+Block error or empty: 1993965
+Mon Nov 20 2017 02:27:13 GMT+0200 (EET)
+Block error or empty: 1993964
+Mon Nov 20 2017 02:27:13 GMT+0200 (EET)
+Block error or empty: 1993976
+Mon Nov 20 2017 02:27:13 GMT+0200 (EET)
+Block error or empty: 1993994
+Mon Nov 20 2017 02:27:13 GMT+0200 (EET)
+Block error or empty: 1993942
+Mon Nov 20 2017 02:27:13 GMT+0200 (EET)
+Block error or empty: 1993901
+Mon Nov 20 2017 02:27:13 GMT+0200 (EET)
+Block error or empty: 1993991
+Mon Nov 20 2017 02:27:14 GMT+0200 (EET)
+Block error or empty: 1993959
+Mon Nov 20 2017 02:27:14 GMT+0200 (EET)
+Block error or empty: 1994028
+Mon Nov 20 2017 02:27:14 GMT+0200 (EET)
+Block error or empty: 1994030
+Mon Nov 20 2017 02:27:14 GMT+0200 (EET)
+Block error or empty: 1994033
+Mon Nov 20 2017 02:27:14 GMT+0200 (EET)
+Block error or empty: 1994036
+Mon Nov 20 2017 02:27:14 GMT+0200 (EET)
+Block error or empty: 1994046
+Mon Nov 20 2017 02:27:14 GMT+0200 (EET)
+Block error or empty: 1994047
+Mon Nov 20 2017 02:27:14 GMT+0200 (EET)
+Block error or empty: 1994048
+Mon Nov 20 2017 02:27:14 GMT+0200 (EET)
+Block error or empty: 1994050
+Mon Nov 20 2017 02:27:14 GMT+0200 (EET)
+Block error or empty: 1994051
+Mon Nov 20 2017 02:27:14 GMT+0200 (EET)
+Block error or empty: 1994052
+Mon Nov 20 2017 02:27:14 GMT+0200 (EET)
+Block error or empty: 1994053
+Mon Nov 20 2017 02:27:14 GMT+0200 (EET)
+Block error or empty: 1994057
+Mon Nov 20 2017 02:27:14 GMT+0200 (EET)
+Block error or empty: 1994066
+Mon Nov 20 2017 02:27:14 GMT+0200 (EET)
+Block error or empty: 1994068
+Mon Nov 20 2017 02:27:14 GMT+0200 (EET)
+Block error or empty: 1994069
+Mon Nov 20 2017 02:27:14 GMT+0200 (EET)
+Block error or empty: 1994070
+Mon Nov 20 2017 02:27:14 GMT+0200 (EET)
+Block error or empty: 1994071
+Mon Nov 20 2017 02:27:14 GMT+0200 (EET)
+Block error or empty: 1994072
+Mon Nov 20 2017 02:27:14 GMT+0200 (EET)
+Block error or empty: 1994085
+Mon Nov 20 2017 02:27:14 GMT+0200 (EET)
+Block error or empty: 1994086
+Mon Nov 20 2017 02:27:14 GMT+0200 (EET)
+Block error or empty: 1994088
+Mon Nov 20 2017 02:27:14 GMT+0200 (EET)
+Block error or empty: 1994093
+Mon Nov 20 2017 02:27:14 GMT+0200 (EET)
+Block error or empty: 1994094
+Mon Nov 20 2017 02:27:14 GMT+0200 (EET)
+Block error or empty: 1994095
+Mon Nov 20 2017 02:27:14 GMT+0200 (EET)
+Block error or empty: 1994096
+Mon Nov 20 2017 02:27:14 GMT+0200 (EET)
+Block error or empty: 1994098
+Mon Nov 20 2017 02:27:14 GMT+0200 (EET)
+Block error or empty: 1994099
+Mon Nov 20 2017 02:27:14 GMT+0200 (EET)
+Block error or empty: 1994080
+Mon Nov 20 2017 02:27:14 GMT+0200 (EET)
+Block error or empty: 1994065
+Mon Nov 20 2017 02:27:14 GMT+0200 (EET)
+Block error or empty: 1994078
+Mon Nov 20 2017 02:27:14 GMT+0200 (EET)
+Block error or empty: 1994076
+Mon Nov 20 2017 02:27:14 GMT+0200 (EET)
+Block error or empty: 1994014
+Mon Nov 20 2017 02:27:14 GMT+0200 (EET)
+Block error or empty: 1994061
+Mon Nov 20 2017 02:27:14 GMT+0200 (EET)
+Block error or empty: 1994008
+Mon Nov 20 2017 02:27:14 GMT+0200 (EET)
+Block error or empty: 1994005
+Mon Nov 20 2017 02:27:14 GMT+0200 (EET)
+Block error or empty: 1994011
+Mon Nov 20 2017 02:27:14 GMT+0200 (EET)
+Block error or empty: 1994059
+Mon Nov 20 2017 02:27:14 GMT+0200 (EET)
+Block error or empty: 1994026
+Mon Nov 20 2017 02:27:14 GMT+0200 (EET)
+Block error or empty: 1994073
+Mon Nov 20 2017 02:27:15 GMT+0200 (EET)
+Block error or empty: 1994103
+Mon Nov 20 2017 02:27:15 GMT+0200 (EET)
+Block error or empty: 1994107
+Mon Nov 20 2017 02:27:15 GMT+0200 (EET)
+Block error or empty: 1994108
+Mon Nov 20 2017 02:27:15 GMT+0200 (EET)
+Block error or empty: 1994118
+Mon Nov 20 2017 02:27:15 GMT+0200 (EET)
+Block error or empty: 1994126
+Mon Nov 20 2017 02:27:15 GMT+0200 (EET)
+Block error or empty: 1994127
+Mon Nov 20 2017 02:27:15 GMT+0200 (EET)
+Block error or empty: 1994128
+Mon Nov 20 2017 02:27:15 GMT+0200 (EET)
+Block error or empty: 1994134
+Mon Nov 20 2017 02:27:15 GMT+0200 (EET)
+Block error or empty: 1994143
+Mon Nov 20 2017 02:27:15 GMT+0200 (EET)
+Block error or empty: 1994146
+Mon Nov 20 2017 02:27:15 GMT+0200 (EET)
+Block error or empty: 1994148
+Mon Nov 20 2017 02:27:15 GMT+0200 (EET)
+Block error or empty: 1994149
+Mon Nov 20 2017 02:27:15 GMT+0200 (EET)
+Block error or empty: 1994151
+Mon Nov 20 2017 02:27:15 GMT+0200 (EET)
+Block error or empty: 1994153
+Mon Nov 20 2017 02:27:15 GMT+0200 (EET)
+Block error or empty: 1994154
+Mon Nov 20 2017 02:27:15 GMT+0200 (EET)
+Block error or empty: 1994155
+Mon Nov 20 2017 02:27:15 GMT+0200 (EET)
+Block error or empty: 1994156
+Mon Nov 20 2017 02:27:15 GMT+0200 (EET)
+Block error or empty: 1994177
+Mon Nov 20 2017 02:27:15 GMT+0200 (EET)
+Block error or empty: 1994179
+Mon Nov 20 2017 02:27:15 GMT+0200 (EET)
+Block error or empty: 1994115
+Mon Nov 20 2017 02:27:15 GMT+0200 (EET)
+Block error or empty: 1994114
+Mon Nov 20 2017 02:27:15 GMT+0200 (EET)
+Block error or empty: 1994175
+Mon Nov 20 2017 02:27:15 GMT+0200 (EET)
+Block error or empty: 1994174
+Mon Nov 20 2017 02:27:15 GMT+0200 (EET)
+Block error or empty: 1994112
+Mon Nov 20 2017 02:27:15 GMT+0200 (EET)
+Block error or empty: 1994111
+Mon Nov 20 2017 02:27:15 GMT+0200 (EET)
+Block error or empty: 1994170
+Mon Nov 20 2017 02:27:15 GMT+0200 (EET)
+Block error or empty: 1994168
+Mon Nov 20 2017 02:27:15 GMT+0200 (EET)
+Block error or empty: 1994166
+Mon Nov 20 2017 02:27:15 GMT+0200 (EET)
+Block error or empty: 1994164
+Mon Nov 20 2017 02:27:15 GMT+0200 (EET)
+Block error or empty: 1994163
+Mon Nov 20 2017 02:27:15 GMT+0200 (EET)
+Block error or empty: 1994182
+Mon Nov 20 2017 02:27:15 GMT+0200 (EET)
+Block error or empty: 1994188
+Mon Nov 20 2017 02:27:15 GMT+0200 (EET)
+Block error or empty: 1994198
+Mon Nov 20 2017 02:27:16 GMT+0200 (EET)
+Block error or empty: 1994203
+Mon Nov 20 2017 02:27:16 GMT+0200 (EET)
+Block error or empty: 1994217
+Mon Nov 20 2017 02:27:16 GMT+0200 (EET)
+Block error or empty: 1994220
+Mon Nov 20 2017 02:27:16 GMT+0200 (EET)
+Block error or empty: 1994214
+Mon Nov 20 2017 02:27:16 GMT+0200 (EET)
+Block error or empty: 1994212
+Mon Nov 20 2017 02:27:16 GMT+0200 (EET)
+Block error or empty: 1994210
+Mon Nov 20 2017 02:27:16 GMT+0200 (EET)
+Block error or empty: 1994292
+Mon Nov 20 2017 02:27:16 GMT+0200 (EET)
+Block error or empty: 1994224
+Mon Nov 20 2017 02:27:16 GMT+0200 (EET)
+Block error or empty: 1994223
+Mon Nov 20 2017 02:27:16 GMT+0200 (EET)
+Block error or empty: 1994222
+Mon Nov 20 2017 02:27:16 GMT+0200 (EET)
+Block error or empty: 1994229
+Mon Nov 20 2017 02:27:16 GMT+0200 (EET)
+Block error or empty: 1994272
+Mon Nov 20 2017 02:27:16 GMT+0200 (EET)
+Block error or empty: 1994261
+Mon Nov 20 2017 02:27:16 GMT+0200 (EET)
+Block error or empty: 1994289
+Mon Nov 20 2017 02:27:16 GMT+0200 (EET)
+Block error or empty: 1994287
+Mon Nov 20 2017 02:27:16 GMT+0200 (EET)
+Block error or empty: 1994249
+Mon Nov 20 2017 02:27:16 GMT+0200 (EET)
+Block error or empty: 1994284
+Mon Nov 20 2017 02:27:16 GMT+0200 (EET)
+Block error or empty: 1994283
+Mon Nov 20 2017 02:27:16 GMT+0200 (EET)
+Block error or empty: 1994279
+Mon Nov 20 2017 02:27:16 GMT+0200 (EET)
+Block error or empty: 1994277
+Mon Nov 20 2017 02:27:16 GMT+0200 (EET)
+Block error or empty: 1994238
+Mon Nov 20 2017 02:27:16 GMT+0200 (EET)
+Block error or empty: 1994299
+Mon Nov 20 2017 02:27:16 GMT+0200 (EET)
+Block error or empty: 1994298
+Mon Nov 20 2017 02:27:16 GMT+0200 (EET)
+Block error or empty: 1994297
+Mon Nov 20 2017 02:27:16 GMT+0200 (EET)
+Block error or empty: 1994276
+Mon Nov 20 2017 02:27:17 GMT+0200 (EET)
+Block error or empty: 1994275
+Mon Nov 20 2017 02:27:17 GMT+0200 (EET)
+Block error or empty: 1994295
+Mon Nov 20 2017 02:27:17 GMT+0200 (EET)
+Block error or empty: 1994294
+Mon Nov 20 2017 02:27:18 GMT+0200 (EET)
+Block error or empty: 1994301
+Mon Nov 20 2017 02:27:18 GMT+0200 (EET)
+Block error or empty: 1994307
+Mon Nov 20 2017 02:27:18 GMT+0200 (EET)
+Block error or empty: 1994375
+Mon Nov 20 2017 02:27:18 GMT+0200 (EET)
+Block error or empty: 1994371
+Mon Nov 20 2017 02:27:18 GMT+0200 (EET)
+Block error or empty: 1994365
+Mon Nov 20 2017 02:27:18 GMT+0200 (EET)
+Block error or empty: 1994349
+Mon Nov 20 2017 02:27:18 GMT+0200 (EET)
+Block error or empty: 1994397
+Mon Nov 20 2017 02:27:18 GMT+0200 (EET)
+Block error or empty: 1994394
+Mon Nov 20 2017 02:27:18 GMT+0200 (EET)
+Block error or empty: 1994392
+Mon Nov 20 2017 02:27:18 GMT+0200 (EET)
+Block error or empty: 1994314
+Mon Nov 20 2017 02:27:18 GMT+0200 (EET)
+Block error or empty: 1994311
+Mon Nov 20 2017 02:27:19 GMT+0200 (EET)
+Block error or empty: 1994403
+Mon Nov 20 2017 02:27:19 GMT+0200 (EET)
+Block error or empty: 1994406
+Mon Nov 20 2017 02:27:19 GMT+0200 (EET)
+Block error or empty: 1994408
+Mon Nov 20 2017 02:27:19 GMT+0200 (EET)
+Block error or empty: 1994441
+Mon Nov 20 2017 02:27:19 GMT+0200 (EET)
+Block error or empty: 1994426
+Mon Nov 20 2017 02:27:19 GMT+0200 (EET)
+Block error or empty: 1994430
+Mon Nov 20 2017 02:27:19 GMT+0200 (EET)
+Block error or empty: 1994494
+Mon Nov 20 2017 02:27:19 GMT+0200 (EET)
+Block error or empty: 1994451
+Mon Nov 20 2017 02:27:19 GMT+0200 (EET)
+Block error or empty: 1994489
+Mon Nov 20 2017 02:27:19 GMT+0200 (EET)
+Block error or empty: 1994446
+Mon Nov 20 2017 02:27:19 GMT+0200 (EET)
+Block error or empty: 1994420
+Mon Nov 20 2017 02:27:19 GMT+0200 (EET)
+Block error or empty: 1994419
+Mon Nov 20 2017 02:27:19 GMT+0200 (EET)
+Block error or empty: 1994417
+Mon Nov 20 2017 02:27:19 GMT+0200 (EET)
+Block error or empty: 1994459
+Mon Nov 20 2017 02:27:19 GMT+0200 (EET)
+Block error or empty: 1994414
+Mon Nov 20 2017 02:27:19 GMT+0200 (EET)
+Block error or empty: 1994413
+Mon Nov 20 2017 02:27:19 GMT+0200 (EET)
+Block error or empty: 1994412
+Mon Nov 20 2017 02:27:19 GMT+0200 (EET)
+Block error or empty: 1994473
+Mon Nov 20 2017 02:27:19 GMT+0200 (EET)
+Block error or empty: 1994499
+Mon Nov 20 2017 02:27:20 GMT+0200 (EET)
+Block error or empty: 1994515
+Mon Nov 20 2017 02:27:20 GMT+0200 (EET)
+Block error or empty: 1994517
+Mon Nov 20 2017 02:27:20 GMT+0200 (EET)
+Block error or empty: 1994519
+Mon Nov 20 2017 02:27:20 GMT+0200 (EET)
+Block error or empty: 1994528
+Mon Nov 20 2017 02:27:20 GMT+0200 (EET)
+Block error or empty: 1994509
+Mon Nov 20 2017 02:27:20 GMT+0200 (EET)
+Block error or empty: 1994507
+Mon Nov 20 2017 02:27:20 GMT+0200 (EET)
+Block error or empty: 1994572
+Mon Nov 20 2017 02:27:20 GMT+0200 (EET)
+Block error or empty: 1994569
+Mon Nov 20 2017 02:27:20 GMT+0200 (EET)
+Block error or empty: 1994568
+Mon Nov 20 2017 02:27:20 GMT+0200 (EET)
+Block error or empty: 1994567
+Mon Nov 20 2017 02:27:20 GMT+0200 (EET)
+Block error or empty: 1994554
+Mon Nov 20 2017 02:27:20 GMT+0200 (EET)
+Block error or empty: 1994566
+Mon Nov 20 2017 02:27:20 GMT+0200 (EET)
+Block error or empty: 1994564
+Mon Nov 20 2017 02:27:20 GMT+0200 (EET)
+Block error or empty: 1994550
+Mon Nov 20 2017 02:27:20 GMT+0200 (EET)
+Block error or empty: 1994547
+Mon Nov 20 2017 02:27:20 GMT+0200 (EET)
+Block error or empty: 1994598
+Mon Nov 20 2017 02:27:20 GMT+0200 (EET)
+Block error or empty: 1994578
+Mon Nov 20 2017 02:27:20 GMT+0200 (EET)
+Block error or empty: 1994577
+Mon Nov 20 2017 02:27:20 GMT+0200 (EET)
+Block error or empty: 1994576
+Mon Nov 20 2017 02:27:20 GMT+0200 (EET)
+Block error or empty: 1994574
+Mon Nov 20 2017 02:27:20 GMT+0200 (EET)
+Block error or empty: 1994573
+Mon Nov 20 2017 02:27:20 GMT+0200 (EET)
+Block error or empty: 1994594
+Mon Nov 20 2017 02:27:20 GMT+0200 (EET)
+Block error or empty: 1994593
+Mon Nov 20 2017 02:27:20 GMT+0200 (EET)
+Block error or empty: 1994544
+Mon Nov 20 2017 02:27:20 GMT+0200 (EET)
+Block error or empty: 1994534
+Mon Nov 20 2017 02:27:20 GMT+0200 (EET)
+Block error or empty: 1994535
+Mon Nov 20 2017 02:27:20 GMT+0200 (EET)
+Block error or empty: 1994533
+Mon Nov 20 2017 02:27:20 GMT+0200 (EET)
+Block error or empty: 1994532
+Mon Nov 20 2017 02:27:20 GMT+0200 (EET)
+Block error or empty: 1994542
+Mon Nov 20 2017 02:27:21 GMT+0200 (EET)
+Block error or empty: 1994590
+Mon Nov 20 2017 02:27:21 GMT+0200 (EET)
+Block error or empty: 1994603
+Mon Nov 20 2017 02:27:21 GMT+0200 (EET)
+Block error or empty: 1994607
+Mon Nov 20 2017 02:27:21 GMT+0200 (EET)
+Block error or empty: 1994609
+Mon Nov 20 2017 02:27:21 GMT+0200 (EET)
+Block error or empty: 1994627
+Mon Nov 20 2017 02:27:21 GMT+0200 (EET)
+Block error or empty: 1994630
+Mon Nov 20 2017 02:27:21 GMT+0200 (EET)
+Block error or empty: 1994635
+Mon Nov 20 2017 02:27:21 GMT+0200 (EET)
+Block error or empty: 1994637
+Mon Nov 20 2017 02:27:21 GMT+0200 (EET)
+Block error or empty: 1994642
+Mon Nov 20 2017 02:27:21 GMT+0200 (EET)
+Block error or empty: 1994645
+Mon Nov 20 2017 02:27:21 GMT+0200 (EET)
+Block error or empty: 1994644
+Mon Nov 20 2017 02:27:21 GMT+0200 (EET)
+Block error or empty: 1994670
+Mon Nov 20 2017 02:27:21 GMT+0200 (EET)
+Block error or empty: 1994682
+Mon Nov 20 2017 02:27:21 GMT+0200 (EET)
+Block error or empty: 1994688
+Mon Nov 20 2017 02:27:21 GMT+0200 (EET)
+Block error or empty: 1994647
+Mon Nov 20 2017 02:27:23 GMT+0200 (EET)
+Block error or empty: 1994703
+Mon Nov 20 2017 02:27:23 GMT+0200 (EET)
+Block error or empty: 1994705
+Mon Nov 20 2017 02:27:23 GMT+0200 (EET)
+Block error or empty: 1994718
+Mon Nov 20 2017 02:27:23 GMT+0200 (EET)
+Block error or empty: 1994715
+Mon Nov 20 2017 02:27:23 GMT+0200 (EET)
+Block error or empty: 1994800
+Mon Nov 20 2017 02:27:23 GMT+0200 (EET)
+Block error or empty: 1994780
+Mon Nov 20 2017 02:27:23 GMT+0200 (EET)
+Block error or empty: 1994779
+Mon Nov 20 2017 02:27:23 GMT+0200 (EET)
+Block error or empty: 1994778
+Mon Nov 20 2017 02:27:23 GMT+0200 (EET)
+Block error or empty: 1994777
+Mon Nov 20 2017 02:27:23 GMT+0200 (EET)
+Block error or empty: 1994776
+Mon Nov 20 2017 02:27:23 GMT+0200 (EET)
+Block error or empty: 1994730
+Mon Nov 20 2017 02:27:23 GMT+0200 (EET)
+Block error or empty: 1994724
+Mon Nov 20 2017 02:27:23 GMT+0200 (EET)
+Block error or empty: 1994755
+Mon Nov 20 2017 02:27:23 GMT+0200 (EET)
+Block error or empty: 1994754
+Mon Nov 20 2017 02:27:23 GMT+0200 (EET)
+Block error or empty: 1994773
+Mon Nov 20 2017 02:27:23 GMT+0200 (EET)
+Block error or empty: 1994727
+Mon Nov 20 2017 02:27:23 GMT+0200 (EET)
+Block error or empty: 1994774
+Mon Nov 20 2017 02:27:23 GMT+0200 (EET)
+Block error or empty: 1994723
+Mon Nov 20 2017 02:27:23 GMT+0200 (EET)
+Block error or empty: 1994770
+Mon Nov 20 2017 02:27:23 GMT+0200 (EET)
+Block error or empty: 1994768
+Mon Nov 20 2017 02:27:23 GMT+0200 (EET)
+Block error or empty: 1994725
+Mon Nov 20 2017 02:27:23 GMT+0200 (EET)
+Block error or empty: 1994748
+Mon Nov 20 2017 02:27:23 GMT+0200 (EET)
+Block error or empty: 1994740
+Mon Nov 20 2017 02:27:23 GMT+0200 (EET)
+Block error or empty: 1994744
+Mon Nov 20 2017 02:27:23 GMT+0200 (EET)
+Block error or empty: 1994743
+Mon Nov 20 2017 02:27:23 GMT+0200 (EET)
+Block error or empty: 1994785
+Mon Nov 20 2017 02:27:23 GMT+0200 (EET)
+Block error or empty: 1994784
+Mon Nov 20 2017 02:27:24 GMT+0200 (EET)
+Block error or empty: 1994737
+Mon Nov 20 2017 02:27:24 GMT+0200 (EET)
+Block error or empty: 1994760
+Mon Nov 20 2017 02:27:24 GMT+0200 (EET)
+Block error or empty: 1994736
+Mon Nov 20 2017 02:27:24 GMT+0200 (EET)
+Block error or empty: 1994800
+Mon Nov 20 2017 02:27:24 GMT+0200 (EET)
+Block error or empty: 1994802
+Mon Nov 20 2017 02:27:24 GMT+0200 (EET)
+Block error or empty: 1994808
+Mon Nov 20 2017 02:27:24 GMT+0200 (EET)
+Block error or empty: 1994810
+Mon Nov 20 2017 02:27:24 GMT+0200 (EET)
+Block error or empty: 1994819
+Mon Nov 20 2017 02:27:24 GMT+0200 (EET)
+Block error or empty: 1994868
+Mon Nov 20 2017 02:27:24 GMT+0200 (EET)
+Block error or empty: 1994873
+Mon Nov 20 2017 02:27:24 GMT+0200 (EET)
+Block error or empty: 1994874
+Mon Nov 20 2017 02:27:24 GMT+0200 (EET)
+Block error or empty: 1994875
+Mon Nov 20 2017 02:27:24 GMT+0200 (EET)
+Block error or empty: 1994876
+Mon Nov 20 2017 02:27:24 GMT+0200 (EET)
+Block error or empty: 1994877
+Mon Nov 20 2017 02:27:24 GMT+0200 (EET)
+Block error or empty: 1994865
+Mon Nov 20 2017 02:27:24 GMT+0200 (EET)
+Block error or empty: 1994854
+Mon Nov 20 2017 02:27:24 GMT+0200 (EET)
+Block error or empty: 1994887
+Mon Nov 20 2017 02:27:24 GMT+0200 (EET)
+Block error or empty: 1994889
+Mon Nov 20 2017 02:27:24 GMT+0200 (EET)
+Block error or empty: 1994836
+Mon Nov 20 2017 02:27:24 GMT+0200 (EET)
+Block error or empty: 1994832
+Mon Nov 20 2017 02:27:24 GMT+0200 (EET)
+Block error or empty: 1994881
+Mon Nov 20 2017 02:27:24 GMT+0200 (EET)
+Block error or empty: 1994880
+Mon Nov 20 2017 02:27:24 GMT+0200 (EET)
+Block error or empty: 1994890
+Mon Nov 20 2017 02:27:24 GMT+0200 (EET)
+Block error or empty: 1994827
+Mon Nov 20 2017 02:27:24 GMT+0200 (EET)
+Block error or empty: 1994879
+Mon Nov 20 2017 02:27:24 GMT+0200 (EET)
+Block error or empty: 1994823
+Mon Nov 20 2017 02:27:24 GMT+0200 (EET)
+Block error or empty: 1994821
+Mon Nov 20 2017 02:27:25 GMT+0200 (EET)
+Block error or empty: 1994912
+Mon Nov 20 2017 02:27:25 GMT+0200 (EET)
+Block error or empty: 1994924
+Mon Nov 20 2017 02:27:25 GMT+0200 (EET)
+Block error or empty: 1994904
+Mon Nov 20 2017 02:27:25 GMT+0200 (EET)
+Block error or empty: 1994984
+Mon Nov 20 2017 02:27:25 GMT+0200 (EET)
+Block error or empty: 1994955
+Mon Nov 20 2017 02:27:25 GMT+0200 (EET)
+Block error or empty: 1994996
+Mon Nov 20 2017 02:27:25 GMT+0200 (EET)
+Block error or empty: 1994994
+Mon Nov 20 2017 02:27:25 GMT+0200 (EET)
+Block error or empty: 1994961
+Mon Nov 20 2017 02:27:25 GMT+0200 (EET)
+Block error or empty: 1994947
+Mon Nov 20 2017 02:27:25 GMT+0200 (EET)
+Block error or empty: 1994945
+Mon Nov 20 2017 02:27:25 GMT+0200 (EET)
+Block error or empty: 1994943
+Mon Nov 20 2017 02:27:25 GMT+0200 (EET)
+Block error or empty: 1994941
+Mon Nov 20 2017 02:27:25 GMT+0200 (EET)
+Block error or empty: 1994974
+Mon Nov 20 2017 02:27:26 GMT+0200 (EET)
+Block error or empty: 1995002
+Mon Nov 20 2017 02:27:26 GMT+0200 (EET)
+Block error or empty: 1995005
+Mon Nov 20 2017 02:27:26 GMT+0200 (EET)
+Block error or empty: 1995009
+Mon Nov 20 2017 02:27:26 GMT+0200 (EET)
+Block error or empty: 1995095
+Mon Nov 20 2017 02:27:26 GMT+0200 (EET)
+Block error or empty: 1995018
+Mon Nov 20 2017 02:27:26 GMT+0200 (EET)
+Block error or empty: 1995056
+Mon Nov 20 2017 02:27:26 GMT+0200 (EET)
+Block error or empty: 1995015
+Mon Nov 20 2017 02:27:26 GMT+0200 (EET)
+Block error or empty: 1995017
+Mon Nov 20 2017 02:27:26 GMT+0200 (EET)
+Block error or empty: 1995016
+Mon Nov 20 2017 02:27:26 GMT+0200 (EET)
+Block error or empty: 1995079
+Mon Nov 20 2017 02:27:26 GMT+0200 (EET)
+Block error or empty: 1995083
+Mon Nov 20 2017 02:27:26 GMT+0200 (EET)
+Block error or empty: 1995075
+Mon Nov 20 2017 02:27:26 GMT+0200 (EET)
+Block error or empty: 1995054
+Mon Nov 20 2017 02:27:26 GMT+0200 (EET)
+Block error or empty: 1995053
+Mon Nov 20 2017 02:27:26 GMT+0200 (EET)
+Block error or empty: 1995087
+Mon Nov 20 2017 02:27:26 GMT+0200 (EET)
+Block error or empty: 1995088
+Mon Nov 20 2017 02:27:26 GMT+0200 (EET)
+Block error or empty: 1995093
+Mon Nov 20 2017 02:27:26 GMT+0200 (EET)
+Block error or empty: 1995052
+Mon Nov 20 2017 02:27:26 GMT+0200 (EET)
+Block error or empty: 1995051
+Mon Nov 20 2017 02:27:26 GMT+0200 (EET)
+Block error or empty: 1995085
+Mon Nov 20 2017 02:27:26 GMT+0200 (EET)
+Block error or empty: 1995049
+Mon Nov 20 2017 02:27:26 GMT+0200 (EET)
+Block error or empty: 1995050
+Mon Nov 20 2017 02:27:27 GMT+0200 (EET)
+Block error or empty: 1995064
+Mon Nov 20 2017 02:27:27 GMT+0200 (EET)
+Block error or empty: 1995036
+Mon Nov 20 2017 02:27:27 GMT+0200 (EET)
+Block error or empty: 1995034
+Mon Nov 20 2017 02:27:27 GMT+0200 (EET)
+Block error or empty: 1995033
+Mon Nov 20 2017 02:27:27 GMT+0200 (EET)
+Block error or empty: 1995032
+Mon Nov 20 2017 02:27:27 GMT+0200 (EET)
+Block error or empty: 1995045
+Mon Nov 20 2017 02:27:27 GMT+0200 (EET)
+Block error or empty: 1995044
+Mon Nov 20 2017 02:27:27 GMT+0200 (EET)
+Block error or empty: 1995029
+Mon Nov 20 2017 02:27:27 GMT+0200 (EET)
+Block error or empty: 1995043
+Mon Nov 20 2017 02:27:27 GMT+0200 (EET)
+Block error or empty: 1995028
+Mon Nov 20 2017 02:27:27 GMT+0200 (EET)
+Block error or empty: 1995038
+Mon Nov 20 2017 02:27:27 GMT+0200 (EET)
+Block error or empty: 1995048
+Mon Nov 20 2017 02:27:27 GMT+0200 (EET)
+Block error or empty: 1995047
+Mon Nov 20 2017 02:27:27 GMT+0200 (EET)
+Block error or empty: 1995024
+Mon Nov 20 2017 02:27:27 GMT+0200 (EET)
+Block error or empty: 1995023
+Mon Nov 20 2017 02:27:27 GMT+0200 (EET)
+Block error or empty: 1995022
+Mon Nov 20 2017 02:27:27 GMT+0200 (EET)
+Block error or empty: 1995130
+Mon Nov 20 2017 02:27:27 GMT+0200 (EET)
+Block error or empty: 1995135
+Mon Nov 20 2017 02:27:27 GMT+0200 (EET)
+Block error or empty: 1995143
+Mon Nov 20 2017 02:27:27 GMT+0200 (EET)
+Block error or empty: 1995144
+Mon Nov 20 2017 02:27:27 GMT+0200 (EET)
+Block error or empty: 1995163
+Mon Nov 20 2017 02:27:27 GMT+0200 (EET)
+Block error or empty: 1995154
+Mon Nov 20 2017 02:27:27 GMT+0200 (EET)
+Block error or empty: 1995125
+Mon Nov 20 2017 02:27:27 GMT+0200 (EET)
+Block error or empty: 1995133
+Mon Nov 20 2017 02:27:27 GMT+0200 (EET)
+Block error or empty: 1995194
+Mon Nov 20 2017 02:27:27 GMT+0200 (EET)
+Block error or empty: 1995190
+Mon Nov 20 2017 02:27:27 GMT+0200 (EET)
+Block error or empty: 1995186
+Mon Nov 20 2017 02:27:27 GMT+0200 (EET)
+Block error or empty: 1995165
+Mon Nov 20 2017 02:27:27 GMT+0200 (EET)
+Block error or empty: 1995164
+Mon Nov 20 2017 02:27:27 GMT+0200 (EET)
+Block error or empty: 1995199
+Mon Nov 20 2017 02:27:27 GMT+0200 (EET)
+Block error or empty: 1995198
+Mon Nov 20 2017 02:27:27 GMT+0200 (EET)
+Block error or empty: 1995197
+Mon Nov 20 2017 02:27:27 GMT+0200 (EET)
+Block error or empty: 1995196
+Mon Nov 20 2017 02:27:27 GMT+0200 (EET)
+Block error or empty: 1995115
+Mon Nov 20 2017 02:27:28 GMT+0200 (EET)
+Block error or empty: 1995202
+Mon Nov 20 2017 02:27:28 GMT+0200 (EET)
+Block error or empty: 1995207
+Mon Nov 20 2017 02:27:28 GMT+0200 (EET)
+Block error or empty: 1995208
+Mon Nov 20 2017 02:27:28 GMT+0200 (EET)
+Block error or empty: 1995209
+Mon Nov 20 2017 02:27:28 GMT+0200 (EET)
+Block error or empty: 1995210
+Mon Nov 20 2017 02:27:28 GMT+0200 (EET)
+Block error or empty: 1995215
+Mon Nov 20 2017 02:27:28 GMT+0200 (EET)
+Block error or empty: 1995300
+Mon Nov 20 2017 02:27:28 GMT+0200 (EET)
+Block error or empty: 1995263
+Mon Nov 20 2017 02:27:28 GMT+0200 (EET)
+Block error or empty: 1995261
+Mon Nov 20 2017 02:27:28 GMT+0200 (EET)
+Block error or empty: 1995295
+Mon Nov 20 2017 02:27:28 GMT+0200 (EET)
+Block error or empty: 1995294
+Mon Nov 20 2017 02:27:28 GMT+0200 (EET)
+Block error or empty: 1995288
+Mon Nov 20 2017 02:27:28 GMT+0200 (EET)
+Block error or empty: 1995283
+Mon Nov 20 2017 02:27:28 GMT+0200 (EET)
+Block error or empty: 1995282
+Mon Nov 20 2017 02:27:28 GMT+0200 (EET)
+Block error or empty: 1995286
+Mon Nov 20 2017 02:27:28 GMT+0200 (EET)
+Block error or empty: 1995279
+Mon Nov 20 2017 02:27:28 GMT+0200 (EET)
+Block error or empty: 1995278
+Mon Nov 20 2017 02:27:28 GMT+0200 (EET)
+Block error or empty: 1995276
+Mon Nov 20 2017 02:27:28 GMT+0200 (EET)
+Block error or empty: 1995271
+Mon Nov 20 2017 02:27:28 GMT+0200 (EET)
+Block error or empty: 1995270
+Mon Nov 20 2017 02:27:28 GMT+0200 (EET)
+Block error or empty: 1995229
+Mon Nov 20 2017 02:27:28 GMT+0200 (EET)
+Block error or empty: 1995228
+Mon Nov 20 2017 02:27:28 GMT+0200 (EET)
+Block error or empty: 1995226
+Mon Nov 20 2017 02:27:28 GMT+0200 (EET)
+Block error or empty: 1995250
+Mon Nov 20 2017 02:27:28 GMT+0200 (EET)
+Block error or empty: 1995249
+Mon Nov 20 2017 02:27:28 GMT+0200 (EET)
+Block error or empty: 1995220
+Mon Nov 20 2017 02:27:28 GMT+0200 (EET)
+Block error or empty: 1995218
+Mon Nov 20 2017 02:27:29 GMT+0200 (EET)
+Block error or empty: 1995236
+Mon Nov 20 2017 02:27:29 GMT+0200 (EET)
+Block error or empty: 1995221
+Mon Nov 20 2017 02:27:29 GMT+0200 (EET)
+Block error or empty: 1995244
+Mon Nov 20 2017 02:27:29 GMT+0200 (EET)
+Block error or empty: 1995230
+Mon Nov 20 2017 02:27:29 GMT+0200 (EET)
+Block error or empty: 1995300
+Mon Nov 20 2017 02:27:29 GMT+0200 (EET)
+Block error or empty: 1995301
+Mon Nov 20 2017 02:27:29 GMT+0200 (EET)
+Block error or empty: 1995304
+Mon Nov 20 2017 02:27:29 GMT+0200 (EET)
+Block error or empty: 1995305
+Mon Nov 20 2017 02:27:29 GMT+0200 (EET)
+Block error or empty: 1995307
+Mon Nov 20 2017 02:27:29 GMT+0200 (EET)
+Block error or empty: 1995310
+Mon Nov 20 2017 02:27:29 GMT+0200 (EET)
+Block error or empty: 1995312
+Mon Nov 20 2017 02:27:29 GMT+0200 (EET)
+Block error or empty: 1995315
+Mon Nov 20 2017 02:27:29 GMT+0200 (EET)
+Block error or empty: 1995360
+Mon Nov 20 2017 02:27:29 GMT+0200 (EET)
+Block error or empty: 1995373
+Mon Nov 20 2017 02:27:29 GMT+0200 (EET)
+Block error or empty: 1995374
+Mon Nov 20 2017 02:27:29 GMT+0200 (EET)
+Block error or empty: 1995377
+Mon Nov 20 2017 02:27:29 GMT+0200 (EET)
+Block error or empty: 1995387
+Mon Nov 20 2017 02:27:29 GMT+0200 (EET)
+Block error or empty: 1995392
+Mon Nov 20 2017 02:27:29 GMT+0200 (EET)
+Block error or empty: 1995396
+Mon Nov 20 2017 02:27:29 GMT+0200 (EET)
+Block error or empty: 1995399
+Mon Nov 20 2017 02:27:29 GMT+0200 (EET)
+Block error or empty: 1995354
+Mon Nov 20 2017 02:27:29 GMT+0200 (EET)
+Block error or empty: 1995382
+Mon Nov 20 2017 02:27:29 GMT+0200 (EET)
+Block error or empty: 1995352
+Mon Nov 20 2017 02:27:29 GMT+0200 (EET)
+Block error or empty: 1995376
+Mon Nov 20 2017 02:27:29 GMT+0200 (EET)
+Block error or empty: 1995379
+Mon Nov 20 2017 02:27:29 GMT+0200 (EET)
+Block error or empty: 1995351
+Mon Nov 20 2017 02:27:29 GMT+0200 (EET)
+Block error or empty: 1995334
+Mon Nov 20 2017 02:27:29 GMT+0200 (EET)
+Block error or empty: 1995332
+Mon Nov 20 2017 02:27:30 GMT+0200 (EET)
+Block error or empty: 1995331
+Mon Nov 20 2017 02:27:30 GMT+0200 (EET)
+Block error or empty: 1995361
+Mon Nov 20 2017 02:27:30 GMT+0200 (EET)
+Block error or empty: 1995321
+Mon Nov 20 2017 02:27:30 GMT+0200 (EET)
+Block error or empty: 1995323
+Mon Nov 20 2017 02:27:31 GMT+0200 (EET)
+Block error or empty: 1995411
+Mon Nov 20 2017 02:27:31 GMT+0200 (EET)
+Block error or empty: 1995412
+Mon Nov 20 2017 02:27:31 GMT+0200 (EET)
+Block error or empty: 1995413
+Mon Nov 20 2017 02:27:31 GMT+0200 (EET)
+Block error or empty: 1995414
+Mon Nov 20 2017 02:27:31 GMT+0200 (EET)
+Block error or empty: 1995415
+Mon Nov 20 2017 02:27:31 GMT+0200 (EET)
+Block error or empty: 1995476
+Mon Nov 20 2017 02:27:31 GMT+0200 (EET)
+Block error or empty: 1995492
+Mon Nov 20 2017 02:27:31 GMT+0200 (EET)
+Block error or empty: 1995490
+Mon Nov 20 2017 02:27:31 GMT+0200 (EET)
+Block error or empty: 1995488
+Mon Nov 20 2017 02:27:31 GMT+0200 (EET)
+Block error or empty: 1995484
+Mon Nov 20 2017 02:27:31 GMT+0200 (EET)
+Block error or empty: 1995483
+Mon Nov 20 2017 02:27:31 GMT+0200 (EET)
+Block error or empty: 1995473
+Mon Nov 20 2017 02:27:31 GMT+0200 (EET)
+Block error or empty: 1995472
+Mon Nov 20 2017 02:27:31 GMT+0200 (EET)
+Block error or empty: 1995480
+Mon Nov 20 2017 02:27:31 GMT+0200 (EET)
+Block error or empty: 1995479
+Mon Nov 20 2017 02:27:31 GMT+0200 (EET)
+Block error or empty: 1995460
+Mon Nov 20 2017 02:27:31 GMT+0200 (EET)
+Block error or empty: 1995459
+Mon Nov 20 2017 02:27:31 GMT+0200 (EET)
+Block error or empty: 1995458
+Mon Nov 20 2017 02:27:31 GMT+0200 (EET)
+Block error or empty: 1995457
+Mon Nov 20 2017 02:27:31 GMT+0200 (EET)
+Block error or empty: 1995469
+Mon Nov 20 2017 02:27:31 GMT+0200 (EET)
+Block error or empty: 1995456
+Mon Nov 20 2017 02:27:31 GMT+0200 (EET)
+Block error or empty: 1995455
+Mon Nov 20 2017 02:27:31 GMT+0200 (EET)
+Block error or empty: 1995454
+Mon Nov 20 2017 02:27:31 GMT+0200 (EET)
+Block error or empty: 1995453
+Mon Nov 20 2017 02:27:31 GMT+0200 (EET)
+Block error or empty: 1995440
+Mon Nov 20 2017 02:27:31 GMT+0200 (EET)
+Block error or empty: 1995464
+Mon Nov 20 2017 02:27:31 GMT+0200 (EET)
+Block error or empty: 1995439
+Mon Nov 20 2017 02:27:31 GMT+0200 (EET)
+Block error or empty: 1995437
+Mon Nov 20 2017 02:27:31 GMT+0200 (EET)
+Block error or empty: 1995436
+Mon Nov 20 2017 02:27:32 GMT+0200 (EET)
+Block error or empty: 1995434
+Mon Nov 20 2017 02:27:32 GMT+0200 (EET)
+Block error or empty: 1995433
+Mon Nov 20 2017 02:27:32 GMT+0200 (EET)
+Block error or empty: 1995432
+Mon Nov 20 2017 02:27:32 GMT+0200 (EET)
+Block error or empty: 1995420
+Mon Nov 20 2017 02:27:32 GMT+0200 (EET)
+Block error or empty: 1995418
+Mon Nov 20 2017 02:27:32 GMT+0200 (EET)
+Block error or empty: 1995417
+Mon Nov 20 2017 02:27:32 GMT+0200 (EET)
+Block error or empty: 1995430
+Mon Nov 20 2017 02:27:32 GMT+0200 (EET)
+Block error or empty: 1995429
+Mon Nov 20 2017 02:27:32 GMT+0200 (EET)
+Block error or empty: 1995428
+Mon Nov 20 2017 02:27:32 GMT+0200 (EET)
+Block error or empty: 1995451
+Mon Nov 20 2017 02:27:32 GMT+0200 (EET)
+Block error or empty: 1995449
+Mon Nov 20 2017 02:27:32 GMT+0200 (EET)
+Block error or empty: 1995426
+Mon Nov 20 2017 02:27:32 GMT+0200 (EET)
+Block error or empty: 1995446
+Mon Nov 20 2017 02:27:32 GMT+0200 (EET)
+Block error or empty: 1995507
+Mon Nov 20 2017 02:27:32 GMT+0200 (EET)
+Block error or empty: 1995509
+Mon Nov 20 2017 02:27:32 GMT+0200 (EET)
+Block error or empty: 1995516
+Mon Nov 20 2017 02:27:32 GMT+0200 (EET)
+Block error or empty: 1995600
+Mon Nov 20 2017 02:27:32 GMT+0200 (EET)
+Block error or empty: 1995596
+Mon Nov 20 2017 02:27:32 GMT+0200 (EET)
+Block error or empty: 1995597
+Mon Nov 20 2017 02:27:32 GMT+0200 (EET)
+Block error or empty: 1995595
+Mon Nov 20 2017 02:27:32 GMT+0200 (EET)
+Block error or empty: 1995582
+Mon Nov 20 2017 02:27:32 GMT+0200 (EET)
+Block error or empty: 1995594
+Mon Nov 20 2017 02:27:32 GMT+0200 (EET)
+Block error or empty: 1995593
+Mon Nov 20 2017 02:27:32 GMT+0200 (EET)
+Block error or empty: 1995576
+Mon Nov 20 2017 02:27:32 GMT+0200 (EET)
+Block error or empty: 1995565
+Mon Nov 20 2017 02:27:32 GMT+0200 (EET)
+Block error or empty: 1995563
+Mon Nov 20 2017 02:27:32 GMT+0200 (EET)
+Block error or empty: 1995562
+Mon Nov 20 2017 02:27:32 GMT+0200 (EET)
+Block error or empty: 1995590
+Mon Nov 20 2017 02:27:32 GMT+0200 (EET)
+Block error or empty: 1995560
+Mon Nov 20 2017 02:27:32 GMT+0200 (EET)
+Block error or empty: 1995573
+Mon Nov 20 2017 02:27:32 GMT+0200 (EET)
+Block error or empty: 1995559
+Mon Nov 20 2017 02:27:32 GMT+0200 (EET)
+Block error or empty: 1995572
+Mon Nov 20 2017 02:27:32 GMT+0200 (EET)
+Block error or empty: 1995571
+Mon Nov 20 2017 02:27:32 GMT+0200 (EET)
+Block error or empty: 1995556
+Mon Nov 20 2017 02:27:32 GMT+0200 (EET)
+Block error or empty: 1995587
+Mon Nov 20 2017 02:27:32 GMT+0200 (EET)
+Block error or empty: 1995585
+Mon Nov 20 2017 02:27:32 GMT+0200 (EET)
+Block error or empty: 1995554
+Mon Nov 20 2017 02:27:32 GMT+0200 (EET)
+Block error or empty: 1995570
+Mon Nov 20 2017 02:27:32 GMT+0200 (EET)
+Block error or empty: 1995553
+Mon Nov 20 2017 02:27:32 GMT+0200 (EET)
+Block error or empty: 1995569
+Mon Nov 20 2017 02:27:32 GMT+0200 (EET)
+Block error or empty: 1995583
+Mon Nov 20 2017 02:27:32 GMT+0200 (EET)
+Block error or empty: 1995528
+Mon Nov 20 2017 02:27:32 GMT+0200 (EET)
+Block error or empty: 1995527
+Mon Nov 20 2017 02:27:32 GMT+0200 (EET)
+Block error or empty: 1995526
+Mon Nov 20 2017 02:27:32 GMT+0200 (EET)
+Block error or empty: 1995525
+Mon Nov 20 2017 02:27:32 GMT+0200 (EET)
+Block error or empty: 1995524
+Mon Nov 20 2017 02:27:32 GMT+0200 (EET)
+Block error or empty: 1995550
+Mon Nov 20 2017 02:27:32 GMT+0200 (EET)
+Block error or empty: 1995522
+Mon Nov 20 2017 02:27:32 GMT+0200 (EET)
+Block error or empty: 1995520
+Mon Nov 20 2017 02:27:32 GMT+0200 (EET)
+Block error or empty: 1995547
+Mon Nov 20 2017 02:27:33 GMT+0200 (EET)
+Block error or empty: 1995537
+Mon Nov 20 2017 02:27:33 GMT+0200 (EET)
+Block error or empty: 1995534
+Mon Nov 20 2017 02:27:33 GMT+0200 (EET)
+Block error or empty: 1995533
+Mon Nov 20 2017 02:27:33 GMT+0200 (EET)
+Block error or empty: 1995532
+Mon Nov 20 2017 02:27:33 GMT+0200 (EET)
+Block error or empty: 1995529
+Mon Nov 20 2017 02:27:33 GMT+0200 (EET)
+Block error or empty: 1995531
+Mon Nov 20 2017 02:27:33 GMT+0200 (EET)
+Block error or empty: 1995600
+Mon Nov 20 2017 02:27:33 GMT+0200 (EET)
+Block error or empty: 1995601
+Mon Nov 20 2017 02:27:33 GMT+0200 (EET)
+Block error or empty: 1995602
+Mon Nov 20 2017 02:27:33 GMT+0200 (EET)
+Block error or empty: 1995603
+Mon Nov 20 2017 02:27:33 GMT+0200 (EET)
+Block error or empty: 1995605
+Mon Nov 20 2017 02:27:33 GMT+0200 (EET)
+Block error or empty: 1995607
+Mon Nov 20 2017 02:27:33 GMT+0200 (EET)
+Block error or empty: 1995608
+Mon Nov 20 2017 02:27:33 GMT+0200 (EET)
+Block error or empty: 1995609
+Mon Nov 20 2017 02:27:33 GMT+0200 (EET)
+Block error or empty: 1995610
+Mon Nov 20 2017 02:27:33 GMT+0200 (EET)
+Block error or empty: 1995611
+Mon Nov 20 2017 02:27:33 GMT+0200 (EET)
+Block error or empty: 1995612
+Mon Nov 20 2017 02:27:33 GMT+0200 (EET)
+Block error or empty: 1995613
+Mon Nov 20 2017 02:27:33 GMT+0200 (EET)
+Block error or empty: 1995615
+Mon Nov 20 2017 02:27:33 GMT+0200 (EET)
+Block error or empty: 1995616
+Mon Nov 20 2017 02:27:33 GMT+0200 (EET)
+Block error or empty: 1995617
+Mon Nov 20 2017 02:27:33 GMT+0200 (EET)
+Block error or empty: 1995618
+Mon Nov 20 2017 02:27:33 GMT+0200 (EET)
+Block error or empty: 1995619
+Mon Nov 20 2017 02:27:33 GMT+0200 (EET)
+Block error or empty: 1995620
+Mon Nov 20 2017 02:27:33 GMT+0200 (EET)
+Block error or empty: 1995622
+Mon Nov 20 2017 02:27:33 GMT+0200 (EET)
+Block error or empty: 1995624
+Mon Nov 20 2017 02:27:33 GMT+0200 (EET)
+Block error or empty: 1995629
+Mon Nov 20 2017 02:27:33 GMT+0200 (EET)
+Block error or empty: 1995631
+Mon Nov 20 2017 02:27:33 GMT+0200 (EET)
+Block error or empty: 1995663
+Mon Nov 20 2017 02:27:33 GMT+0200 (EET)
+Block error or empty: 1995688
+Mon Nov 20 2017 02:27:33 GMT+0200 (EET)
+Block error or empty: 1995700
+Mon Nov 20 2017 02:27:33 GMT+0200 (EET)
+Block error or empty: 1995671
+Mon Nov 20 2017 02:27:33 GMT+0200 (EET)
+Block error or empty: 1995670
+Mon Nov 20 2017 02:27:33 GMT+0200 (EET)
+Block error or empty: 1995698
+Mon Nov 20 2017 02:27:33 GMT+0200 (EET)
+Block error or empty: 1995654
+Mon Nov 20 2017 02:27:33 GMT+0200 (EET)
+Block error or empty: 1995686
+Mon Nov 20 2017 02:27:33 GMT+0200 (EET)
+Block error or empty: 1995694
+Mon Nov 20 2017 02:27:33 GMT+0200 (EET)
+Block error or empty: 1995681
+Mon Nov 20 2017 02:27:33 GMT+0200 (EET)
+Block error or empty: 1995680
+Mon Nov 20 2017 02:27:33 GMT+0200 (EET)
+Block error or empty: 1995679
+Mon Nov 20 2017 02:27:33 GMT+0200 (EET)
+Block error or empty: 1995678
+Mon Nov 20 2017 02:27:33 GMT+0200 (EET)
+Block error or empty: 1995692
+Mon Nov 20 2017 02:27:34 GMT+0200 (EET)
+Block error or empty: 1995653
+Mon Nov 20 2017 02:27:34 GMT+0200 (EET)
+Block error or empty: 1995690
+Mon Nov 20 2017 02:27:34 GMT+0200 (EET)
+Block error or empty: 1995639
+Mon Nov 20 2017 02:27:34 GMT+0200 (EET)
+Block error or empty: 1995638
+Mon Nov 20 2017 02:27:34 GMT+0200 (EET)
+Block error or empty: 1995637
+Mon Nov 20 2017 02:27:34 GMT+0200 (EET)
+Block error or empty: 1995676
+Mon Nov 20 2017 02:27:34 GMT+0200 (EET)
+Block error or empty: 1995675
+Mon Nov 20 2017 02:27:34 GMT+0200 (EET)
+Block error or empty: 1995651
+Mon Nov 20 2017 02:27:34 GMT+0200 (EET)
+Block error or empty: 1995635
+Mon Nov 20 2017 02:27:34 GMT+0200 (EET)
+Block error or empty: 1995649
+Mon Nov 20 2017 02:27:34 GMT+0200 (EET)
+Block error or empty: 1995648
+Mon Nov 20 2017 02:27:34 GMT+0200 (EET)
+Block error or empty: 1995647
+Mon Nov 20 2017 02:27:34 GMT+0200 (EET)
+Block error or empty: 1995642
+Mon Nov 20 2017 02:27:34 GMT+0200 (EET)
+Block error or empty: 1995640
+Mon Nov 20 2017 02:27:34 GMT+0200 (EET)
+Block error or empty: 1995650
+Mon Nov 20 2017 02:27:34 GMT+0200 (EET)
+Block error or empty: 1995641
+Mon Nov 20 2017 02:27:34 GMT+0200 (EET)
+Block error or empty: 1995700
+Mon Nov 20 2017 02:27:34 GMT+0200 (EET)
+Block error or empty: 1995706
+Mon Nov 20 2017 02:27:34 GMT+0200 (EET)
+Block error or empty: 1995707
+Mon Nov 20 2017 02:27:34 GMT+0200 (EET)
+Block error or empty: 1995795
+Mon Nov 20 2017 02:27:34 GMT+0200 (EET)
+Block error or empty: 1995755
+Mon Nov 20 2017 02:27:34 GMT+0200 (EET)
+Block error or empty: 1995771
+Mon Nov 20 2017 02:27:34 GMT+0200 (EET)
+Block error or empty: 1995769
+Mon Nov 20 2017 02:27:34 GMT+0200 (EET)
+Block error or empty: 1995752
+Mon Nov 20 2017 02:27:34 GMT+0200 (EET)
+Block error or empty: 1995764
+Mon Nov 20 2017 02:27:34 GMT+0200 (EET)
+Block error or empty: 1995746
+Mon Nov 20 2017 02:27:34 GMT+0200 (EET)
+Block error or empty: 1995745
+Mon Nov 20 2017 02:27:34 GMT+0200 (EET)
+Block error or empty: 1995744
+Mon Nov 20 2017 02:27:34 GMT+0200 (EET)
+Block error or empty: 1995743
+Mon Nov 20 2017 02:27:34 GMT+0200 (EET)
+Block error or empty: 1995759
+Mon Nov 20 2017 02:27:34 GMT+0200 (EET)
+Block error or empty: 1995739
+Mon Nov 20 2017 02:27:34 GMT+0200 (EET)
+Block error or empty: 1995740
+Mon Nov 20 2017 02:27:34 GMT+0200 (EET)
+Block error or empty: 1995732
+Mon Nov 20 2017 02:27:34 GMT+0200 (EET)
+Block error or empty: 1995731
+Mon Nov 20 2017 02:27:34 GMT+0200 (EET)
+Block error or empty: 1995730
+Mon Nov 20 2017 02:27:34 GMT+0200 (EET)
+Block error or empty: 1995729
+Mon Nov 20 2017 02:27:34 GMT+0200 (EET)
+Block error or empty: 1995719
+Mon Nov 20 2017 02:27:36 GMT+0200 (EET)
+Block error or empty: 1995717
+Mon Nov 20 2017 02:27:36 GMT+0200 (EET)
+Block error or empty: 1995716
+Mon Nov 20 2017 02:27:36 GMT+0200 (EET)
+Block error or empty: 1995712
+Mon Nov 20 2017 02:27:36 GMT+0200 (EET)
+Block error or empty: 1995711
+Mon Nov 20 2017 02:27:36 GMT+0200 (EET)
+Block error or empty: 1995709
+Mon Nov 20 2017 02:27:36 GMT+0200 (EET)
+Block error or empty: 1995723
+Mon Nov 20 2017 02:27:36 GMT+0200 (EET)
+Block error or empty: 1995704
+Mon Nov 20 2017 02:27:36 GMT+0200 (EET)
+Block error or empty: 1995728
+Mon Nov 20 2017 02:27:36 GMT+0200 (EET)
+Block error or empty: 1995805
+Mon Nov 20 2017 02:27:36 GMT+0200 (EET)
+Block error or empty: 1995839
+Mon Nov 20 2017 02:27:36 GMT+0200 (EET)
+Block error or empty: 1995860
+Mon Nov 20 2017 02:27:36 GMT+0200 (EET)
+Block error or empty: 1995832
+Mon Nov 20 2017 02:27:36 GMT+0200 (EET)
+Block error or empty: 1995831
+Mon Nov 20 2017 02:27:36 GMT+0200 (EET)
+Block error or empty: 1995827
+Mon Nov 20 2017 02:27:36 GMT+0200 (EET)
+Block error or empty: 1995825
+Mon Nov 20 2017 02:27:36 GMT+0200 (EET)
+Block error or empty: 1995819
+Mon Nov 20 2017 02:27:36 GMT+0200 (EET)
+Block error or empty: 1995817
+Mon Nov 20 2017 02:27:36 GMT+0200 (EET)
+Block error or empty: 1995820
+Mon Nov 20 2017 02:27:36 GMT+0200 (EET)
+Block error or empty: 1995816
+Mon Nov 20 2017 02:27:36 GMT+0200 (EET)
+Block error or empty: 1995818
+Mon Nov 20 2017 02:27:36 GMT+0200 (EET)
+Block error or empty: 1995821
+Mon Nov 20 2017 02:27:36 GMT+0200 (EET)
+Block error or empty: 1995813
+Mon Nov 20 2017 02:27:36 GMT+0200 (EET)
+Block error or empty: 1995898
+Mon Nov 20 2017 02:27:36 GMT+0200 (EET)
+Block error or empty: 1995897
+Mon Nov 20 2017 02:27:36 GMT+0200 (EET)
+Block error or empty: 1995887
+Mon Nov 20 2017 02:27:36 GMT+0200 (EET)
+Block error or empty: 1995894
+Mon Nov 20 2017 02:27:36 GMT+0200 (EET)
+Block error or empty: 1995893
+Mon Nov 20 2017 02:27:36 GMT+0200 (EET)
+Block error or empty: 1995883
+Mon Nov 20 2017 02:27:36 GMT+0200 (EET)
+Block error or empty: 1995891
+Mon Nov 20 2017 02:27:36 GMT+0200 (EET)
+Block error or empty: 1995885
+Mon Nov 20 2017 02:27:36 GMT+0200 (EET)
+Block error or empty: 1995881
+Mon Nov 20 2017 02:27:36 GMT+0200 (EET)
+Block error or empty: 1995880
+Mon Nov 20 2017 02:27:36 GMT+0200 (EET)
+Block error or empty: 1995879
+Mon Nov 20 2017 02:27:36 GMT+0200 (EET)
+Block error or empty: 1995873
+Mon Nov 20 2017 02:27:36 GMT+0200 (EET)
+Block error or empty: 1995867
+Mon Nov 20 2017 02:27:36 GMT+0200 (EET)
+Block error or empty: 1995847
+Mon Nov 20 2017 02:27:37 GMT+0200 (EET)
+Block error or empty: 1995901
+Mon Nov 20 2017 02:27:37 GMT+0200 (EET)
+Block error or empty: 1995903
+Mon Nov 20 2017 02:27:37 GMT+0200 (EET)
+Block error or empty: 1995908
+Mon Nov 20 2017 02:27:37 GMT+0200 (EET)
+Block error or empty: 1995942
+Mon Nov 20 2017 02:27:37 GMT+0200 (EET)
+Block error or empty: 1995954
+Mon Nov 20 2017 02:27:37 GMT+0200 (EET)
+Block error or empty: 1995956
+Mon Nov 20 2017 02:27:37 GMT+0200 (EET)
+Block error or empty: 1995950
+Mon Nov 20 2017 02:27:37 GMT+0200 (EET)
+Block error or empty: 1995927
+Mon Nov 20 2017 02:27:37 GMT+0200 (EET)
+Block error or empty: 1995931
+Mon Nov 20 2017 02:27:37 GMT+0200 (EET)
+Block error or empty: 1995938
+Mon Nov 20 2017 02:27:37 GMT+0200 (EET)
+Block error or empty: 1995925
+Mon Nov 20 2017 02:27:37 GMT+0200 (EET)
+Block error or empty: 1995936
+Mon Nov 20 2017 02:27:37 GMT+0200 (EET)
+Block error or empty: 1995981
+Mon Nov 20 2017 02:27:37 GMT+0200 (EET)
+Block error or empty: 1995989
+Mon Nov 20 2017 02:27:37 GMT+0200 (EET)
+Block error or empty: 1995961
+Mon Nov 20 2017 02:27:37 GMT+0200 (EET)
+Block error or empty: 1995973
+Mon Nov 20 2017 02:27:37 GMT+0200 (EET)
+Block error or empty: 1995959
+Mon Nov 20 2017 02:27:37 GMT+0200 (EET)
+Block error or empty: 1995958
+Mon Nov 20 2017 02:27:37 GMT+0200 (EET)
+Block error or empty: 1995969
+Mon Nov 20 2017 02:27:37 GMT+0200 (EET)
+Block error or empty: 1995918
+Mon Nov 20 2017 02:27:37 GMT+0200 (EET)
+Block error or empty: 1995916
+Mon Nov 20 2017 02:27:37 GMT+0200 (EET)
+Block error or empty: 1995963
+Mon Nov 20 2017 02:27:38 GMT+0200 (EET)
+Block error or empty: 1996003
+Mon Nov 20 2017 02:27:38 GMT+0200 (EET)
+Block error or empty: 1996004
+Mon Nov 20 2017 02:27:38 GMT+0200 (EET)
+Block error or empty: 1996005
+Mon Nov 20 2017 02:27:38 GMT+0200 (EET)
+Block error or empty: 1996007
+Mon Nov 20 2017 02:27:38 GMT+0200 (EET)
+Block error or empty: 1996010
+Mon Nov 20 2017 02:27:38 GMT+0200 (EET)
+Block error or empty: 1996011
+Mon Nov 20 2017 02:27:38 GMT+0200 (EET)
+Block error or empty: 1996017
+Mon Nov 20 2017 02:27:38 GMT+0200 (EET)
+Block error or empty: 1996019
+Mon Nov 20 2017 02:27:38 GMT+0200 (EET)
+Block error or empty: 1996023
+Mon Nov 20 2017 02:27:38 GMT+0200 (EET)
+Block error or empty: 1996029
+Mon Nov 20 2017 02:27:38 GMT+0200 (EET)
+Block error or empty: 1996033
+Mon Nov 20 2017 02:27:38 GMT+0200 (EET)
+Block error or empty: 1996038
+Mon Nov 20 2017 02:27:38 GMT+0200 (EET)
+Block error or empty: 1996034
+Mon Nov 20 2017 02:27:38 GMT+0200 (EET)
+Block error or empty: 1996099
+Mon Nov 20 2017 02:27:38 GMT+0200 (EET)
+Block error or empty: 1996071
+Mon Nov 20 2017 02:27:38 GMT+0200 (EET)
+Block error or empty: 1996056
+Mon Nov 20 2017 02:27:38 GMT+0200 (EET)
+Block error or empty: 1996061
+Mon Nov 20 2017 02:27:38 GMT+0200 (EET)
+Block error or empty: 1996082
+Mon Nov 20 2017 02:27:38 GMT+0200 (EET)
+Block error or empty: 1996060
+Mon Nov 20 2017 02:27:38 GMT+0200 (EET)
+Block error or empty: 1996059
+Mon Nov 20 2017 02:27:38 GMT+0200 (EET)
+Block error or empty: 1996057
+Mon Nov 20 2017 02:27:38 GMT+0200 (EET)
+Block error or empty: 1996080
+Mon Nov 20 2017 02:27:38 GMT+0200 (EET)
+Block error or empty: 1996051
+Mon Nov 20 2017 02:27:39 GMT+0200 (EET)
+Block error or empty: 1996106
+Mon Nov 20 2017 02:27:39 GMT+0200 (EET)
+Block error or empty: 1996142
+Mon Nov 20 2017 02:27:39 GMT+0200 (EET)
+Block error or empty: 1996144
+Mon Nov 20 2017 02:27:39 GMT+0200 (EET)
+Block error or empty: 1996145
+Mon Nov 20 2017 02:27:39 GMT+0200 (EET)
+Block error or empty: 1996157
+Mon Nov 20 2017 02:27:39 GMT+0200 (EET)
+Block error or empty: 1996159
+Mon Nov 20 2017 02:27:39 GMT+0200 (EET)
+Block error or empty: 1996173
+Mon Nov 20 2017 02:27:39 GMT+0200 (EET)
+Block error or empty: 1996138
+Mon Nov 20 2017 02:27:39 GMT+0200 (EET)
+Block error or empty: 1996137
+Mon Nov 20 2017 02:27:39 GMT+0200 (EET)
+Block error or empty: 1996135
+Mon Nov 20 2017 02:27:39 GMT+0200 (EET)
+Block error or empty: 1996170
+Mon Nov 20 2017 02:27:39 GMT+0200 (EET)
+Block error or empty: 1996136
+Mon Nov 20 2017 02:27:39 GMT+0200 (EET)
+Block error or empty: 1996169
+Mon Nov 20 2017 02:27:39 GMT+0200 (EET)
+Block error or empty: 1996168
+Mon Nov 20 2017 02:27:39 GMT+0200 (EET)
+Block error or empty: 1996167
+Mon Nov 20 2017 02:27:39 GMT+0200 (EET)
+Block error or empty: 1996165
+Mon Nov 20 2017 02:27:39 GMT+0200 (EET)
+Block error or empty: 1996131
+Mon Nov 20 2017 02:27:39 GMT+0200 (EET)
+Block error or empty: 1996153
+Mon Nov 20 2017 02:27:39 GMT+0200 (EET)
+Block error or empty: 1996163
+Mon Nov 20 2017 02:27:39 GMT+0200 (EET)
+Block error or empty: 1996147
+Mon Nov 20 2017 02:27:39 GMT+0200 (EET)
+Block error or empty: 1996112
+Mon Nov 20 2017 02:27:39 GMT+0200 (EET)
+Block error or empty: 1996111
+Mon Nov 20 2017 02:27:39 GMT+0200 (EET)
+Block error or empty: 1996110
+Mon Nov 20 2017 02:27:39 GMT+0200 (EET)
+Block error or empty: 1996123
+Mon Nov 20 2017 02:27:39 GMT+0200 (EET)
+Block error or empty: 1996122
+Mon Nov 20 2017 02:27:39 GMT+0200 (EET)
+Block error or empty: 1996121
+Mon Nov 20 2017 02:27:39 GMT+0200 (EET)
+Block error or empty: 1996120
+Mon Nov 20 2017 02:27:39 GMT+0200 (EET)
+Block error or empty: 1996119
+Mon Nov 20 2017 02:27:39 GMT+0200 (EET)
+Block error or empty: 1996118
+Mon Nov 20 2017 02:27:39 GMT+0200 (EET)
+Block error or empty: 1996117
+Mon Nov 20 2017 02:27:39 GMT+0200 (EET)
+Block error or empty: 1996127
+Mon Nov 20 2017 02:27:39 GMT+0200 (EET)
+Block error or empty: 1996197
+Mon Nov 20 2017 02:27:39 GMT+0200 (EET)
+Block error or empty: 1996186
+Mon Nov 20 2017 02:27:39 GMT+0200 (EET)
+Block error or empty: 1996185
+Mon Nov 20 2017 02:27:39 GMT+0200 (EET)
+Block error or empty: 1996184
+Mon Nov 20 2017 02:27:39 GMT+0200 (EET)
+Block error or empty: 1996182
+Mon Nov 20 2017 02:27:39 GMT+0200 (EET)
+Block error or empty: 1996181
+Mon Nov 20 2017 02:27:39 GMT+0200 (EET)
+Block error or empty: 1996189
+Mon Nov 20 2017 02:27:39 GMT+0200 (EET)
+Block error or empty: 1996188
+Mon Nov 20 2017 02:27:39 GMT+0200 (EET)
+Block error or empty: 1996115
+Mon Nov 20 2017 02:27:39 GMT+0200 (EET)
+Block error or empty: 1996190
+Mon Nov 20 2017 02:27:40 GMT+0200 (EET)
+Block error or empty: 1996201
+Mon Nov 20 2017 02:27:40 GMT+0200 (EET)
+Block error or empty: 1996202
+Mon Nov 20 2017 02:27:40 GMT+0200 (EET)
+Block error or empty: 1996203
+Mon Nov 20 2017 02:27:40 GMT+0200 (EET)
+Block error or empty: 1996218
+Mon Nov 20 2017 02:27:40 GMT+0200 (EET)
+Block error or empty: 1996220
+Mon Nov 20 2017 02:27:40 GMT+0200 (EET)
+Block error or empty: 1996238
+Mon Nov 20 2017 02:27:40 GMT+0200 (EET)
+Block error or empty: 1996244
+Mon Nov 20 2017 02:27:40 GMT+0200 (EET)
+Block error or empty: 1996217
+Mon Nov 20 2017 02:27:40 GMT+0200 (EET)
+Block error or empty: 1996229
+Mon Nov 20 2017 02:27:40 GMT+0200 (EET)
+Block error or empty: 1996228
+Mon Nov 20 2017 02:27:40 GMT+0200 (EET)
+Block error or empty: 1996294
+Mon Nov 20 2017 02:27:40 GMT+0200 (EET)
+Block error or empty: 1996212
+Mon Nov 20 2017 02:27:40 GMT+0200 (EET)
+Block error or empty: 1996211
+Mon Nov 20 2017 02:27:40 GMT+0200 (EET)
+Block error or empty: 1996290
+Mon Nov 20 2017 02:27:40 GMT+0200 (EET)
+Block error or empty: 1996288
+Mon Nov 20 2017 02:27:40 GMT+0200 (EET)
+Block error or empty: 1996208
+Mon Nov 20 2017 02:27:41 GMT+0200 (EET)
+Block error or empty: 1996221
+Mon Nov 20 2017 02:27:41 GMT+0200 (EET)
+Block error or empty: 1996266
+Mon Nov 20 2017 02:27:41 GMT+0200 (EET)
+Block error or empty: 1996264
+Mon Nov 20 2017 02:27:41 GMT+0200 (EET)
+Block error or empty: 1996258
+Mon Nov 20 2017 02:27:41 GMT+0200 (EET)
+Block error or empty: 1996260
+Mon Nov 20 2017 02:27:42 GMT+0200 (EET)
+Block error or empty: 1996309
+Mon Nov 20 2017 02:27:42 GMT+0200 (EET)
+Block error or empty: 1996313
+Mon Nov 20 2017 02:27:42 GMT+0200 (EET)
+Block error or empty: 1996315
+Mon Nov 20 2017 02:27:42 GMT+0200 (EET)
+Block error or empty: 1996323
+Mon Nov 20 2017 02:27:42 GMT+0200 (EET)
+Block error or empty: 1996325
+Mon Nov 20 2017 02:27:42 GMT+0200 (EET)
+Block error or empty: 1996333
+Mon Nov 20 2017 02:27:42 GMT+0200 (EET)
+Block error or empty: 1996367
+Mon Nov 20 2017 02:27:42 GMT+0200 (EET)
+Block error or empty: 1996380
+Mon Nov 20 2017 02:27:42 GMT+0200 (EET)
+Block error or empty: 1996391
+Mon Nov 20 2017 02:27:42 GMT+0200 (EET)
+Block error or empty: 1996395
+Mon Nov 20 2017 02:27:42 GMT+0200 (EET)
+Block error or empty: 1996396
+Mon Nov 20 2017 02:27:42 GMT+0200 (EET)
+Block error or empty: 1996397
+Mon Nov 20 2017 02:27:42 GMT+0200 (EET)
+Block error or empty: 1996399
+Mon Nov 20 2017 02:27:42 GMT+0200 (EET)
+Block error or empty: 1996376
+Mon Nov 20 2017 02:27:42 GMT+0200 (EET)
+Block error or empty: 1996375
+Mon Nov 20 2017 02:27:42 GMT+0200 (EET)
+Block error or empty: 1996350
+Mon Nov 20 2017 02:27:42 GMT+0200 (EET)
+Block error or empty: 1996373
+Mon Nov 20 2017 02:27:42 GMT+0200 (EET)
+Block error or empty: 1996357
+Mon Nov 20 2017 02:27:42 GMT+0200 (EET)
+Block error or empty: 1996388
+Mon Nov 20 2017 02:27:42 GMT+0200 (EET)
+Block error or empty: 1996361
+Mon Nov 20 2017 02:27:42 GMT+0200 (EET)
+Block error or empty: 1996371
+Mon Nov 20 2017 02:27:42 GMT+0200 (EET)
+Block error or empty: 1996359
+Mon Nov 20 2017 02:27:42 GMT+0200 (EET)
+Block error or empty: 1996354
+Mon Nov 20 2017 02:27:42 GMT+0200 (EET)
+Block error or empty: 1996351
+Mon Nov 20 2017 02:27:42 GMT+0200 (EET)
+Block error or empty: 1996349
+Mon Nov 20 2017 02:27:42 GMT+0200 (EET)
+Block error or empty: 1996343
+Mon Nov 20 2017 02:27:42 GMT+0200 (EET)
+Block error or empty: 1996344
+Mon Nov 20 2017 02:27:42 GMT+0200 (EET)
+Block error or empty: 1996341
+Mon Nov 20 2017 02:27:42 GMT+0200 (EET)
+Block error or empty: 1996335
+Mon Nov 20 2017 02:27:42 GMT+0200 (EET)
+Block error or empty: 1996390
+Mon Nov 20 2017 02:27:43 GMT+0200 (EET)
+Block error or empty: 1996406
+Mon Nov 20 2017 02:27:43 GMT+0200 (EET)
+Block error or empty: 1996402
+Mon Nov 20 2017 02:27:43 GMT+0200 (EET)
+Block error or empty: 1996401
+Mon Nov 20 2017 02:27:43 GMT+0200 (EET)
+Block error or empty: 1996476
+Mon Nov 20 2017 02:27:43 GMT+0200 (EET)
+Block error or empty: 1996474
+Mon Nov 20 2017 02:27:43 GMT+0200 (EET)
+Block error or empty: 1996473
+Mon Nov 20 2017 02:27:43 GMT+0200 (EET)
+Block error or empty: 1996457
+Mon Nov 20 2017 02:27:43 GMT+0200 (EET)
+Block error or empty: 1996456
+Mon Nov 20 2017 02:27:43 GMT+0200 (EET)
+Block error or empty: 1996470
+Mon Nov 20 2017 02:27:43 GMT+0200 (EET)
+Block error or empty: 1996468
+Mon Nov 20 2017 02:27:43 GMT+0200 (EET)
+Block error or empty: 1996466
+Mon Nov 20 2017 02:27:43 GMT+0200 (EET)
+Block error or empty: 1996453
+Mon Nov 20 2017 02:27:43 GMT+0200 (EET)
+Block error or empty: 1996452
+Mon Nov 20 2017 02:27:43 GMT+0200 (EET)
+Block error or empty: 1996451
+Mon Nov 20 2017 02:27:43 GMT+0200 (EET)
+Block error or empty: 1996450
+Mon Nov 20 2017 02:27:43 GMT+0200 (EET)
+Block error or empty: 1996449
+Mon Nov 20 2017 02:27:43 GMT+0200 (EET)
+Block error or empty: 1996461
+Mon Nov 20 2017 02:27:43 GMT+0200 (EET)
+Block error or empty: 1996447
+Mon Nov 20 2017 02:27:43 GMT+0200 (EET)
+Block error or empty: 1996498
+Mon Nov 20 2017 02:27:43 GMT+0200 (EET)
+Block error or empty: 1996445
+Mon Nov 20 2017 02:27:43 GMT+0200 (EET)
+Block error or empty: 1996460
+Mon Nov 20 2017 02:27:43 GMT+0200 (EET)
+Block error or empty: 1996444
+Mon Nov 20 2017 02:27:43 GMT+0200 (EET)
+Block error or empty: 1996495
+Mon Nov 20 2017 02:27:43 GMT+0200 (EET)
+Block error or empty: 1996442
+Mon Nov 20 2017 02:27:43 GMT+0200 (EET)
+Block error or empty: 1996421
+Mon Nov 20 2017 02:27:43 GMT+0200 (EET)
+Block error or empty: 1996413
+Mon Nov 20 2017 02:27:43 GMT+0200 (EET)
+Block error or empty: 1996493
+Mon Nov 20 2017 02:27:43 GMT+0200 (EET)
+Block error or empty: 1996492
+Mon Nov 20 2017 02:27:43 GMT+0200 (EET)
+Block error or empty: 1996491
+Mon Nov 20 2017 02:27:43 GMT+0200 (EET)
+Block error or empty: 1996419
+Mon Nov 20 2017 02:27:43 GMT+0200 (EET)
+Block error or empty: 1996440
+Mon Nov 20 2017 02:27:43 GMT+0200 (EET)
+Block error or empty: 1996439
+Mon Nov 20 2017 02:27:43 GMT+0200 (EET)
+Block error or empty: 1996438
+Mon Nov 20 2017 02:27:43 GMT+0200 (EET)
+Block error or empty: 1996485
+Mon Nov 20 2017 02:27:43 GMT+0200 (EET)
+Block error or empty: 1996484
+Mon Nov 20 2017 02:27:43 GMT+0200 (EET)
+Block error or empty: 1996483
+Mon Nov 20 2017 02:27:43 GMT+0200 (EET)
+Block error or empty: 1996482
+Mon Nov 20 2017 02:27:43 GMT+0200 (EET)
+Block error or empty: 1996481
+Mon Nov 20 2017 02:27:43 GMT+0200 (EET)
+Block error or empty: 1996412
+Mon Nov 20 2017 02:27:43 GMT+0200 (EET)
+Block error or empty: 1996411
+Mon Nov 20 2017 02:27:43 GMT+0200 (EET)
+Block error or empty: 1996410
+Mon Nov 20 2017 02:27:43 GMT+0200 (EET)
+Block error or empty: 1996434
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996433
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996499
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996479
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996478
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996416
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996425
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996424
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996423
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996501
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996504
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996534
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996542
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996544
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996531
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996556
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996530
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996529
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996528
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996527
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996535
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996518
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996517
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996516
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996512
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996515
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996514
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996553
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996510
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996509
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996508
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996524
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996523
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996600
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996522
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996520
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996519
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996589
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996588
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996597
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996587
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996586
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996585
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996584
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996583
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996582
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996581
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996577
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996574
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996595
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996594
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996593
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996591
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996590
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996570
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996596
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996550
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996549
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996566
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996579
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996546
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996561
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996563
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996560
+Mon Nov 20 2017 02:27:44 GMT+0200 (EET)
+Block error or empty: 1996525
+Mon Nov 20 2017 02:27:46 GMT+0200 (EET)
+Block error or empty: 1996609
+Mon Nov 20 2017 02:27:46 GMT+0200 (EET)
+Block error or empty: 1996699
+Mon Nov 20 2017 02:27:46 GMT+0200 (EET)
+Block error or empty: 1996697
+Mon Nov 20 2017 02:27:46 GMT+0200 (EET)
+Block error or empty: 1996695
+Mon Nov 20 2017 02:27:46 GMT+0200 (EET)
+Block error or empty: 1996693
+Mon Nov 20 2017 02:27:46 GMT+0200 (EET)
+Block error or empty: 1996692
+Mon Nov 20 2017 02:27:46 GMT+0200 (EET)
+Block error or empty: 1996689
+Mon Nov 20 2017 02:27:46 GMT+0200 (EET)
+Block error or empty: 1996659
+Mon Nov 20 2017 02:27:46 GMT+0200 (EET)
+Block error or empty: 1996658
+Mon Nov 20 2017 02:27:46 GMT+0200 (EET)
+Block error or empty: 1996687
+Mon Nov 20 2017 02:27:46 GMT+0200 (EET)
+Block error or empty: 1996686
+Mon Nov 20 2017 02:27:46 GMT+0200 (EET)
+Block error or empty: 1996685
+Mon Nov 20 2017 02:27:46 GMT+0200 (EET)
+Block error or empty: 1996644
+Mon Nov 20 2017 02:27:46 GMT+0200 (EET)
+Block error or empty: 1996684
+Mon Nov 20 2017 02:27:46 GMT+0200 (EET)
+Block error or empty: 1996683
+Mon Nov 20 2017 02:27:46 GMT+0200 (EET)
+Block error or empty: 1996682
+Mon Nov 20 2017 02:27:46 GMT+0200 (EET)
+Block error or empty: 1996641
+Mon Nov 20 2017 02:27:46 GMT+0200 (EET)
+Block error or empty: 1996654
+Mon Nov 20 2017 02:27:46 GMT+0200 (EET)
+Block error or empty: 1996652
+Mon Nov 20 2017 02:27:46 GMT+0200 (EET)
+Block error or empty: 1996634
+Mon Nov 20 2017 02:27:46 GMT+0200 (EET)
+Block error or empty: 1996650
+Mon Nov 20 2017 02:27:46 GMT+0200 (EET)
+Block error or empty: 1996614
+Mon Nov 20 2017 02:27:46 GMT+0200 (EET)
+Block error or empty: 1996646
+Mon Nov 20 2017 02:27:46 GMT+0200 (EET)
+Block error or empty: 1996669
+Mon Nov 20 2017 02:27:46 GMT+0200 (EET)
+Block error or empty: 1996600
+Mon Nov 20 2017 02:27:46 GMT+0200 (EET)
+Block error or empty: 1996662
+Mon Nov 20 2017 02:27:46 GMT+0200 (EET)
+Block error or empty: 1996617
+Mon Nov 20 2017 02:27:46 GMT+0200 (EET)
+Block error or empty: 1996661
+Mon Nov 20 2017 02:27:46 GMT+0200 (EET)
+Block error or empty: 1996616
+Mon Nov 20 2017 02:27:47 GMT+0200 (EET)
+Block error or empty: 1996715
+Mon Nov 20 2017 02:27:47 GMT+0200 (EET)
+Block error or empty: 1996707
+Mon Nov 20 2017 02:27:47 GMT+0200 (EET)
+Block error or empty: 1996702
+Mon Nov 20 2017 02:27:47 GMT+0200 (EET)
+Block error or empty: 1996703
+Mon Nov 20 2017 02:27:47 GMT+0200 (EET)
+Block error or empty: 1996781
+Mon Nov 20 2017 02:27:47 GMT+0200 (EET)
+Block error or empty: 1996777
+Mon Nov 20 2017 02:27:47 GMT+0200 (EET)
+Block error or empty: 1996750
+Mon Nov 20 2017 02:27:47 GMT+0200 (EET)
+Block error or empty: 1996775
+Mon Nov 20 2017 02:27:47 GMT+0200 (EET)
+Block error or empty: 1996773
+Mon Nov 20 2017 02:27:47 GMT+0200 (EET)
+Block error or empty: 1996744
+Mon Nov 20 2017 02:27:47 GMT+0200 (EET)
+Block error or empty: 1996763
+Mon Nov 20 2017 02:27:47 GMT+0200 (EET)
+Block error or empty: 1996771
+Mon Nov 20 2017 02:27:47 GMT+0200 (EET)
+Block error or empty: 1996770
+Mon Nov 20 2017 02:27:47 GMT+0200 (EET)
+Block error or empty: 1996762
+Mon Nov 20 2017 02:27:47 GMT+0200 (EET)
+Block error or empty: 1996760
+Mon Nov 20 2017 02:27:47 GMT+0200 (EET)
+Block error or empty: 1996767
+Mon Nov 20 2017 02:27:47 GMT+0200 (EET)
+Block error or empty: 1996766
+Mon Nov 20 2017 02:27:47 GMT+0200 (EET)
+Block error or empty: 1996757
+Mon Nov 20 2017 02:27:47 GMT+0200 (EET)
+Block error or empty: 1996756
+Mon Nov 20 2017 02:27:47 GMT+0200 (EET)
+Block error or empty: 1996754
+Mon Nov 20 2017 02:27:47 GMT+0200 (EET)
+Block error or empty: 1996753
+Mon Nov 20 2017 02:27:47 GMT+0200 (EET)
+Block error or empty: 1996768
+Mon Nov 20 2017 02:27:47 GMT+0200 (EET)
+Block error or empty: 1996724
+Mon Nov 20 2017 02:27:47 GMT+0200 (EET)
+Block error or empty: 1996722
+Mon Nov 20 2017 02:27:47 GMT+0200 (EET)
+Block error or empty: 1996742
+Mon Nov 20 2017 02:27:47 GMT+0200 (EET)
+Block error or empty: 1996764
+Mon Nov 20 2017 02:27:47 GMT+0200 (EET)
+Block error or empty: 1996729
+Mon Nov 20 2017 02:27:48 GMT+0200 (EET)
+Block error or empty: 1996811
+Mon Nov 20 2017 02:27:48 GMT+0200 (EET)
+Block error or empty: 1996816
+Mon Nov 20 2017 02:27:48 GMT+0200 (EET)
+Block error or empty: 1996804
+Mon Nov 20 2017 02:27:48 GMT+0200 (EET)
+Block error or empty: 1996806
+Mon Nov 20 2017 02:27:48 GMT+0200 (EET)
+Block error or empty: 1996817
+Mon Nov 20 2017 02:27:48 GMT+0200 (EET)
+Block error or empty: 1996882
+Mon Nov 20 2017 02:27:48 GMT+0200 (EET)
+Block error or empty: 1996850
+Mon Nov 20 2017 02:27:48 GMT+0200 (EET)
+Block error or empty: 1996879
+Mon Nov 20 2017 02:27:48 GMT+0200 (EET)
+Block error or empty: 1996863
+Mon Nov 20 2017 02:27:48 GMT+0200 (EET)
+Block error or empty: 1996849
+Mon Nov 20 2017 02:27:48 GMT+0200 (EET)
+Block error or empty: 1996873
+Mon Nov 20 2017 02:27:48 GMT+0200 (EET)
+Block error or empty: 1996847
+Mon Nov 20 2017 02:27:48 GMT+0200 (EET)
+Block error or empty: 1996869
+Mon Nov 20 2017 02:27:48 GMT+0200 (EET)
+Block error or empty: 1996842
+Mon Nov 20 2017 02:27:48 GMT+0200 (EET)
+Block error or empty: 1996853
+Mon Nov 20 2017 02:27:48 GMT+0200 (EET)
+Block error or empty: 1996899
+Mon Nov 20 2017 02:27:48 GMT+0200 (EET)
+Block error or empty: 1996867
+Mon Nov 20 2017 02:27:48 GMT+0200 (EET)
+Block error or empty: 1996818
+Mon Nov 20 2017 02:27:48 GMT+0200 (EET)
+Block error or empty: 1996826
+Mon Nov 20 2017 02:27:48 GMT+0200 (EET)
+Block error or empty: 1996840
+Mon Nov 20 2017 02:27:48 GMT+0200 (EET)
+Block error or empty: 1996839
+Mon Nov 20 2017 02:27:48 GMT+0200 (EET)
+Block error or empty: 1996823
+Mon Nov 20 2017 02:27:48 GMT+0200 (EET)
+Block error or empty: 1996822
+Mon Nov 20 2017 02:27:48 GMT+0200 (EET)
+Block error or empty: 1996820
+Mon Nov 20 2017 02:27:48 GMT+0200 (EET)
+Block error or empty: 1996835
+Mon Nov 20 2017 02:27:48 GMT+0200 (EET)
+Block error or empty: 1996892
+Mon Nov 20 2017 02:27:48 GMT+0200 (EET)
+Block error or empty: 1996834
+Mon Nov 20 2017 02:27:48 GMT+0200 (EET)
+Block error or empty: 1996887
+Mon Nov 20 2017 02:27:48 GMT+0200 (EET)
+Block error or empty: 1996886
+Mon Nov 20 2017 02:27:48 GMT+0200 (EET)
+Block error or empty: 1996885
+Mon Nov 20 2017 02:27:48 GMT+0200 (EET)
+Block error or empty: 1996884
+Mon Nov 20 2017 02:27:48 GMT+0200 (EET)
+Block error or empty: 1996832
+Mon Nov 20 2017 02:27:48 GMT+0200 (EET)
+Block error or empty: 1996831
+Mon Nov 20 2017 02:27:48 GMT+0200 (EET)
+Block error or empty: 1996830
+Mon Nov 20 2017 02:27:49 GMT+0200 (EET)
+Block error or empty: 1996905
+Mon Nov 20 2017 02:27:49 GMT+0200 (EET)
+Block error or empty: 1996907
+Mon Nov 20 2017 02:27:49 GMT+0200 (EET)
+Block error or empty: 1997000
+Mon Nov 20 2017 02:27:49 GMT+0200 (EET)
+Block error or empty: 1996951
+Mon Nov 20 2017 02:27:50 GMT+0200 (EET)
+Block error or empty: 1996980
+Mon Nov 20 2017 02:27:50 GMT+0200 (EET)
+Block error or empty: 1996946
+Mon Nov 20 2017 02:27:50 GMT+0200 (EET)
+Block error or empty: 1996943
+Mon Nov 20 2017 02:27:50 GMT+0200 (EET)
+Block error or empty: 1996977
+Mon Nov 20 2017 02:27:51 GMT+0200 (EET)
+Block error or empty: 1996987
+Mon Nov 20 2017 02:27:51 GMT+0200 (EET)
+Block error or empty: 1996938
+Mon Nov 20 2017 02:27:51 GMT+0200 (EET)
+Block error or empty: 1996940
+Mon Nov 20 2017 02:27:51 GMT+0200 (EET)
+Block error or empty: 1996936
+Mon Nov 20 2017 02:27:51 GMT+0200 (EET)
+Block error or empty: 1996962
+Mon Nov 20 2017 02:27:51 GMT+0200 (EET)
+Block error or empty: 1996960
+Mon Nov 20 2017 02:27:51 GMT+0200 (EET)
+Block error or empty: 1996958
+Mon Nov 20 2017 02:27:51 GMT+0200 (EET)
+Block error or empty: 1996970
+Mon Nov 20 2017 02:27:51 GMT+0200 (EET)
+Block error or empty: 1996953
+Mon Nov 20 2017 02:27:51 GMT+0200 (EET)
+Block error or empty: 1996952
+Mon Nov 20 2017 02:27:51 GMT+0200 (EET)
+Block error or empty: 1996968
+Mon Nov 20 2017 02:27:51 GMT+0200 (EET)
+Block error or empty: 1997000
+Mon Nov 20 2017 02:27:51 GMT+0200 (EET)
+Block error or empty: 1997008
+Mon Nov 20 2017 02:27:51 GMT+0200 (EET)
+Block error or empty: 1997009
+Mon Nov 20 2017 02:27:51 GMT+0200 (EET)
+Block error or empty: 1997005
+Mon Nov 20 2017 02:27:51 GMT+0200 (EET)
+Block error or empty: 1997003
+Mon Nov 20 2017 02:27:51 GMT+0200 (EET)
+Block error or empty: 1997002
+Mon Nov 20 2017 02:27:51 GMT+0200 (EET)
+Block error or empty: 1997085
+Mon Nov 20 2017 02:27:51 GMT+0200 (EET)
+Block error or empty: 1997063
+Mon Nov 20 2017 02:27:51 GMT+0200 (EET)
+Block error or empty: 1997083
+Mon Nov 20 2017 02:27:51 GMT+0200 (EET)
+Block error or empty: 1997099
+Mon Nov 20 2017 02:27:51 GMT+0200 (EET)
+Block error or empty: 1997095
+Mon Nov 20 2017 02:27:51 GMT+0200 (EET)
+Block error or empty: 1997054
+Mon Nov 20 2017 02:27:51 GMT+0200 (EET)
+Block error or empty: 1997093
+Mon Nov 20 2017 02:27:51 GMT+0200 (EET)
+Block error or empty: 1997092
+Mon Nov 20 2017 02:27:51 GMT+0200 (EET)
+Block error or empty: 1997090
+Mon Nov 20 2017 02:27:51 GMT+0200 (EET)
+Block error or empty: 1997087
+Mon Nov 20 2017 02:27:51 GMT+0200 (EET)
+Block error or empty: 1997079
+Mon Nov 20 2017 02:27:51 GMT+0200 (EET)
+Block error or empty: 1997078
+Mon Nov 20 2017 02:27:51 GMT+0200 (EET)
+Block error or empty: 1997028
+Mon Nov 20 2017 02:27:51 GMT+0200 (EET)
+Block error or empty: 1997074
+Mon Nov 20 2017 02:27:51 GMT+0200 (EET)
+Block error or empty: 1997050
+Mon Nov 20 2017 02:27:51 GMT+0200 (EET)
+Block error or empty: 1997070
+Mon Nov 20 2017 02:27:51 GMT+0200 (EET)
+Block error or empty: 1997069
+Mon Nov 20 2017 02:27:51 GMT+0200 (EET)
+Block error or empty: 1997049
+Mon Nov 20 2017 02:27:51 GMT+0200 (EET)
+Block error or empty: 1997071
+Mon Nov 20 2017 02:27:51 GMT+0200 (EET)
+Block error or empty: 1997041
+Mon Nov 20 2017 02:27:51 GMT+0200 (EET)
+Block error or empty: 1997021
+Mon Nov 20 2017 02:27:51 GMT+0200 (EET)
+Block error or empty: 1997046
+Mon Nov 20 2017 02:27:51 GMT+0200 (EET)
+Block error or empty: 1997045
+Mon Nov 20 2017 02:27:51 GMT+0200 (EET)
+Block error or empty: 1997039
+Mon Nov 20 2017 02:27:51 GMT+0200 (EET)
+Block error or empty: 1997058
+Mon Nov 20 2017 02:27:51 GMT+0200 (EET)
+Block error or empty: 1997037
+Mon Nov 20 2017 02:27:52 GMT+0200 (EET)
+Block error or empty: 1997101
+Mon Nov 20 2017 02:27:52 GMT+0200 (EET)
+Block error or empty: 1997114
+Mon Nov 20 2017 02:27:52 GMT+0200 (EET)
+Block error or empty: 1997117
+Mon Nov 20 2017 02:27:52 GMT+0200 (EET)
+Block error or empty: 1997118
+Mon Nov 20 2017 02:27:52 GMT+0200 (EET)
+Block error or empty: 1997106
+Mon Nov 20 2017 02:27:52 GMT+0200 (EET)
+Block error or empty: 1997179
+Mon Nov 20 2017 02:27:52 GMT+0200 (EET)
+Block error or empty: 1997178
+Mon Nov 20 2017 02:27:52 GMT+0200 (EET)
+Block error or empty: 1997174
+Mon Nov 20 2017 02:27:52 GMT+0200 (EET)
+Block error or empty: 1997172
+Mon Nov 20 2017 02:27:52 GMT+0200 (EET)
+Block error or empty: 1997171
+Mon Nov 20 2017 02:27:52 GMT+0200 (EET)
+Block error or empty: 1997144
+Mon Nov 20 2017 02:27:52 GMT+0200 (EET)
+Block error or empty: 1997169
+Mon Nov 20 2017 02:27:54 GMT+0200 (EET)
+Block error or empty: 1997140
+Mon Nov 20 2017 02:27:54 GMT+0200 (EET)
+Block error or empty: 1997104
+Mon Nov 20 2017 02:27:54 GMT+0200 (EET)
+Block error or empty: 1997136
+Mon Nov 20 2017 02:27:54 GMT+0200 (EET)
+Block error or empty: 1997133
+Mon Nov 20 2017 02:27:54 GMT+0200 (EET)
+Block error or empty: 1997131
+Mon Nov 20 2017 02:27:54 GMT+0200 (EET)
+Block error or empty: 1997130
+Mon Nov 20 2017 02:27:54 GMT+0200 (EET)
+Block error or empty: 1997124
+Mon Nov 20 2017 02:27:54 GMT+0200 (EET)
+Block error or empty: 1997123
+Mon Nov 20 2017 02:27:54 GMT+0200 (EET)
+Block error or empty: 1997300
+Mon Nov 20 2017 02:27:54 GMT+0200 (EET)
+Block error or empty: 1997274
+Mon Nov 20 2017 02:27:54 GMT+0200 (EET)
+Block error or empty: 1997296
+Mon Nov 20 2017 02:27:54 GMT+0200 (EET)
+Block error or empty: 1997243
+Mon Nov 20 2017 02:27:54 GMT+0200 (EET)
+Block error or empty: 1997237
+Mon Nov 20 2017 02:27:54 GMT+0200 (EET)
+Block error or empty: 1997288
+Mon Nov 20 2017 02:27:54 GMT+0200 (EET)
+Block error or empty: 1997286
+Mon Nov 20 2017 02:27:54 GMT+0200 (EET)
+Block error or empty: 1997231
+Mon Nov 20 2017 02:27:55 GMT+0200 (EET)
+Block error or empty: 1997278
+Mon Nov 20 2017 02:27:55 GMT+0200 (EET)
+Block error or empty: 1997277
+Mon Nov 20 2017 02:27:55 GMT+0200 (EET)
+Block error or empty: 1997222
+Mon Nov 20 2017 02:27:55 GMT+0200 (EET)
+Block error or empty: 1997218
+Mon Nov 20 2017 02:27:55 GMT+0200 (EET)
+Block error or empty: 1997217
+Mon Nov 20 2017 02:27:55 GMT+0200 (EET)
+Block error or empty: 1997300
+Mon Nov 20 2017 02:27:55 GMT+0200 (EET)
+Block error or empty: 1997305
+Mon Nov 20 2017 02:27:55 GMT+0200 (EET)
+Block error or empty: 1997315
+Mon Nov 20 2017 02:27:55 GMT+0200 (EET)
+Block error or empty: 1997323
+Mon Nov 20 2017 02:27:55 GMT+0200 (EET)
+Block error or empty: 1997326
+Mon Nov 20 2017 02:27:55 GMT+0200 (EET)
+Block error or empty: 1997329
+Mon Nov 20 2017 02:27:55 GMT+0200 (EET)
+Block error or empty: 1997333
+Mon Nov 20 2017 02:27:55 GMT+0200 (EET)
+Block error or empty: 1997334
+Mon Nov 20 2017 02:27:55 GMT+0200 (EET)
+Block error or empty: 1997335
+Mon Nov 20 2017 02:27:55 GMT+0200 (EET)
+Block error or empty: 1997336
+Mon Nov 20 2017 02:27:55 GMT+0200 (EET)
+Block error or empty: 1997339
+Mon Nov 20 2017 02:27:55 GMT+0200 (EET)
+Block error or empty: 1997355
+Mon Nov 20 2017 02:27:55 GMT+0200 (EET)
+Block error or empty: 1997354
+Mon Nov 20 2017 02:27:55 GMT+0200 (EET)
+Block error or empty: 1997364
+Mon Nov 20 2017 02:27:55 GMT+0200 (EET)
+Block error or empty: 1997359
+Mon Nov 20 2017 02:27:55 GMT+0200 (EET)
+Block error or empty: 1997380
+Mon Nov 20 2017 02:27:55 GMT+0200 (EET)
+Block error or empty: 1997357
+Mon Nov 20 2017 02:27:55 GMT+0200 (EET)
+Block error or empty: 1997377
+Mon Nov 20 2017 02:27:55 GMT+0200 (EET)
+Block error or empty: 1997373
+Mon Nov 20 2017 02:27:55 GMT+0200 (EET)
+Block error or empty: 1997371
+Mon Nov 20 2017 02:27:55 GMT+0200 (EET)
+Block error or empty: 1997369
+Mon Nov 20 2017 02:27:56 GMT+0200 (EET)
+Block error or empty: 1997410
+Mon Nov 20 2017 02:27:56 GMT+0200 (EET)
+Block error or empty: 1997411
+Mon Nov 20 2017 02:27:56 GMT+0200 (EET)
+Block error or empty: 1997446
+Mon Nov 20 2017 02:27:56 GMT+0200 (EET)
+Block error or empty: 1997456
+Mon Nov 20 2017 02:27:56 GMT+0200 (EET)
+Block error or empty: 1997500
+Mon Nov 20 2017 02:27:56 GMT+0200 (EET)
+Block error or empty: 1997497
+Mon Nov 20 2017 02:27:56 GMT+0200 (EET)
+Block error or empty: 1997477
+Mon Nov 20 2017 02:27:56 GMT+0200 (EET)
+Block error or empty: 1997489
+Mon Nov 20 2017 02:27:56 GMT+0200 (EET)
+Block error or empty: 1997486
+Mon Nov 20 2017 02:27:56 GMT+0200 (EET)
+Block error or empty: 1997469
+Mon Nov 20 2017 02:27:56 GMT+0200 (EET)
+Block error or empty: 1997468
+Mon Nov 20 2017 02:27:57 GMT+0200 (EET)
+Block error or empty: 1997465
+Mon Nov 20 2017 02:27:57 GMT+0200 (EET)
+Block error or empty: 1997432
+Mon Nov 20 2017 02:27:57 GMT+0200 (EET)
+Block error or empty: 1997493
+Mon Nov 20 2017 02:27:57 GMT+0200 (EET)
+Block error or empty: 1997504
+Mon Nov 20 2017 02:27:57 GMT+0200 (EET)
+Block error or empty: 1997510
+Mon Nov 20 2017 02:27:57 GMT+0200 (EET)
+Block error or empty: 1997516
+Mon Nov 20 2017 02:27:57 GMT+0200 (EET)
+Block error or empty: 1997521
+Mon Nov 20 2017 02:27:57 GMT+0200 (EET)
+Block error or empty: 1997508
+Mon Nov 20 2017 02:27:57 GMT+0200 (EET)
+Block error or empty: 1997500
+Mon Nov 20 2017 02:27:57 GMT+0200 (EET)
+Block error or empty: 1997532
+Mon Nov 20 2017 02:27:57 GMT+0200 (EET)
+Block error or empty: 1997550
+Mon Nov 20 2017 02:27:59 GMT+0200 (EET)
+Block error or empty: 1997662
+Mon Nov 20 2017 02:27:59 GMT+0200 (EET)
+Block error or empty: 1997663
+Mon Nov 20 2017 02:27:59 GMT+0200 (EET)
+Block error or empty: 1997681
+Mon Nov 20 2017 02:27:59 GMT+0200 (EET)
+Block error or empty: 1997680
+Mon Nov 20 2017 02:27:59 GMT+0200 (EET)
+Block error or empty: 1997660
+Mon Nov 20 2017 02:27:59 GMT+0200 (EET)
+Block error or empty: 1997674
+Mon Nov 20 2017 02:27:59 GMT+0200 (EET)
+Block error or empty: 1997673
+Mon Nov 20 2017 02:27:59 GMT+0200 (EET)
+Block error or empty: 1997672
+Mon Nov 20 2017 02:27:59 GMT+0200 (EET)
+Block error or empty: 1997670
+Mon Nov 20 2017 02:27:59 GMT+0200 (EET)
+Block error or empty: 1997642
+Mon Nov 20 2017 02:27:59 GMT+0200 (EET)
+Block error or empty: 1997665
+Mon Nov 20 2017 02:27:59 GMT+0200 (EET)
+Block error or empty: 1997698
+Mon Nov 20 2017 02:27:59 GMT+0200 (EET)
+Block error or empty: 1997650
+Mon Nov 20 2017 02:28:00 GMT+0200 (EET)
+Block error or empty: 1997702
+Mon Nov 20 2017 02:28:00 GMT+0200 (EET)
+Block error or empty: 1997704
+Mon Nov 20 2017 02:28:00 GMT+0200 (EET)
+Block error or empty: 1997763
+Mon Nov 20 2017 02:28:00 GMT+0200 (EET)
+Block error or empty: 1997758
+Mon Nov 20 2017 02:28:00 GMT+0200 (EET)
+Block error or empty: 1997767
+Mon Nov 20 2017 02:28:01 GMT+0200 (EET)
+Block error or empty: 1997732
+Mon Nov 20 2017 02:28:01 GMT+0200 (EET)
+Block error or empty: 1997726
+Mon Nov 20 2017 02:28:02 GMT+0200 (EET)
+Block error or empty: 1997739
+Mon Nov 20 2017 02:28:02 GMT+0200 (EET)
+Block error or empty: 1997738
+Mon Nov 20 2017 02:28:02 GMT+0200 (EET)
+Block error or empty: 1997820
+Mon Nov 20 2017 02:28:02 GMT+0200 (EET)
+Block error or empty: 1997819
+Mon Nov 20 2017 02:28:02 GMT+0200 (EET)
+Block error or empty: 1997818
+Mon Nov 20 2017 02:28:02 GMT+0200 (EET)
+Block error or empty: 1997813
+Mon Nov 20 2017 02:28:02 GMT+0200 (EET)
+Block error or empty: 1997864
+Mon Nov 20 2017 02:28:03 GMT+0200 (EET)
+Block error or empty: 1997854
+Mon Nov 20 2017 02:28:03 GMT+0200 (EET)
+Block error or empty: 1997852
+Mon Nov 20 2017 02:28:03 GMT+0200 (EET)
+Block error or empty: 1997809
+Mon Nov 20 2017 02:28:03 GMT+0200 (EET)
+Block error or empty: 1997956
+Mon Nov 20 2017 02:28:03 GMT+0200 (EET)
+Block error or empty: 1997954
+Mon Nov 20 2017 02:28:03 GMT+0200 (EET)
+Block error or empty: 1997952
+Mon Nov 20 2017 02:28:04 GMT+0200 (EET)
+Block error or empty: 1998018
+Mon Nov 20 2017 02:28:06 GMT+0200 (EET)
+Block error or empty: 1998128
+Mon Nov 20 2017 02:28:06 GMT+0200 (EET)
+Block error or empty: 1998198
+Mon Nov 20 2017 02:28:06 GMT+0200 (EET)
+Block error or empty: 1998197
+Mon Nov 20 2017 02:28:07 GMT+0200 (EET)
+Block error or empty: 1998129
+Mon Nov 20 2017 02:28:07 GMT+0200 (EET)
+Block error or empty: 1998135
+Mon Nov 20 2017 02:28:07 GMT+0200 (EET)
+Block error or empty: 1998163
+Mon Nov 20 2017 02:28:07 GMT+0200 (EET)
+Block error or empty: 1998204
+Mon Nov 20 2017 02:28:07 GMT+0200 (EET)
+Block error or empty: 1998207
+Mon Nov 20 2017 02:28:07 GMT+0200 (EET)
+Block error or empty: 1998211
+Mon Nov 20 2017 02:28:07 GMT+0200 (EET)
+Block error or empty: 1998213
+Mon Nov 20 2017 02:28:07 GMT+0200 (EET)
+Block error or empty: 1998215
+Mon Nov 20 2017 02:28:07 GMT+0200 (EET)
+Block error or empty: 1998216
+Mon Nov 20 2017 02:28:07 GMT+0200 (EET)
+Block error or empty: 1998287
+Mon Nov 20 2017 02:28:09 GMT+0200 (EET)
+Block error or empty: 1998341
+Mon Nov 20 2017 02:28:09 GMT+0200 (EET)
+Block error or empty: 1998316
+Mon Nov 20 2017 02:28:09 GMT+0200 (EET)
+Block error or empty: 1998369
+Mon Nov 20 2017 02:28:10 GMT+0200 (EET)
+Block error or empty: 1998429
+Mon Nov 20 2017 02:28:10 GMT+0200 (EET)
+Block error or empty: 1998433
+Mon Nov 20 2017 02:28:10 GMT+0200 (EET)
+Block error or empty: 1998411
+Mon Nov 20 2017 02:28:10 GMT+0200 (EET)
+Block error or empty: 1998410
+Mon Nov 20 2017 02:28:10 GMT+0200 (EET)
+Block error or empty: 1998489
+Mon Nov 20 2017 02:28:10 GMT+0200 (EET)
+Block error or empty: 1998474
+Mon Nov 20 2017 02:28:10 GMT+0200 (EET)
+Block error or empty: 1998406
+Mon Nov 20 2017 02:28:10 GMT+0200 (EET)
+Block error or empty: 1998480
+Mon Nov 20 2017 02:28:10 GMT+0200 (EET)
+Block error or empty: 1998478
+Mon Nov 20 2017 02:28:10 GMT+0200 (EET)
+Block error or empty: 1998444
+Mon Nov 20 2017 02:28:10 GMT+0200 (EET)
+Block error or empty: 1998441
+Mon Nov 20 2017 02:28:10 GMT+0200 (EET)
+Block error or empty: 1998440
+Mon Nov 20 2017 02:28:10 GMT+0200 (EET)
+Block error or empty: 1998436
+Mon Nov 20 2017 02:28:12 GMT+0200 (EET)
+Block error or empty: 1998434
+Mon Nov 20 2017 02:28:12 GMT+0200 (EET)
+Block error or empty: 1998504
+Mon Nov 20 2017 02:28:12 GMT+0200 (EET)
+Block error or empty: 1998505
+Mon Nov 20 2017 02:28:12 GMT+0200 (EET)
+Block error or empty: 1998506
+Mon Nov 20 2017 02:28:12 GMT+0200 (EET)
+Block error or empty: 1998514
+Mon Nov 20 2017 02:28:12 GMT+0200 (EET)
+Block error or empty: 1998507
+Mon Nov 20 2017 02:28:12 GMT+0200 (EET)
+Block error or empty: 1998555
+Mon Nov 20 2017 02:28:12 GMT+0200 (EET)
+Block error or empty: 1998568
+Mon Nov 20 2017 02:28:12 GMT+0200 (EET)
+Block error or empty: 1998553
+Mon Nov 20 2017 02:28:12 GMT+0200 (EET)
+Block error or empty: 1998526
+Mon Nov 20 2017 02:28:12 GMT+0200 (EET)
+Block error or empty: 1998562
+Mon Nov 20 2017 02:28:12 GMT+0200 (EET)
+Block error or empty: 1998560
+Mon Nov 20 2017 02:28:12 GMT+0200 (EET)
+Block error or empty: 1998598
+Mon Nov 20 2017 02:28:12 GMT+0200 (EET)
+Block error or empty: 1998516
+Mon Nov 20 2017 02:28:13 GMT+0200 (EET)
+Block error or empty: 1998670
+Mon Nov 20 2017 02:28:13 GMT+0200 (EET)
+Block error or empty: 1998673
+Mon Nov 20 2017 02:28:13 GMT+0200 (EET)
+Block error or empty: 1998667
+Mon Nov 20 2017 02:28:13 GMT+0200 (EET)
+Block error or empty: 1998639
+Mon Nov 20 2017 02:28:13 GMT+0200 (EET)
+Block error or empty: 1998690
+Mon Nov 20 2017 02:28:13 GMT+0200 (EET)
+Block error or empty: 1998652
+Mon Nov 20 2017 02:28:13 GMT+0200 (EET)
+Block error or empty: 1998687
+Mon Nov 20 2017 02:28:13 GMT+0200 (EET)
+Block error or empty: 1998686
+Mon Nov 20 2017 02:28:13 GMT+0200 (EET)
+Block error or empty: 1998685
+Mon Nov 20 2017 02:28:13 GMT+0200 (EET)
+Block error or empty: 1998631
+Mon Nov 20 2017 02:28:13 GMT+0200 (EET)
+Block error or empty: 1998643
+Mon Nov 20 2017 02:28:14 GMT+0200 (EET)
+Block error or empty: 1998676
+Mon Nov 20 2017 02:28:14 GMT+0200 (EET)
+Block error or empty: 1998786
+Mon Nov 20 2017 02:28:14 GMT+0200 (EET)
+Block error or empty: 1998702
+Mon Nov 20 2017 02:28:14 GMT+0200 (EET)
+Block error or empty: 1998770
+Mon Nov 20 2017 02:28:14 GMT+0200 (EET)
+Block error or empty: 1998799
+Mon Nov 20 2017 02:28:15 GMT+0200 (EET)
+Block error or empty: 1998767
+Mon Nov 20 2017 02:28:15 GMT+0200 (EET)
+Block error or empty: 1998757
+Mon Nov 20 2017 02:28:15 GMT+0200 (EET)
+Block error or empty: 1998736
+Mon Nov 20 2017 02:28:15 GMT+0200 (EET)
+Block error or empty: 1998725
+Mon Nov 20 2017 02:28:15 GMT+0200 (EET)
+Block error or empty: 1998721
+Mon Nov 20 2017 02:28:15 GMT+0200 (EET)
+Block error or empty: 1998730
+Mon Nov 20 2017 02:28:15 GMT+0200 (EET)
+Block error or empty: 1998732
+Mon Nov 20 2017 02:28:15 GMT+0200 (EET)
+Block error or empty: 1998768
+Mon Nov 20 2017 02:28:15 GMT+0200 (EET)
+Block error or empty: 1998813
+Mon Nov 20 2017 02:28:15 GMT+0200 (EET)
+Block error or empty: 1998814
+Mon Nov 20 2017 02:28:15 GMT+0200 (EET)
+Block error or empty: 1998817
+Mon Nov 20 2017 02:28:15 GMT+0200 (EET)
+Block error or empty: 1998882
+Mon Nov 20 2017 02:28:15 GMT+0200 (EET)
+Block error or empty: 1998802
+Mon Nov 20 2017 02:28:15 GMT+0200 (EET)
+Block error or empty: 1998879
+Mon Nov 20 2017 02:28:16 GMT+0200 (EET)
+Block error or empty: 1998801
+Mon Nov 20 2017 02:28:16 GMT+0200 (EET)
+Block error or empty: 1998842
+Mon Nov 20 2017 02:28:16 GMT+0200 (EET)
+Block error or empty: 1998870
+Mon Nov 20 2017 02:28:16 GMT+0200 (EET)
+Block error or empty: 1998892
+Mon Nov 20 2017 02:28:16 GMT+0200 (EET)
+Block error or empty: 1998847
+Mon Nov 20 2017 02:28:16 GMT+0200 (EET)
+Block error or empty: 1998846
+Mon Nov 20 2017 02:28:16 GMT+0200 (EET)
+Block error or empty: 1998840
+Mon Nov 20 2017 02:28:17 GMT+0200 (EET)
+Block error or empty: 1998884
+Mon Nov 20 2017 02:28:17 GMT+0200 (EET)
+Block error or empty: 1998831
+Mon Nov 20 2017 02:28:17 GMT+0200 (EET)
+Block error or empty: 1998922
+Mon Nov 20 2017 02:28:17 GMT+0200 (EET)
+Block error or empty: 1998994
+Mon Nov 20 2017 02:28:17 GMT+0200 (EET)
+Block error or empty: 1998981
+Mon Nov 20 2017 02:28:17 GMT+0200 (EET)
+Block error or empty: 1998980
+Mon Nov 20 2017 02:28:17 GMT+0200 (EET)
+Block error or empty: 1998982
+Mon Nov 20 2017 02:28:17 GMT+0200 (EET)
+Block error or empty: 1998976
+Mon Nov 20 2017 02:28:17 GMT+0200 (EET)
+Block error or empty: 1998961
+Mon Nov 20 2017 02:28:17 GMT+0200 (EET)
+Block error or empty: 1998969
+Mon Nov 20 2017 02:28:17 GMT+0200 (EET)
+Block error or empty: 1998952
+Mon Nov 20 2017 02:28:17 GMT+0200 (EET)
+Block error or empty: 1998954
+Mon Nov 20 2017 02:28:18 GMT+0200 (EET)
+Block error or empty: 1998938
+Mon Nov 20 2017 02:28:18 GMT+0200 (EET)
+Block error or empty: 1998936
+Mon Nov 20 2017 02:28:19 GMT+0200 (EET)
+Block error or empty: 1999007
+Mon Nov 20 2017 02:28:19 GMT+0200 (EET)
+Block error or empty: 1999008
+Mon Nov 20 2017 02:28:19 GMT+0200 (EET)
+Block error or empty: 1999010
+Mon Nov 20 2017 02:28:19 GMT+0200 (EET)
+Block error or empty: 1999011
+Mon Nov 20 2017 02:28:19 GMT+0200 (EET)
+Block error or empty: 1999077
+Mon Nov 20 2017 02:28:19 GMT+0200 (EET)
+Block error or empty: 1999075
+Mon Nov 20 2017 02:28:19 GMT+0200 (EET)
+Block error or empty: 1999096
+Mon Nov 20 2017 02:28:19 GMT+0200 (EET)
+Block error or empty: 1999095
+Mon Nov 20 2017 02:28:19 GMT+0200 (EET)
+Block error or empty: 1999094
+Mon Nov 20 2017 02:28:19 GMT+0200 (EET)
+Block error or empty: 1999092
+Mon Nov 20 2017 02:28:19 GMT+0200 (EET)
+Block error or empty: 1999091
+Mon Nov 20 2017 02:28:19 GMT+0200 (EET)
+Block error or empty: 1999061
+Mon Nov 20 2017 02:28:19 GMT+0200 (EET)
+Block error or empty: 1999072
+Mon Nov 20 2017 02:28:19 GMT+0200 (EET)
+Block error or empty: 1999089
+Mon Nov 20 2017 02:28:19 GMT+0200 (EET)
+Block error or empty: 1999055
+Mon Nov 20 2017 02:28:19 GMT+0200 (EET)
+Block error or empty: 1999085
+Mon Nov 20 2017 02:28:19 GMT+0200 (EET)
+Block error or empty: 1999084
+Mon Nov 20 2017 02:28:19 GMT+0200 (EET)
+Block error or empty: 1999054
+Mon Nov 20 2017 02:28:19 GMT+0200 (EET)
+Block error or empty: 1999053
+Mon Nov 20 2017 02:28:19 GMT+0200 (EET)
+Block error or empty: 1999052
+Mon Nov 20 2017 02:28:19 GMT+0200 (EET)
+Block error or empty: 1999082
+Mon Nov 20 2017 02:28:19 GMT+0200 (EET)
+Block error or empty: 1999081
+Mon Nov 20 2017 02:28:19 GMT+0200 (EET)
+Block error or empty: 1999080
+Mon Nov 20 2017 02:28:19 GMT+0200 (EET)
+Block error or empty: 1999079
+Mon Nov 20 2017 02:28:19 GMT+0200 (EET)
+Block error or empty: 1999049
+Mon Nov 20 2017 02:28:19 GMT+0200 (EET)
+Block error or empty: 1999044
+Mon Nov 20 2017 02:28:19 GMT+0200 (EET)
+Block error or empty: 1999043
+Mon Nov 20 2017 02:28:19 GMT+0200 (EET)
+Block error or empty: 1999039
+Mon Nov 20 2017 02:28:19 GMT+0200 (EET)
+Block error or empty: 1999066
+Mon Nov 20 2017 02:28:19 GMT+0200 (EET)
+Block error or empty: 1999020
+Mon Nov 20 2017 02:28:19 GMT+0200 (EET)
+Block error or empty: 1999019
+Mon Nov 20 2017 02:28:19 GMT+0200 (EET)
+Block error or empty: 1999015
+Mon Nov 20 2017 02:28:19 GMT+0200 (EET)
+Block error or empty: 1999034
+Mon Nov 20 2017 02:28:19 GMT+0200 (EET)
+Block error or empty: 1999033
+Mon Nov 20 2017 02:28:19 GMT+0200 (EET)
+Block error or empty: 1999032
+Mon Nov 20 2017 02:28:19 GMT+0200 (EET)
+Block error or empty: 1999030
+Mon Nov 20 2017 02:28:19 GMT+0200 (EET)
+Block error or empty: 1999014
+Mon Nov 20 2017 02:28:20 GMT+0200 (EET)
+Block error or empty: 1999101
+Mon Nov 20 2017 02:28:20 GMT+0200 (EET)
+Block error or empty: 1999103
+Mon Nov 20 2017 02:28:20 GMT+0200 (EET)
+Block error or empty: 1999104
+Mon Nov 20 2017 02:28:20 GMT+0200 (EET)
+Block error or empty: 1999108
+Mon Nov 20 2017 02:28:20 GMT+0200 (EET)
+Block error or empty: 1999112
+Mon Nov 20 2017 02:28:20 GMT+0200 (EET)
+Block error or empty: 1999114
+Mon Nov 20 2017 02:28:20 GMT+0200 (EET)
+Block error or empty: 1999200
+Mon Nov 20 2017 02:28:20 GMT+0200 (EET)
+Block error or empty: 1999199
+Mon Nov 20 2017 02:28:20 GMT+0200 (EET)
+Block error or empty: 1999198
+Mon Nov 20 2017 02:28:20 GMT+0200 (EET)
+Block error or empty: 1999105
+Mon Nov 20 2017 02:28:20 GMT+0200 (EET)
+Block error or empty: 1999177
+Mon Nov 20 2017 02:28:20 GMT+0200 (EET)
+Block error or empty: 1999142
+Mon Nov 20 2017 02:28:20 GMT+0200 (EET)
+Block error or empty: 1999191
+Mon Nov 20 2017 02:28:20 GMT+0200 (EET)
+Block error or empty: 1999141
+Mon Nov 20 2017 02:28:20 GMT+0200 (EET)
+Block error or empty: 1999145
+Mon Nov 20 2017 02:28:20 GMT+0200 (EET)
+Block error or empty: 1999188
+Mon Nov 20 2017 02:28:20 GMT+0200 (EET)
+Block error or empty: 1999174
+Mon Nov 20 2017 02:28:20 GMT+0200 (EET)
+Block error or empty: 1999172
+Mon Nov 20 2017 02:28:20 GMT+0200 (EET)
+Block error or empty: 1999159
+Mon Nov 20 2017 02:28:20 GMT+0200 (EET)
+Block error or empty: 1999168
+Mon Nov 20 2017 02:28:20 GMT+0200 (EET)
+Block error or empty: 1999166
+Mon Nov 20 2017 02:28:20 GMT+0200 (EET)
+Block error or empty: 1999165
+Mon Nov 20 2017 02:28:20 GMT+0200 (EET)
+Block error or empty: 1999164
+Mon Nov 20 2017 02:28:20 GMT+0200 (EET)
+Block error or empty: 1999155
+Mon Nov 20 2017 02:28:20 GMT+0200 (EET)
+Block error or empty: 1999131
+Mon Nov 20 2017 02:28:20 GMT+0200 (EET)
+Block error or empty: 1999129
+Mon Nov 20 2017 02:28:20 GMT+0200 (EET)
+Block error or empty: 1999135
+Mon Nov 20 2017 02:28:20 GMT+0200 (EET)
+Block error or empty: 1999134
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999173
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999186
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999185
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999184
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999125
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999123
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999122
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999118
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999117
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999179
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999181
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999200
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999205
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999206
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999208
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999209
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999211
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999224
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999226
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999227
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999228
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999237
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999238
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999239
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999242
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999248
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999252
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999253
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999290
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999291
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999293
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999282
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999279
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999277
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999288
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999275
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999274
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999222
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999285
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999218
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999217
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999263
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999270
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999268
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999267
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999299
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999297
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999214
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999257
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999256
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999254
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999259
+Mon Nov 20 2017 02:28:21 GMT+0200 (EET)
+Block error or empty: 1999220
+Mon Nov 20 2017 02:28:22 GMT+0200 (EET)
+Block error or empty: 1999304
+Mon Nov 20 2017 02:28:22 GMT+0200 (EET)
+Block error or empty: 1999310
+Mon Nov 20 2017 02:28:22 GMT+0200 (EET)
+Block error or empty: 1999311
+Mon Nov 20 2017 02:28:22 GMT+0200 (EET)
+Block error or empty: 1999312
+Mon Nov 20 2017 02:28:22 GMT+0200 (EET)
+Block error or empty: 1999314
+Mon Nov 20 2017 02:28:22 GMT+0200 (EET)
+Block error or empty: 1999315
+Mon Nov 20 2017 02:28:22 GMT+0200 (EET)
+Block error or empty: 1999316
+Mon Nov 20 2017 02:28:22 GMT+0200 (EET)
+Block error or empty: 1999317
+Mon Nov 20 2017 02:28:22 GMT+0200 (EET)
+Block error or empty: 1999327
+Mon Nov 20 2017 02:28:22 GMT+0200 (EET)
+Block error or empty: 1999329
+Mon Nov 20 2017 02:28:23 GMT+0200 (EET)
+Block error or empty: 1999330
+Mon Nov 20 2017 02:28:23 GMT+0200 (EET)
+Block error or empty: 1999331
+Mon Nov 20 2017 02:28:23 GMT+0200 (EET)
+Block error or empty: 1999332
+Mon Nov 20 2017 02:28:23 GMT+0200 (EET)
+Block error or empty: 1999333
+Mon Nov 20 2017 02:28:23 GMT+0200 (EET)
+Block error or empty: 1999334
+Mon Nov 20 2017 02:28:23 GMT+0200 (EET)
+Block error or empty: 1999335
+Mon Nov 20 2017 02:28:23 GMT+0200 (EET)
+Block error or empty: 1999336
+Mon Nov 20 2017 02:28:23 GMT+0200 (EET)
+Block error or empty: 1999340
+Mon Nov 20 2017 02:28:23 GMT+0200 (EET)
+Block error or empty: 1999341
+Mon Nov 20 2017 02:28:23 GMT+0200 (EET)
+Block error or empty: 1999343
+Mon Nov 20 2017 02:28:23 GMT+0200 (EET)
+Block error or empty: 1999344
+Mon Nov 20 2017 02:28:23 GMT+0200 (EET)
+Block error or empty: 1999345
+Mon Nov 20 2017 02:28:23 GMT+0200 (EET)
+Block error or empty: 1999346
+Mon Nov 20 2017 02:28:23 GMT+0200 (EET)
+Block error or empty: 1999347
+Mon Nov 20 2017 02:28:23 GMT+0200 (EET)
+Block error or empty: 1999398
+Mon Nov 20 2017 02:28:23 GMT+0200 (EET)
+Block error or empty: 1999393
+Mon Nov 20 2017 02:28:23 GMT+0200 (EET)
+Block error or empty: 1999392
+Mon Nov 20 2017 02:28:23 GMT+0200 (EET)
+Block error or empty: 1999391
+Mon Nov 20 2017 02:28:23 GMT+0200 (EET)
+Block error or empty: 1999389
+Mon Nov 20 2017 02:28:23 GMT+0200 (EET)
+Block error or empty: 1999387
+Mon Nov 20 2017 02:28:23 GMT+0200 (EET)
+Block error or empty: 1999385
+Mon Nov 20 2017 02:28:23 GMT+0200 (EET)
+Block error or empty: 1999381
+Mon Nov 20 2017 02:28:23 GMT+0200 (EET)
+Block error or empty: 1999379
+Mon Nov 20 2017 02:28:23 GMT+0200 (EET)
+Block error or empty: 1999378
+Mon Nov 20 2017 02:28:23 GMT+0200 (EET)
+Block error or empty: 1999377
+Mon Nov 20 2017 02:28:23 GMT+0200 (EET)
+Block error or empty: 1999374
+Mon Nov 20 2017 02:28:23 GMT+0200 (EET)
+Block error or empty: 1999372
+Mon Nov 20 2017 02:28:23 GMT+0200 (EET)
+Block error or empty: 1999375
+Mon Nov 20 2017 02:28:23 GMT+0200 (EET)
+Block error or empty: 1999323
+Mon Nov 20 2017 02:28:23 GMT+0200 (EET)
+Block error or empty: 1999363
+Mon Nov 20 2017 02:28:23 GMT+0200 (EET)
+Block error or empty: 1999369
+Mon Nov 20 2017 02:28:23 GMT+0200 (EET)
+Block error or empty: 1999368
+Mon Nov 20 2017 02:28:23 GMT+0200 (EET)
+Block error or empty: 1999366
+Mon Nov 20 2017 02:28:23 GMT+0200 (EET)
+Block error or empty: 1999361
+Mon Nov 20 2017 02:28:23 GMT+0200 (EET)
+Block error or empty: 1999359
+Mon Nov 20 2017 02:28:23 GMT+0200 (EET)
+Block error or empty: 1999358
+Mon Nov 20 2017 02:28:23 GMT+0200 (EET)
+Block error or empty: 1999355
+Mon Nov 20 2017 02:28:23 GMT+0200 (EET)
+Block error or empty: 1999349
+Mon Nov 20 2017 02:28:23 GMT+0200 (EET)
+Block error or empty: 1999351
+Mon Nov 20 2017 02:28:23 GMT+0200 (EET)
+Block error or empty: 1999350
+Mon Nov 20 2017 02:28:24 GMT+0200 (EET)
+Block error or empty: 1999402
+Mon Nov 20 2017 02:28:24 GMT+0200 (EET)
+Block error or empty: 1999403
+Mon Nov 20 2017 02:28:24 GMT+0200 (EET)
+Block error or empty: 1999406
+Mon Nov 20 2017 02:28:24 GMT+0200 (EET)
+Block error or empty: 1999410
+Mon Nov 20 2017 02:28:24 GMT+0200 (EET)
+Block error or empty: 1999414
+Mon Nov 20 2017 02:28:24 GMT+0200 (EET)
+Block error or empty: 1999458
+Mon Nov 20 2017 02:28:24 GMT+0200 (EET)
+Block error or empty: 1999459
+Mon Nov 20 2017 02:28:24 GMT+0200 (EET)
+Block error or empty: 1999472
+Mon Nov 20 2017 02:28:24 GMT+0200 (EET)
+Block error or empty: 1999474
+Mon Nov 20 2017 02:28:24 GMT+0200 (EET)
+Block error or empty: 1999493
+Mon Nov 20 2017 02:28:24 GMT+0200 (EET)
+Block error or empty: 1999499
+Mon Nov 20 2017 02:28:24 GMT+0200 (EET)
+Block error or empty: 1999490
+Mon Nov 20 2017 02:28:24 GMT+0200 (EET)
+Block error or empty: 1999486
+Mon Nov 20 2017 02:28:24 GMT+0200 (EET)
+Block error or empty: 1999467
+Mon Nov 20 2017 02:28:24 GMT+0200 (EET)
+Block error or empty: 1999466
+Mon Nov 20 2017 02:28:24 GMT+0200 (EET)
+Block error or empty: 1999465
+Mon Nov 20 2017 02:28:24 GMT+0200 (EET)
+Block error or empty: 1999456
+Mon Nov 20 2017 02:28:24 GMT+0200 (EET)
+Block error or empty: 1999455
+Mon Nov 20 2017 02:28:24 GMT+0200 (EET)
+Block error or empty: 1999454
+Mon Nov 20 2017 02:28:24 GMT+0200 (EET)
+Block error or empty: 1999446
+Mon Nov 20 2017 02:28:24 GMT+0200 (EET)
+Block error or empty: 1999445
+Mon Nov 20 2017 02:28:24 GMT+0200 (EET)
+Block error or empty: 1999442
+Mon Nov 20 2017 02:28:24 GMT+0200 (EET)
+Block error or empty: 1999462
+Mon Nov 20 2017 02:28:24 GMT+0200 (EET)
+Block error or empty: 1999461
+Mon Nov 20 2017 02:28:24 GMT+0200 (EET)
+Block error or empty: 1999423
+Mon Nov 20 2017 02:28:24 GMT+0200 (EET)
+Block error or empty: 1999433
+Mon Nov 20 2017 02:28:24 GMT+0200 (EET)
+Block error or empty: 1999429
+Mon Nov 20 2017 02:28:24 GMT+0200 (EET)
+Block error or empty: 1999428
+Mon Nov 20 2017 02:28:24 GMT+0200 (EET)
+Block error or empty: 1999427
+Mon Nov 20 2017 02:28:24 GMT+0200 (EET)
+Block error or empty: 1999435
+Mon Nov 20 2017 02:28:24 GMT+0200 (EET)
+Block error or empty: 1999434
+Mon Nov 20 2017 02:28:24 GMT+0200 (EET)
+Block error or empty: 1999450
+Mon Nov 20 2017 02:28:24 GMT+0200 (EET)
+Block error or empty: 1999481
+Mon Nov 20 2017 02:28:24 GMT+0200 (EET)
+Block error or empty: 1999480
+Mon Nov 20 2017 02:28:24 GMT+0200 (EET)
+Block error or empty: 1999448
+Mon Nov 20 2017 02:28:24 GMT+0200 (EET)
+Block error or empty: 1999447
+Mon Nov 20 2017 02:28:24 GMT+0200 (EET)
+Block error or empty: 1999457
+Mon Nov 20 2017 02:28:25 GMT+0200 (EET)
+Block error or empty: 1999509
+Mon Nov 20 2017 02:28:25 GMT+0200 (EET)
+Block error or empty: 1999510
+Mon Nov 20 2017 02:28:25 GMT+0200 (EET)
+Block error or empty: 1999511
+Mon Nov 20 2017 02:28:25 GMT+0200 (EET)
+Block error or empty: 1999513
+Mon Nov 20 2017 02:28:25 GMT+0200 (EET)
+Block error or empty: 1999506
+Mon Nov 20 2017 02:28:25 GMT+0200 (EET)
+Block error or empty: 1999503
+Mon Nov 20 2017 02:28:25 GMT+0200 (EET)
+Block error or empty: 1999502
+Mon Nov 20 2017 02:28:25 GMT+0200 (EET)
+Block error or empty: 1999599
+Mon Nov 20 2017 02:28:25 GMT+0200 (EET)
+Block error or empty: 1999598
+Mon Nov 20 2017 02:28:25 GMT+0200 (EET)
+Block error or empty: 1999582
+Mon Nov 20 2017 02:28:25 GMT+0200 (EET)
+Block error or empty: 1999580
+Mon Nov 20 2017 02:28:25 GMT+0200 (EET)
+Block error or empty: 1999578
+Mon Nov 20 2017 02:28:25 GMT+0200 (EET)
+Block error or empty: 1999576
+Mon Nov 20 2017 02:28:25 GMT+0200 (EET)
+Block error or empty: 1999592
+Mon Nov 20 2017 02:28:25 GMT+0200 (EET)
+Block error or empty: 1999572
+Mon Nov 20 2017 02:28:25 GMT+0200 (EET)
+Block error or empty: 1999590
+Mon Nov 20 2017 02:28:25 GMT+0200 (EET)
+Block error or empty: 1999588
+Mon Nov 20 2017 02:28:25 GMT+0200 (EET)
+Block error or empty: 1999587
+Mon Nov 20 2017 02:28:25 GMT+0200 (EET)
+Block error or empty: 1999570
+Mon Nov 20 2017 02:28:25 GMT+0200 (EET)
+Block error or empty: 1999569
+Mon Nov 20 2017 02:28:25 GMT+0200 (EET)
+Block error or empty: 1999568
+Mon Nov 20 2017 02:28:25 GMT+0200 (EET)
+Block error or empty: 1999544
+Mon Nov 20 2017 02:28:25 GMT+0200 (EET)
+Block error or empty: 1999584
+Mon Nov 20 2017 02:28:25 GMT+0200 (EET)
+Block error or empty: 1999528
+Mon Nov 20 2017 02:28:25 GMT+0200 (EET)
+Block error or empty: 1999527
+Mon Nov 20 2017 02:28:25 GMT+0200 (EET)
+Block error or empty: 1999526
+Mon Nov 20 2017 02:28:25 GMT+0200 (EET)
+Block error or empty: 1999541
+Mon Nov 20 2017 02:28:25 GMT+0200 (EET)
+Block error or empty: 1999540
+Mon Nov 20 2017 02:28:25 GMT+0200 (EET)
+Block error or empty: 1999583
+Mon Nov 20 2017 02:28:25 GMT+0200 (EET)
+Block error or empty: 1999559
+Mon Nov 20 2017 02:28:25 GMT+0200 (EET)
+Block error or empty: 1999558
+Mon Nov 20 2017 02:28:25 GMT+0200 (EET)
+Block error or empty: 1999524
+Mon Nov 20 2017 02:28:25 GMT+0200 (EET)
+Block error or empty: 1999520
+Mon Nov 20 2017 02:28:27 GMT+0200 (EET)
+Block error or empty: 1999518
+Mon Nov 20 2017 02:28:27 GMT+0200 (EET)
+Block error or empty: 1999557
+Mon Nov 20 2017 02:28:27 GMT+0200 (EET)
+Block error or empty: 1999556
+Mon Nov 20 2017 02:28:27 GMT+0200 (EET)
+Block error or empty: 1999548
+Mon Nov 20 2017 02:28:27 GMT+0200 (EET)
+Block error or empty: 1999550
+Mon Nov 20 2017 02:28:27 GMT+0200 (EET)
+Block error or empty: 1999538
+Mon Nov 20 2017 02:28:27 GMT+0200 (EET)
+Block error or empty: 1999537
+Mon Nov 20 2017 02:28:27 GMT+0200 (EET)
+Block error or empty: 1999530
+Mon Nov 20 2017 02:28:27 GMT+0200 (EET)
+Block error or empty: 1999546
+Mon Nov 20 2017 02:28:27 GMT+0200 (EET)
+Block error or empty: 1999609
+Mon Nov 20 2017 02:28:27 GMT+0200 (EET)
+Block error or empty: 1999611
+Mon Nov 20 2017 02:28:27 GMT+0200 (EET)
+Block error or empty: 1999612
+Mon Nov 20 2017 02:28:27 GMT+0200 (EET)
+Block error or empty: 1999699
+Mon Nov 20 2017 02:28:27 GMT+0200 (EET)
+Block error or empty: 1999700
+Mon Nov 20 2017 02:28:27 GMT+0200 (EET)
+Block error or empty: 1999697
+Mon Nov 20 2017 02:28:27 GMT+0200 (EET)
+Block error or empty: 1999676
+Mon Nov 20 2017 02:28:27 GMT+0200 (EET)
+Block error or empty: 1999674
+Mon Nov 20 2017 02:28:27 GMT+0200 (EET)
+Block error or empty: 1999673
+Mon Nov 20 2017 02:28:27 GMT+0200 (EET)
+Block error or empty: 1999695
+Mon Nov 20 2017 02:28:27 GMT+0200 (EET)
+Block error or empty: 1999670
+Mon Nov 20 2017 02:28:27 GMT+0200 (EET)
+Block error or empty: 1999656
+Mon Nov 20 2017 02:28:27 GMT+0200 (EET)
+Block error or empty: 1999655
+Mon Nov 20 2017 02:28:27 GMT+0200 (EET)
+Block error or empty: 1999654
+Mon Nov 20 2017 02:28:27 GMT+0200 (EET)
+Block error or empty: 1999653
+Mon Nov 20 2017 02:28:27 GMT+0200 (EET)
+Block error or empty: 1999688
+Mon Nov 20 2017 02:28:27 GMT+0200 (EET)
+Block error or empty: 1999687
+Mon Nov 20 2017 02:28:27 GMT+0200 (EET)
+Block error or empty: 1999668
+Mon Nov 20 2017 02:28:27 GMT+0200 (EET)
+Block error or empty: 1999647
+Mon Nov 20 2017 02:28:27 GMT+0200 (EET)
+Block error or empty: 1999645
+Mon Nov 20 2017 02:28:27 GMT+0200 (EET)
+Block error or empty: 1999666
+Mon Nov 20 2017 02:28:27 GMT+0200 (EET)
+Block error or empty: 1999685
+Mon Nov 20 2017 02:28:27 GMT+0200 (EET)
+Block error or empty: 1999684
+Mon Nov 20 2017 02:28:27 GMT+0200 (EET)
+Block error or empty: 1999683
+Mon Nov 20 2017 02:28:27 GMT+0200 (EET)
+Block error or empty: 1999682
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999678
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999669
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999617
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999615
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999662
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999640
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999639
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999625
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999621
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999700
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999711
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999713
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999701
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999703
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999702
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999800
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999762
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999748
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999749
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999776
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999775
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999773
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999741
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999798
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999797
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999796
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999739
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999769
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999794
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999759
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999790
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999766
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999765
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999763
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999736
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999786
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999753
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999785
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999752
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999735
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999751
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999750
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999783
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999733
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999723
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999732
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999722
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999781
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999719
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999718
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999717
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999727
+Mon Nov 20 2017 02:28:28 GMT+0200 (EET)
+Block error or empty: 1999799
+Mon Nov 20 2017 02:28:29 GMT+0200 (EET)
+Block error or empty: 1999761
+Mon Nov 20 2017 02:28:29 GMT+0200 (EET)
+Block error or empty: 1999724
+Mon Nov 20 2017 02:28:29 GMT+0200 (EET)
+Block error or empty: 1999800
+Mon Nov 20 2017 02:28:29 GMT+0200 (EET)
+Block error or empty: 1999802
+Mon Nov 20 2017 02:28:29 GMT+0200 (EET)
+Block error or empty: 1999803
+Mon Nov 20 2017 02:28:29 GMT+0200 (EET)
+Block error or empty: 1999804
+Mon Nov 20 2017 02:28:29 GMT+0200 (EET)
+Block error or empty: 1999805
+Mon Nov 20 2017 02:28:29 GMT+0200 (EET)
+Block error or empty: 1999808
+Mon Nov 20 2017 02:28:29 GMT+0200 (EET)
+Block error or empty: 1999809
+Mon Nov 20 2017 02:28:29 GMT+0200 (EET)
+Block error or empty: 1999828
+Mon Nov 20 2017 02:28:29 GMT+0200 (EET)
+Block error or empty: 1999833
+Mon Nov 20 2017 02:28:29 GMT+0200 (EET)
+Block error or empty: 1999834
+Mon Nov 20 2017 02:28:29 GMT+0200 (EET)
+Block error or empty: 1999835
+Mon Nov 20 2017 02:28:29 GMT+0200 (EET)
+Block error or empty: 1999826
+Mon Nov 20 2017 02:28:29 GMT+0200 (EET)
+Block error or empty: 1999822
+Mon Nov 20 2017 02:28:29 GMT+0200 (EET)
+Block error or empty: 1999843
+Mon Nov 20 2017 02:28:29 GMT+0200 (EET)
+Block error or empty: 1999842
+Mon Nov 20 2017 02:28:29 GMT+0200 (EET)
+Block error or empty: 1999821
+Mon Nov 20 2017 02:28:29 GMT+0200 (EET)
+Block error or empty: 1999820
+Mon Nov 20 2017 02:28:29 GMT+0200 (EET)
+Block error or empty: 1999840
+Mon Nov 20 2017 02:28:29 GMT+0200 (EET)
+Block error or empty: 1999819
+Mon Nov 20 2017 02:28:29 GMT+0200 (EET)
+Block error or empty: 1999839
+Mon Nov 20 2017 02:28:29 GMT+0200 (EET)
+Block error or empty: 1999885
+Mon Nov 20 2017 02:28:29 GMT+0200 (EET)
+Block error or empty: 1999897
+Mon Nov 20 2017 02:28:29 GMT+0200 (EET)
+Block error or empty: 1999816
+Mon Nov 20 2017 02:28:29 GMT+0200 (EET)
+Block error or empty: 1999815
+Mon Nov 20 2017 02:28:29 GMT+0200 (EET)
+Block error or empty: 1999813
+Mon Nov 20 2017 02:28:29 GMT+0200 (EET)
+Block error or empty: 1999812
+Mon Nov 20 2017 02:28:29 GMT+0200 (EET)
+Block error or empty: 1999883
+Mon Nov 20 2017 02:28:29 GMT+0200 (EET)
+Block error or empty: 1999892
+Mon Nov 20 2017 02:28:29 GMT+0200 (EET)
+Block error or empty: 1999810
+Mon Nov 20 2017 02:28:29 GMT+0200 (EET)
+Block error or empty: 1999891
+Mon Nov 20 2017 02:28:29 GMT+0200 (EET)
+Block error or empty: 1999880
+Mon Nov 20 2017 02:28:29 GMT+0200 (EET)
+Block error or empty: 1999879
+Mon Nov 20 2017 02:28:29 GMT+0200 (EET)
+Block error or empty: 1999889
+Mon Nov 20 2017 02:28:29 GMT+0200 (EET)
+Block error or empty: 1999875
+Mon Nov 20 2017 02:28:29 GMT+0200 (EET)
+Block error or empty: 1999888
+Mon Nov 20 2017 02:28:29 GMT+0200 (EET)
+Block error or empty: 1999887
+Mon Nov 20 2017 02:28:29 GMT+0200 (EET)
+Block error or empty: 1999858
+Mon Nov 20 2017 02:28:29 GMT+0200 (EET)
+Block error or empty: 1999870
+Mon Nov 20 2017 02:28:29 GMT+0200 (EET)
+Block error or empty: 1999867
+Mon Nov 20 2017 02:28:29 GMT+0200 (EET)
+Block error or empty: 1999871
+Mon Nov 20 2017 02:28:29 GMT+0200 (EET)
+Block error or empty: 1999856
+Mon Nov 20 2017 02:28:29 GMT+0200 (EET)
+Block error or empty: 1999854
+Mon Nov 20 2017 02:28:29 GMT+0200 (EET)
+Block error or empty: 1999853
+Mon Nov 20 2017 02:28:29 GMT+0200 (EET)
+Block error or empty: 1999851
+Mon Nov 20 2017 02:28:29 GMT+0200 (EET)
+Block error or empty: 1999850
+Mon Nov 20 2017 02:28:29 GMT+0200 (EET)
+Block error or empty: 1999866
+Mon Nov 20 2017 02:28:30 GMT+0200 (EET)
+Block error or empty: 1999901
+Mon Nov 20 2017 02:28:30 GMT+0200 (EET)
+Block error or empty: 1999903
+Mon Nov 20 2017 02:28:30 GMT+0200 (EET)
+Block error or empty: 1999905
+Mon Nov 20 2017 02:28:30 GMT+0200 (EET)
+Block error or empty: 1999906
+Mon Nov 20 2017 02:28:30 GMT+0200 (EET)
+Block error or empty: 1999909
+Mon Nov 20 2017 02:28:30 GMT+0200 (EET)
+Block error or empty: 1999912
+Mon Nov 20 2017 02:28:30 GMT+0200 (EET)
+Block error or empty: 1999977
+Mon Nov 20 2017 02:28:30 GMT+0200 (EET)
+Block error or empty: 1999998
+Mon Nov 20 2017 02:28:30 GMT+0200 (EET)
+Block error or empty: 1999958
+Mon Nov 20 2017 02:28:30 GMT+0200 (EET)
+Block error or empty: 1999945
+Mon Nov 20 2017 02:28:30 GMT+0200 (EET)
+Block error or empty: 1999956
+Mon Nov 20 2017 02:28:30 GMT+0200 (EET)
+Block error or empty: 1999955
+Mon Nov 20 2017 02:28:30 GMT+0200 (EET)
+Block error or empty: 1999963
+Mon Nov 20 2017 02:28:30 GMT+0200 (EET)
+Block error or empty: 1999984
+Mon Nov 20 2017 02:28:30 GMT+0200 (EET)
+Block error or empty: 1999982
+Mon Nov 20 2017 02:28:30 GMT+0200 (EET)
+Block error or empty: 1999981
+Mon Nov 20 2017 02:28:30 GMT+0200 (EET)
+Block error or empty: 1999978
+Mon Nov 20 2017 02:28:30 GMT+0200 (EET)
+Block error or empty: 1999913
+Mon Nov 20 2017 02:28:30 GMT+0200 (EET)
+Block error or empty: 1999941
+Mon Nov 20 2017 02:28:30 GMT+0200 (EET)
+Block error or empty: 1999940
+Mon Nov 20 2017 02:28:30 GMT+0200 (EET)
+Block error or empty: 1999939
+Mon Nov 20 2017 02:28:30 GMT+0200 (EET)
+Block error or empty: 1999938
+Mon Nov 20 2017 02:28:30 GMT+0200 (EET)
+Block error or empty: 1999949
+Mon Nov 20 2017 02:28:30 GMT+0200 (EET)
+Block error or empty: 1999936
+Mon Nov 20 2017 02:28:30 GMT+0200 (EET)
+Block error or empty: 1999934
+Mon Nov 20 2017 02:28:30 GMT+0200 (EET)
+Block error or empty: 1999933
+Mon Nov 20 2017 02:28:30 GMT+0200 (EET)
+Block error or empty: 1999918
+Mon Nov 20 2017 02:28:30 GMT+0200 (EET)
+Block error or empty: 1999916
+Mon Nov 20 2017 02:28:30 GMT+0200 (EET)
+Block error or empty: 1999915
+Mon Nov 20 2017 02:28:30 GMT+0200 (EET)
+Block error or empty: 1999987
