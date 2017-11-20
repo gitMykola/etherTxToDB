@@ -42,7 +42,7 @@ let f = (k)=>{
                   },1000*0.05);
               else console.log('Done          UUUUUUUUUUUUUUUUU');
             };
-const ks = 1990000;
+const ks = 1900000;
 ETH.transactionsToDBHistory_2_4(ks,ks + 100,
     ()=>f(ks + 100));
 module.exports = app;
