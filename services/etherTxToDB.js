@@ -278,24 +278,25 @@ module.exports = {
         //const txs = [];
         //let blockCount = 0;
         const web3 = this.instWeb3();
-        const coll = db.get('ether_transactions');
-        if (!web3 || finish >= start) {
-            console.log('Geth NOT CONNECTED!');
+        const coll = EtherTXDB;//db.get('ether_transactions');
+        if (!web3) {
+            console.log('Geth NOT CONNECTED!    FINISH: '
+                + finish + ' START: ' + start);
             next();
-        }
+        }else if(finish >= start) next();
         else
             for (let i = finish; i <= start; i++)
                 web3.eth.getBlock(i, true, (err, block) => {
-                    if (err || !block.transactions.length) {
-                        Log.error('Block error or empty: ' + i);
-                    }
+                    if (err)
+                        Log.error('Block error: ' + i);
+                    else if(!block.transactions.length) Log.log('Empty block ' + i);
                     else {
                         Log.log('Block N: ' + block.number);
                         let data = block.transactions.map(tx => {
                             tx.timestamp = block.timestamp;
                             return tx;
                         });
-                        let up = (k, utx, callba) => {
+                        /*let up = (k, utx, callba) => {
                             if (k >= utx.length) callba();
                             else
                                 coll.update({hash: utx[k].hash}, utx[k], {upsert: true}, (err, t) => {
@@ -309,8 +310,11 @@ module.exports = {
                                 Log.log(i + ' FINISH !!!');
                                 //next();
                             } else console.log(i + ' Done.');
+                        });*/
+                        coll.insertMany(data, (err, t) => {
+                            if (err) console.log(err);
+                            Log.log(i + ' FINISH !!!');
                         });
-
                     }
                     if (i >= start) next();
 
@@ -474,7 +478,7 @@ module.exports = {
             for (let i = blockFinish; i <= blockStart; i++)
                 setTimeout(()=>{
                 Log.log(i + ' block checking...');
-                db.get('ether_transactions').find({blockNumber: i}, (err, txs) => {
+                /*db.get('ether_transactions')*/EtherTXDB.find({blockNumber: i}, (err, txs) => {
                     //Log.error(fn+' '+ txs.length);
                     if (err) Log.error('Block ERROR: ' + i);
                     else
@@ -490,7 +494,7 @@ module.exports = {
                             }
                         })
                 });
-                }, 0.5)
+                }, 0.01)
             }
         }
 };
