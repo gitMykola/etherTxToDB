@@ -29,30 +29,37 @@ app.use(function(err, req, res, next) {
   res.status(err.status || 500);
   Log.log('Error: ' + err.message);
 });
+
+/*******************************
+* REAL TIME ETHERNET SCANNING
+*/
 //let f = ()=>{setTimeout(()=>ETH.transactionsToDB(f),1000*10)};
 //ETH.transactionsToDB(f);
-//ETH.fillMegaFastDB(1999996,2000000,()=>console.log('Done!!!!!'));
+
+/*****************************************
+ * DATABASE CHECKING FOR ACTUAL TXs
+ */
+
 //ETH.checkBlockTxCount(1900000,1910000,()=>console.log('DONE!!!!!!!'));
-//ETH.transactionsToDBHistory_2_1(1999800,2000000,()=>console.log('Done!!!!!'));
 
+/*********************************************
+ * DATABASE FILLING FROM BLOCKCHAIN START
+ */
 
-// 1 700 000 - 1 900 000 / 1 356 277
-// 1 900 000 - 2 110 000 / 1 862 291
-// 1 300 000 - 1 700 000 / 3 101 345 (3 101 527)
-//   900 000 - 1 300 000 / 4 828 576
-//   500 000 -   900 000 /
-
-
-const box = 500;
-let f = (k)=>{
-              if(k < 900000)
+const box = 50;
+let fn = (k)=>{
+              if(k < 2126000)
                 setTimeout(()=>{
-                  ETH.transactionsToDBHistory_2_4(k,k + box-1,
-                    ()=>f(k + box))
+                  ETH.transactionsToDBHistory(k,k + box-1,
+                    ()=>fn(k + box))
                   },1000*0.01);
-              else console.log('Done          UUUUUUUUUUUUUUUUU');
+              else {
+                  Log.log('Done          UUUUUUUUUUUUUUUUU');
+                  console.log('Done          UUUUUUUUUUUUUUUUU');
+              }
             };
-const ks = 500000;
-ETH.transactionsToDBHistory_2_4(ks,ks + box-1,
-    ()=>f(ks + box));
+const ks = 0;
+ETH.transactionsToDBHistory(ks,ks + box-1,
+    ()=>fn(ks + box));
+
 module.exports = app;
