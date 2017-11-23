@@ -4,18 +4,20 @@ let Log = require('../services/logToFile'),
     ERC20 = require('../assets/erc20');
 
 describe('EtherTxToDB',()=>{
-    it('db find test',()=>{
+    it('db find test',(done)=>{
         let Et = EtherTXDB;
         Et.find({}).select('blockNumber').sort({blockNumber:-1}).limit(1).exec(
             (err,b)=>{
             console.dir(err);
             console.dir(b[0].blockNumber);
+                Et.find({}).select('blockNumber').sort({blockNumber:1}).limit(1).exec(
+                    (err,b)=>{
+                        console.dir(err);
+                        console.dir(b[0].blockNumber);
+                        done();
+                    });
         });
-        Et.find({}).select('blockNumber').sort({blockNumber:1}).limit(1).exec(
-            (err,b)=>{
-                console.dir(err);
-                console.dir(b[0].blockNumber);
-            });
+
     });
     it('ERC20',(done)=>{
         let eFUNC = ethFUNC;

@@ -1,12 +1,8 @@
 let Log = require('../services/logToFile'),
     EtherTXDB = require('../services/EtherTXDB'),
-    db = require('../services/db'),
-    parallel = require('run-parallel'),
+//    parallel = require('run-parallel'),
     Web3 = require('web3');
-
-const { fork } = require('child_process');
-
-
+//const { fork } = require('child_process');
 
 module.exports = {
     web3: null,
@@ -72,12 +68,16 @@ module.exports = {
         if (!web3) {
             Log.log('Geth NOT CONNECTED!    FINISH: '
                 + finish + ' START: ' + start);
-            this.transactionsToDBHistory_2_4(finish,start,next);
+            this.transactionsToDBHistory(finish,start,next);
         }else if(finish >= start) next();
         else
             for (let i = finish; i <= start; i++)
                 web3.eth.getBlock(i, true, (err, block) => {
-                    if (err || !block)Log.error('Block error: ' + i);
+                    if (err || !block)
+                        {
+                            Log.error('Block error: ' + i);
+                            this.transactionsToDBHistory(i,start,next);
+                        }
                     else if(!block.transactions.length) Log.log('Empty block ' + i);
                     else {
                         Log.log('Block N: ' + block.number);
