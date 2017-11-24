@@ -9,5 +9,5 @@ module.exports = {
     },
     logTest:function(message){
         fs.appendFile('./appTestLog.txt','\n'+ new Date() + '\t'+message,err=>{if(err)console.log(err)})
-    },
+    }
 };

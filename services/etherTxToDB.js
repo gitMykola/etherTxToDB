@@ -1,5 +1,6 @@
 let Log = require('../services/logToFile'),
     EtherTXDB = require('../services/EtherTXDB'),
+    BadBlock = require('../services/badBlocks');
 //    parallel = require('run-parallel'),
     Web3 = require('web3');
 //const { fork } = require('child_process');
@@ -50,7 +51,7 @@ module.exports = {
                             }
                             else if (latestBlock.number - bNum > 0) {
                                 Log.log('In');
-                                this.transactionsToDBHistory(bNum, latestBlock.number, next);
+                                this.transactionsToDBHistory(bNum, latestBlock.number,[], next);
                             }
                             else next();
                         }
@@ -59,25 +60,23 @@ module.exports = {
         });
 
     },
-    transactionsToDBHistory:function(finish,start,next) {
+    transactionsToDBHistory:function(finish,start,badBlocks,next) {
         Log.log(finish + ' Start...');
         //const txs = [];
         //let blockCount = 0;
         const web3 = this.instWeb3();
-        const coll = EtherTXDB;
+        const coll = EtherTXDB,
+              badBlocklColl = BadBlock;
         if (!web3) {
             Log.log('Geth NOT CONNECTED!    FINISH: '
                 + finish + ' START: ' + start);
-            this.transactionsToDBHistory(finish,start,next);
+            this.transactionsToDBHistory(finish,start,badBlocks,next);
         }else if(finish >= start) next();
         else
             for (let i = finish; i <= start; i++)
                 web3.eth.getBlock(i, true, (err, block) => {
                     if (err || !block)
-                        {
-                            Log.error('Block error: ' + i);
-                            this.transactionsToDBHistory(i,start,next);
-                        }
+                            badBlocks.push(i);
                     else if(!block.transactions.length) Log.log('Empty block ' + i);
                     else {
                         Log.log('Block N: ' + block.number);
@@ -105,7 +104,13 @@ module.exports = {
                             Log.log(i + ' FINISH !!!');
                         });
                     }
-                    if (i === start) next();
+                    if (i === start)
+                        if(badBlocks.length)
+                            badBlocklColl.insertMany(badBlocks,(err,bb)=>{
+                            if (err) Log.error('Bad Blocks don\'t save.');
+                            else next();
+                        });
+                        else next();
 
                 })
 
