@@ -50,7 +50,7 @@ const box = 50;
 let fn = (k)=>{
               if(k < 2126000)
                 setTimeout(()=>{
-                  ETH.transactionsToDBHistory(k,k + box-1,[],
+                  ETH.transactionsToDBHistory(k,k + box-1,
                     ()=>fn(k + box))
                   },1000*0.01);
               else {
@@ -59,7 +59,12 @@ let fn = (k)=>{
               }
             };
 const ks = 0;
-ETH.transactionsToDBHistory(ks,ks + box-1,[],
+ETH.transactionsToDBHistory(ks,ks + box-1,
     ()=>fn(ks + box));
+
+/*******************************************
+ * RESCAN BAD BLOCKS
+ * */
+ETH.rescanBadBlocks(Log.log('Rescan bad blocks FINISH!!!!!!!'));
 
 module.exports = app;

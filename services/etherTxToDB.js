@@ -60,23 +60,22 @@ module.exports = {
         });
 
     },
-    transactionsToDBHistory:function(finish,start,badBlocks,next) {
+    transactionsToDBHistory:function(finish,start,next) {
         Log.log(finish + ' Start...');
         //const txs = [];
         //let blockCount = 0;
+        let badBlocks = [];
         const web3 = this.instWeb3();
-        const coll = EtherTXDB,
-              badBlocklColl = BadBlock;
         if (!web3) {
             Log.log('Geth NOT CONNECTED!    FINISH: '
                 + finish + ' START: ' + start);
-            this.transactionsToDBHistory(finish,start,badBlocks,next);
+            this.transactionsToDBHistory(finish,start,next);
         }else if(finish >= start) next();
         else
             for (let i = finish; i <= start; i++)
                 web3.eth.getBlock(i, true, (err, block) => {
                     if (err || !block)
-                            badBlocks.push(i);
+                            badBlocks.push({blockNumber:i});
                     else if(!block.transactions.length) Log.log('Empty block ' + i);
                     else {
                         Log.log('Block N: ' + block.number);
@@ -99,14 +98,14 @@ module.exports = {
                                 //next();
                             } else console.log(i + ' Done.');
                         });*/
-                        coll.insertMany(data, (err, t) => {
+                        EtherTXDB.insertMany(data, (err, t) => {
                             if (err) console.log(err);
                             Log.log(i + ' FINISH !!!');
                         });
                     }
                     if (i === start)
                         if(badBlocks.length)
-                            badBlocklColl.insertMany(badBlocks,(err,bb)=>{
+                            BadBlock.insertMany(badBlocks,(err,bb)=>{
                             if (err) Log.error('Bad Blocks don\'t save.');
                             else next();
                         });
@@ -114,6 +113,46 @@ module.exports = {
 
                 })
 
+    },
+    rescanBadBlocks:function(next){
+        BadBlock.find({},(err,bBlocks)=>{
+            if(err || !bBlocks) Log.error('Database error.');
+            else if(!bBlocks.length) Log.log('No bad blocks.');
+                else {
+                Log.log(finish + ' Start...');
+                const web3 = this.instWeb3();
+                const coll = EtherTXDB;
+                if (!web3){
+                    Log.log('Geth NOT CONNECTED!    FINISH: '
+                        + finish + ' START: ' + start);
+                    next();}
+                else
+                    for (let i = 0; i < bBlocks.length; i++)
+                        web3.eth.getBlock(bBlocks[i].blockNumber, true, (err, block) => {
+                            if (err || !block)
+                                Log.error('Still bad block! ' + bBlocks[i].blockNumber);
+                            else if(!block.transactions.length) Log.log('Empty block ' + bBlocks[i].blockNumber);
+                                else {
+                                    Log.log('Block N: ' + block.number);
+                                    let data = block.transactions.map(tx => {
+                                    tx.timestamp = block.timestamp;
+                                    return tx;
+                                });
+                                EtherTXDB.insertMany(data, (err, t) => {
+                                    if (err) Log.error('InsertMany ERROR!');
+                                    else {
+                                        BadBlock.remove({blockNumber:bBlocks[i].blockNumber},err=>{
+                                            if(err) Log.error('Removing bad block ERROR! ' + bBlocks[i].blockNumber);
+                                            else Log.log(bBlocks[i].blockNumber + ' FINISH !!!');
+                                        });
+                                    }
+                                });
+                            }
+                            if (i === bBlocks.length - 1) next();
+
+                        })
+            }
+        });
     },
     checkBlockTxCount:function(blockFinish,blockStart,next) {
         if (!this.connect()) {
