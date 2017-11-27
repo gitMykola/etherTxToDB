@@ -46,25 +46,25 @@ app.use(function(err, req, res, next) {
  * DATABASE FILLING FROM BLOCKCHAIN START
  */
 
-const box = 50;
+const box = 500;
 let fn = (k)=>{
-              if(k < 2126000)
+              if(k < 600000)
                 setTimeout(()=>{
-                  ETH.transactionsToDBHistory(k,k + box-1,
+                  ETH.transactionsToDBHistoryRPC(k,k + box-1,
                     ()=>fn(k + box))
-                  },1000*0.01);
+                  },1000*0.005);
               else {
                   Log.log('Done          UUUUUUUUUUUUUUUUU');
                   console.log('Done          UUUUUUUUUUUUUUUUU');
               }
             };
-const ks = 0;
-ETH.transactionsToDBHistory(ks,ks + box-1,
+const ks = 599000;
+ETH.transactionsToDBHistoryRPC(ks,ks + box-1,
     ()=>fn(ks + box));
 
 /*******************************************
  * RESCAN BAD BLOCKS
  * */
-ETH.rescanBadBlocks(Log.log('Rescan bad blocks FINISH!!!!!!!'));
+//ETH.rescanBadBlocks(Log.log('Rescan bad blocks FINISH!!!!!!!'));
 
 module.exports = app;

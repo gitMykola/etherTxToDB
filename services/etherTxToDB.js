@@ -1,6 +1,7 @@
 let Log = require('../services/logToFile'),
     EtherTXDB = require('../services/EtherTXDB'),
-    BadBlock = require('../services/badBlocks');
+    BadBlock = require('../services/badBlocks'),
+    xhr = require('xmlhttprequest').XMLHttpRequest;
 //    parallel = require('run-parallel'),
     Web3 = require('web3');
 //const { fork } = require('child_process');
@@ -114,6 +115,49 @@ module.exports = {
                 })
 
     },
+    transactionsToDBHistoryRPC:function(finish,start,next) {
+        Log.log(finish + ' Start...');
+        //const txs = [];
+        //let blockCount = 0;
+        this.gethRPC('net_listening',[],(err,result)=>{
+            if(!result || result.result !== true) {
+                Log.error('GETH ERROR!');
+                this.transactionsToDBHistoryRPC(finish,start,next);
+            }
+            else{
+                let badBlocks = [];
+                if(finish >= start) next();
+                else
+                    for (let i = finish; i <= start; i++)
+                        this.gethRPC('eth_getBlockByNumber',['0x'+i.toString(16), true], (err, result) => {
+                            if (err || !result || typeof(result.result) !== 'object' || typeof(result.result.transactions) !== 'object')
+                                badBlocks.push({blockNumber:i});
+                            else if(!result.result.transactions.length) Log.log('Empty block ' + i);
+                            else {
+                                Log.log('Block N: ' + i);
+                                let data = result.result.transactions.map(tx => {
+                                    tx.timestamp = result.result.timestamp;
+                                    return tx;
+                                });
+                                EtherTXDB.insertMany(data, (err, t) => {
+                                    if (err) console.log(err);
+                                    Log.log(i + ' FINISH !!!');
+                                });
+                            }
+                            if (i === start)
+                                if (badBlocks.length)
+                                    BadBlock.insertMany(badBlocks, (err, bb) => {
+                                        if (err) Log.error('Bad Blocks don\'t save.');
+                                        next();
+                                    });
+                                else next();
+
+                        })
+            }
+        });
+
+
+    },
     rescanBadBlocks:function(next){
         BadBlock.find({},(err,bBlocks)=>{
             if(err || !bBlocks) Log.error('Database error.');
@@ -181,5 +225,12 @@ module.exports = {
                 });
                 }, 0.01)
             }
-        }
+        },
+    gethRPC:function(method,params,next){
+        const req = new xhr();
+        req.open('POST', 'http://localhost:8545');
+        req.onload = () => next(null,JSON.parse(req.responseText));
+        req.onerror = (e) => next(e,null);
+        req.send(JSON.stringify({"jsonrpc":"2.0","method":method,"params":params,"id":67}));
+    }
 };

@@ -32,5 +32,9 @@ describe('EtherTxToDB',()=>{
             console.log(tokenContract.balanceOf(address).toNumber());
             done();
         }
+    });
+    it('TEST RPC',(done)=>{
+        ethFUNC.gethRPC('eth_getBlockByNumber',['0x' + (50003).toString(16),true],(e,r)=>console.log(r.result));
+            done();
     })
 });
