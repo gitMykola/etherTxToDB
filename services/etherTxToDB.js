@@ -52,7 +52,7 @@ module.exports = {
                             }
                             else if (latestBlock.number - bNum > 0) {
                                 Log.log('In');
-                                this.transactionsToDBHistory(bNum, latestBlock.number,[], next);
+                                this.transactionsToDBHistoryRPC(bNum, latestBlock.number,[], next);
                             }
                             else next();
                         }
@@ -228,7 +228,7 @@ module.exports = {
         },
     gethRPC:function(method,params,next){
         const req = new xhr();
-        req.open('POST', 'http://localhost:8545');
+        req.open('POST', 'http://localhost:8546');
         req.onload = () => next(null,JSON.parse(req.responseText));
         req.onerror = (e) => next(e,null);
         req.send(JSON.stringify({"jsonrpc":"2.0","method":method,"params":params,"id":67}));
