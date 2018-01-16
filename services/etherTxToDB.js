@@ -20,7 +20,10 @@ module.exports = {
         if (this.web3 !== null) {
             this.web3 = new Web3(this.web3.currentProvider);
         } else {
-            this.web3 = new Web3(new Web3.providers.HttpProvider('http://localhost:8545'));
+            //this.web3 = new Web3(new Web3.providers.HttpProvider('http://localhost:8545'));
+            let net = require('net');
+            this.web3 = new Web3(new Web3.providers
+                .IpcProvider('/home/mykola/.ethereum/testnet/geth.ipc',net));
         }
         return this.web3.isConnected();
     },
@@ -52,7 +55,7 @@ module.exports = {
                             }
                             else if (latestBlock.number - bNum > 0) {
                                 Log.log('In');
-                                this.transactionsToDBHistoryRPC(bNum, latestBlock.number,[], next);
+                                this.transactionsToDBHistory(bNum, latestBlock.number, next);
                             }
                             else next();
                         }
@@ -84,10 +87,10 @@ module.exports = {
                             tx.timestamp = block.timestamp;
                             return tx;
                         });
-                        /*let up = (k, utx, callba) => {
+                        let up = (k, utx, callba) => {
                             if (k >= utx.length) callba();
                             else
-                                coll.update({hash: utx[k].hash}, utx[k], {upsert: true}, (err, t) => {
+                                EtherTXDB.update({hash: utx[k].hash}, utx[k], {upsert: true}, (err, t) => {
                                     if (err) console.log(err);
                                     up(++k, utx, callba);
                                 });
@@ -98,11 +101,11 @@ module.exports = {
                                 Log.log(i + ' FINISH !!!');
                                 //next();
                             } else console.log(i + ' Done.');
-                        });*/
-                        EtherTXDB.insertMany(data, (err, t) => {
+                        });
+                       /* EtherTXDB.insertMany(data, (err, t) => {
                             if (err) console.log(err);
                             Log.log(i + ' FINISH !!!');
-                        });
+                        });*/
                     }
                     if (i === start)
                         if(badBlocks.length)
@@ -228,7 +231,7 @@ module.exports = {
         },
     gethRPC:function(method,params,next){
         const req = new xhr();
-        req.open('POST', 'http://localhost:8546');
+        req.open('POST', 'http://localhost:8545');
         req.onload = () => next(null,JSON.parse(req.responseText));
         req.onerror = (e) => next(e,null);
         req.send(JSON.stringify({"jsonrpc":"2.0","method":method,"params":params,"id":67}));

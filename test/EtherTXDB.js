@@ -36,5 +36,15 @@ describe('EtherTxToDB',()=>{
     it('TEST RPC',(done)=>{
         ethFUNC.gethRPC('eth_getBlockByNumber',['0x' + (50003).toString(16),true],(e,r)=>console.log(r.result));
             done();
+    });
+    it('TEST IPC',(done)=>{
+        let web3 = ethFUNC.connect()?ethFUNC.web3:null;
+        //web3.currentProvider.on('end',()=>console.log('GET NOT CONNECTED!'));
+        for(let i = 2000000;i <= 2050000;i++)
+        web3.eth.getBlock(i,(e,b)=>{
+            Log.log(b.number + ' ' + b.transactions.length);
+            if(i === 2050000)done();
+        });
+
     })
 });

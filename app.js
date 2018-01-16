@@ -48,9 +48,9 @@ app.use(function(err, req, res, next) {
 
 const box = 500;
 let fn = (k)=>{
-              if(k < 600000)
+              if(k < 2002000)
                 setTimeout(()=>{
-                  ETH.transactionsToDBHistoryRPC(k,k + box-1,
+                  ETH.transactionsToDBHistory(k,k + box-1,
                     ()=>fn(k + box))
                   },1000*0.005);
               else {
@@ -58,8 +58,8 @@ let fn = (k)=>{
                   console.log('Done          UUUUUUUUUUUUUUUUU');
               }
             };
-const ks = 599000;
-ETH.transactionsToDBHistoryRPC(ks,ks + box-1,
+const ks = 2000000;
+ETH.transactionsToDBHistory(ks,ks + box-1,
     ()=>fn(ks + box));
 
 /*******************************************

@@ -4,7 +4,7 @@ let Mongoose = require('mongoose').Mongoose,
 let Schema = mongoose.Schema,
     ObjectId = Schema.ObjectId;
     mongoose.Promise = global.Promise;
-    mongoose.connect('mongodb://127.0.0.1/ethertransactions?poolSize=30',{
+    mongoose.connect('mongodb://127.0.0.1/ethertransactions?',{
     useMongoClient: true,
 });
 
@@ -14,13 +14,13 @@ let EtherTxDB = new Schema({
     blockNumber: Number, // Block number where this transaction was in. null when its pending.
     from: String, // Address of the sender.
     gas: Number, // Gas provided by the sender.
-    gasPrice: Schema.Types.Long, //  Gas price provided by the sender in wei.
+    gasPrice: String, //  Gas price provided by the sender in wei.
     hash: String, // 32 Bytes - String: Hash of the transaction.
     input: String, // The data sent along with the transaction.
     nonce: Number, // The number of transactions made by the sender prior to this one.
     to: String, // Address of the receiver. null when its a contract creation transaction.
     transactionIndex: Number, // Integer of the transactions index position in the block. null when its pending.
-    value: Schema.Types.Long, // Value transferred in wei.
+    value: String, // Value transferred in wei.
     v: String, // signature[0:64]
     r: String, // signature[64:128]
     s: String, // signature[128:130]
