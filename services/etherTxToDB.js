@@ -20,44 +20,47 @@ module.exports = {
         if (this.web3 !== null) {
             this.web3 = new Web3(this.web3.currentProvider);
         } else {
-            //this.web3 = new Web3(new Web3.providers.HttpProvider('http://localhost:8545'));
-            let net = require('net');
-            this.web3 = new Web3(new Web3.providers
-                .IpcProvider('/home/mykola/.ethereum/testnet/geth.ipc',net));
+            this.web3 = new Web3(new Web3.providers.HttpProvider('http://localhost:8545'));
+            //let net = require('net');
+            //this.web3 = new Web3(new Web3.providers
+            //    .IpcProvider('/home/mykola/.ethereum/testnet/geth.ipc',net));
         }
         return this.web3.isConnected();
     },
-    transactionsToDB:function(next){
+    transactionsToDB:function(opts, next){
+        const self = this;
+        self.opts = opts;
+        self.opts = self.opts || {};
+        self.opts.lastBlock = self.opts.lastBlock || 0;
         Log.log('Start transactionsToDB...');
         EtherTXDB.find({}).select('blockNumber').sort({blockNumber:-1}).limit(1).exec((err,tx)=>{
-            if(err || !tx || !tx.length) {
+            if(err || !tx || !tx.length || !tx[0].blockNumber) {
                 Log.error('DATABASE OR QUERY ERROR ' + err.message);
-                next();
+                next(self.opts);
             }
-            else if(!this.connect())
+            else if(!self.connect())
                 {
                     Log.error('Geth connection error!');
-                    next();
+                    next(self.opts);
                 }else{
-                    let web3 = this.web3;
-                    web3.eth.getBlock('latest',(err,latestBlock)=>{
-                        if(err || !latestBlock)
+                    self.web3.eth.getBlock('latest',(err,latestBlock)=>{
+                        if(err || !latestBlock || !latestBlock.number)
                         {
                             Log.error('web3.eth.getBlock("latest") error');
-                            next();
+                            next(self.opts);
                         }else
                         {
-                            let bNum = tx[0] ? tx[0].blockNumber : latestBlock.number - 1;
-                            Log.log('Block [' + latestBlock.number + '] ' + tx.length);
+                            let bNum = tx[0].blockNumber;
+                            Log.log('Block [' + latestBlock.number + ']');
                             if (err) {
                                 Log.log('Web3.eth.getBlock error!');
-                                next();
+                                next(self.opts);
                             }
-                            else if (latestBlock.number - bNum > 0) {
+                            else if (latestBlock.number > bNum && latestBlock.number > self.opts.lastBlock) {
                                 Log.log('In');
-                                this.transactionsToDBHistory(bNum, latestBlock.number, next);
+                                this.transactionsToDBHistoryRPC(bNum, latestBlock.number, self.opts, next);
                             }
-                            else next();
+                            else next(self.opts);
                         }
                     });
                 }
@@ -118,21 +121,23 @@ module.exports = {
                 })
 
     },
-    transactionsToDBHistoryRPC:function(finish,start,next) {
+    transactionsToDBHistoryRPC:function(finish,start,opts,next) {
+        const self = this;
+        self.opts = opts;
         Log.log(finish + ' Start...');
         //const txs = [];
         //let blockCount = 0;
-        this.gethRPC('net_listening',[],(err,result)=>{
+        self.gethRPC('net_listening',[],(err,result)=>{
             if(!result || result.result !== true) {
                 Log.error('GETH ERROR!');
-                this.transactionsToDBHistoryRPC(finish,start,next);
+                self.transactionsToDBHistoryRPC(finish,start,self.opts,next);
             }
             else{
                 let badBlocks = [];
                 if(finish >= start) next();
                 else
                     for (let i = finish; i <= start; i++)
-                        this.gethRPC('eth_getBlockByNumber',['0x'+i.toString(16), true], (err, result) => {
+                        self.gethRPC('eth_getBlockByNumber',['0x'+i.toString(16), true], (err, result) => {
                             if (err || !result || typeof(result.result) !== 'object' || typeof(result.result.transactions) !== 'object')
                                 badBlocks.push({blockNumber:i});
                             else if(!result.result.transactions.length) Log.log('Empty block ' + i);
@@ -147,14 +152,15 @@ module.exports = {
                                     Log.log(i + ' FINISH !!!');
                                 });
                             }
-                            if (i === start)
+                            if (i === start) {
+                                self.opts.lastBlock = start;
                                 if (badBlocks.length)
                                     BadBlock.insertMany(badBlocks, (err, bb) => {
                                         if (err) Log.error('Bad Blocks don\'t save.');
-                                        next();
+                                        next(self.opts);
                                     });
-                                else next();
-
+                                else next(self.opts);
+                            }
                         })
             }
         });

@@ -33,8 +33,8 @@ app.use(function(err, req, res, next) {
 /*******************************
 * REAL TIME ETHERNET SCANNING
 */
-//let f = ()=>{setTimeout(()=>ETH.transactionsToDB(f),1000*10)};
-//ETH.transactionsToDB(f);
+let f = (opts)=>{setTimeout(()=>ETH.transactionsToDB(opts,f),1000*10)};
+ETH.transactionsToDB({lastBlock:2472330},f);
 
 /*****************************************
  * DATABASE CHECKING FOR ACTUAL TXs
@@ -50,7 +50,7 @@ const box = 500;
 let fn = (k)=>{
               if(k < 2002000)
                 setTimeout(()=>{
-                  ETH.transactionsToDBHistory(k,k + box-1,
+                  ETH.transactionsToDBHistoryRPC(k,k + box-1,
                     ()=>fn(k + box))
                   },1000*0.005);
               else {
@@ -59,8 +59,8 @@ let fn = (k)=>{
               }
             };
 const ks = 2000000;
-ETH.transactionsToDBHistory(ks,ks + box-1,
-    ()=>fn(ks + box));
+//ETH.transactionsToDBHistoryRPC(ks,ks + box-1,
+//    ()=>fn(ks + box));
 
 /*******************************************
  * RESCAN BAD BLOCKS

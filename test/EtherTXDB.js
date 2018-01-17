@@ -46,5 +46,17 @@ describe('EtherTxToDB',()=>{
             if(i === 2050000)done();
         });
 
+    });
+    it('TEST',(done)=> {
+        let web3 = ethFUNC.instWeb3();
+        if (web3.isConnected()) web3.eth.getBlock(2472028,/*isSyncing(*/(e, b) => {
+            console.dir(e);
+            console.dir(b);
+            done();
+        })
+    })
+    it('UpdateMany',(done)=> {
+
+        done();
     })
 });
