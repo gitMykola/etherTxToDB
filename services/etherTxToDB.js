@@ -50,14 +50,15 @@ module.exports = {
                             next(self.opts);
                         }else
                         {
-                            let bNum = tx[0].blockNumber;
+                            let bNum = tx[0].blockNumber + 1;
                             Log.log('Block [' + latestBlock.number + ']');
                             if (err) {
                                 Log.log('Web3.eth.getBlock error!');
                                 next(self.opts);
                             }
                             else if (latestBlock.number > bNum && latestBlock.number > self.opts.lastBlock) {
-                                Log.log('In');
+                                Log.log('In ' + bNum + ' ' + latestBlock.number + ' ' + self.opts.lastBlock);
+                                self.opts.lastBlock = latestBlock.number;
                                 this.transactionsToDBHistoryRPC(bNum, latestBlock.number, self.opts, next);
                             }
                             else next(self.opts);
@@ -123,7 +124,7 @@ module.exports = {
     },
     transactionsToDBHistoryRPC:function(finish,start,opts,next) {
         const self = this;
-        self.opts = opts;
+        self.opts = opts || {};
         Log.log(finish + ' Start...');
         //const txs = [];
         //let blockCount = 0;
@@ -134,11 +135,12 @@ module.exports = {
             }
             else{
                 let badBlocks = [];
-                if(finish >= start) next();
+                if(finish >= start) next(self.opts);
                 else
                     for (let i = finish; i <= start; i++)
                         self.gethRPC('eth_getBlockByNumber',['0x'+i.toString(16), true], (err, result) => {
-                            if (err || !result || typeof(result.result) !== 'object' || typeof(result.result.transactions) !== 'object')
+                            console.dir(result.transactions);
+                            if (err || !result || !result.result || typeof(result.result) !== 'object' || typeof(result.result.transactions) !== 'object')
                                 badBlocks.push({blockNumber:i});
                             else if(!result.result.transactions.length) Log.log('Empty block ' + i);
                             else {

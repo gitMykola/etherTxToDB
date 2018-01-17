@@ -34,7 +34,7 @@ describe('EtherTxToDB',()=>{
         }
     });
     it('TEST RPC',(done)=>{
-        ethFUNC.gethRPC('eth_getBlockByNumber',['0x' + (50003).toString(16),true],(e,r)=>console.log(r.result));
+        ethFUNC.gethRPC('eth_getBlockByNumber',['0x' + (2474400).toString(16),true],(e,r)=>console.log(r.result.transactions));
             done();
     });
     it('TEST IPC',(done)=>{
@@ -49,7 +49,7 @@ describe('EtherTxToDB',()=>{
     });
     it('TEST',(done)=> {
         let web3 = ethFUNC.instWeb3();
-        if (web3.isConnected()) web3.eth.getBlock(2472028,/*isSyncing(*/(e, b) => {
+        if (web3.isConnected()) web3.eth.getBlock(2474400,/*isSyncing(*/(e, b) => {
             console.dir(e);
             console.dir(b);
             done();
@@ -58,5 +58,9 @@ describe('EtherTxToDB',()=>{
     it('UpdateMany',(done)=> {
 
         done();
-    })
+    });
+    it('TEST transactionsToDBHistoryRPC',(done)=>{
+        ethFUNC.transactionsToDBHistoryRPC(2474418,2474450,{lastBlock:2474450}, r => console.dir(r));
+        done();
+    });
 });

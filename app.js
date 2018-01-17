@@ -48,9 +48,9 @@ ETH.transactionsToDB({lastBlock:2472330},f);
 
 const box = 500;
 let fn = (k)=>{
-              if(k < 2002000)
+              if(k < 2474418)
                 setTimeout(()=>{
-                  ETH.transactionsToDBHistoryRPC(k,k + box-1,
+                  ETH.transactionsToDBHistoryRPC(k,k + box-1,{},
                     ()=>fn(k + box))
                   },1000*0.005);
               else {
@@ -58,8 +58,8 @@ let fn = (k)=>{
                   console.log('Done          UUUUUUUUUUUUUUUUU');
               }
             };
-const ks = 2000000;
-//ETH.transactionsToDBHistoryRPC(ks,ks + box-1,
+const ks = 2474400;
+//ETH.transactionsToDBHistoryRPC(ks,ks + box-1,{lastBlock:2474418},
 //    ()=>fn(ks + box));
 
 /*******************************************
