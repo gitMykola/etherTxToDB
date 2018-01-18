@@ -49,7 +49,7 @@ describe('EtherTxToDB',()=>{
     });
     it('TEST',(done)=> {
         let web3 = ethFUNC.instWeb3();
-        if (web3.isConnected()) web3.eth.getBlock(2474400,/*isSyncing(*/(e, b) => {
+        if (web3.isConnected()) web3.eth.getBlock(74400,/*isSyncing(*/(e, b) => {
             console.dir(e);
             console.dir(b);
             done();
