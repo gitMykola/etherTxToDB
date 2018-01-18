@@ -33,8 +33,17 @@ app.use(function(err, req, res, next) {
 /*******************************
 * REAL TIME ETHERNET SCANNING
 */
-let f = (opts)=>{setTimeout(()=>ETH.transactionsToDB(opts,f),1000*10)};
-ETH.transactionsToDB({lastBlock:2472330},f);
+
+ ETH.realTimeScan(() => Log.log('Realtime scaning stop.'));
+
+// let f = (opts)=>{setTimeout(()=>ETH.transactionsToDB(opts,f),1000*10)};
+//ETH.transactionsToDB({lastBlock:2472330},f);
+/*ETH.scanInterval({
+    blockBegin: 2276000,
+    blockEnd: 2277000
+}, ()=>{
+    console.log('Done');
+});*/
 
 /*****************************************
  * DATABASE CHECKING FOR ACTUAL TXs
@@ -46,19 +55,24 @@ ETH.transactionsToDB({lastBlock:2472330},f);
  * DATABASE FILLING FROM BLOCKCHAIN START
  */
 
-const box = 500;
+const box = 500,
+    ks = 2470000,
+    kf = 2474418;
 let fn = (k)=>{
-              if(k < 2474418)
+              if(k < kf)
                 setTimeout(()=>{
-                  ETH.transactionsToDBHistoryRPC(k,k + box-1,{},
-                    ()=>fn(k + box))
-                  },1000*0.005);
+                  if(k + box-1 > kf)
+                      ETH.transactionsToDBHistoryRPC(k,kf,{},
+                          ()=>fn(kf));
+                     else
+                          ETH.transactionsToDBHistoryRPC(k,k + box-1,{},
+                            ()=>fn(k + box))
+                },1000*0.005);
               else {
                   Log.log('Done          UUUUUUUUUUUUUUUUU');
                   console.log('Done          UUUUUUUUUUUUUUUUU');
               }
             };
-const ks = 2474400;
 //ETH.transactionsToDBHistoryRPC(ks,ks + box-1,{lastBlock:2474418},
 //    ()=>fn(ks + box));
 
