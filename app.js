@@ -33,8 +33,17 @@ app.use(function(err, req, res, next) {
 /*******************************
 * REAL TIME ETHERNET SCANNING
 */
-let f = (opts)=>{setTimeout(()=>ETH.transactionsToDB(opts,f),1000*10)};
+
+ ETH.realTimeScan(() => Log.log('Realtime scaning stop.'));
+
+// let f = (opts)=>{setTimeout(()=>ETH.transactionsToDB(opts,f),1000*10)};
 //ETH.transactionsToDB({lastBlock:2472330},f);
+/*ETH.scanInterval({
+    blockBegin: 2276000,
+    blockEnd: 2277000
+}, ()=>{
+    console.log('Done');
+});*/
 
 /*****************************************
  * DATABASE CHECKING FOR ACTUAL TXs
@@ -64,8 +73,8 @@ let fn = (k)=>{
                   console.log('Done          UUUUUUUUUUUUUUUUU');
               }
             };
-ETH.transactionsToDBHistoryRPC(ks,ks + box-1,{lastBlock:2474418},
-    ()=>fn(ks + box));
+//ETH.transactionsToDBHistoryRPC(ks,ks + box-1,{lastBlock:2474418},
+//    ()=>fn(ks + box));
 
 /*******************************************
  * RESCAN BAD BLOCKS

@@ -27,6 +27,81 @@ module.exports = {
         }
         return this.web3.isConnected();
     },
+    realTimeScan:function(next){
+        const self = this,
+            opts = {};
+        opts.span = 500;
+        opts.spanScanInterval = 5;
+        opts.realTimeErrorRescanTime = 5*60*1000;
+        opts.realTimeRescanTime = 10*1000;
+        self.opts = opts;
+        EtherTXDB.find({}).select('blockNumber').sort({blockNumber:-1}).limit(1).exec((err,tx)=>{
+                if(err || !tx) {
+                    Log.error('DATABASE ERROR ' + err.message);
+                    setTimeout(()=>{ self.realTimeScan(next) }, self.opts.realTimeErrorRescanTime);
+                }
+                else if(!self.connect())
+                {
+                    Log.error('Geth connection error!');
+                    next(self.opts);
+                } else {
+                    self.opts.blockBegin = (tx.length && tx[0].blockNumber) ? tx[0].blockNumber : 0;
+                    self.web3.eth.getBlock('latest', (err, latestBlock) => {
+                        if(err || !latestBlock || !latestBlock.number)
+                        {
+                            Log.error('web3.eth.getBlock("latest") error');
+                            setTimeout(()=>{ self.realTimeScan(next) }, self.opts.realTimeErrorRescanTime);
+                        } else if(latestBlock.number - self.opts.blockBegin > self.opts.span) {
+                            self.opts.blockEnd = latestBlock.number;
+                            self.scanInterval(self.opts, () => {
+                                self.realTimeScan(next);
+                            })
+                        } else {
+                            const f = (opt)=>{
+                                // console.log('Scaning interval ' + opt.realTimeRescanTime);
+                                setTimeout(() => self.transactionsToDB(opt,f),
+                                    opt.realTimeRescanTime)
+                            };
+                            f(self.opts);
+                        }
+                    });
+                }
+        })
+    },
+    scanInterval:function(opts,next){
+        const self = this;
+        opts = opts || {};
+        opts.span = opts.span || 500;
+        opts.spanScanInterval = opts.spanScanInterval || 5;
+        opts.blockBegin = opts.blockBegin || 0;
+        opts.blockEnd = opts.blockEnd || 0;
+        self.opts = opts;
+        const fn = (opts) => {
+            Log.error(opts.k + ' ' + opts.blockEnd);
+            if(opts.k < opts.blockEnd)
+                setTimeout(()=>{
+                    // console.log(opts.k);
+                    if(opts.k + opts.span - 1 > opts.blockEnd)
+                        self.transactionsToDBHistoryRPC(opts.k,opts.blockEnd,{},
+                            ()=>{
+                            opts.k = opts.blockEnd;
+                            fn(opts)
+                        });
+                    else
+                        self.transactionsToDBHistoryRPC(opts.k,opts.k + opts.span-1,{},
+                            ()=>{
+                            opts.k = opts.k + opts.span;
+                            fn(opts)
+                            })
+                },opts.spanScanInterval);
+            else {
+                Log.log('Fill Database by scanInterval DONE          UUUUUUUUUUUUUUUUU');
+                next();
+            }
+        };
+        self.opts.k = self.opts.blockBegin;
+        fn(self.opts);
+    },
     transactionsToDB:function(opts, next){
         const self = this;
         self.opts = opts;
@@ -51,7 +126,7 @@ module.exports = {
                         }else
                         {
                             let bNum = tx[0].blockNumber + 1;
-                            Log.log('Block [' + latestBlock.number + ']');
+                            // Log.log('Block [' + latestBlock.number + ']');
                             if (err) {
                                 Log.log('Web3.eth.getBlock error!');
                                 next(self.opts);
@@ -139,7 +214,7 @@ module.exports = {
                 else
                     for (let i = finish; i <= start; i++)
                         self.gethRPC('eth_getBlockByNumber',['0x'+i.toString(16), true], (err, result) => {
-                            console.dir(result.transactions);
+                            //console.dir(result.result.transactions);
                             if (err || !result || !result.result || typeof(result.result) !== 'object' || typeof(result.result.transactions) !== 'object')
                                 badBlocks.push({blockNumber:i});
                             else if(!result.result.transactions.length) Log.log('Empty block ' + i);

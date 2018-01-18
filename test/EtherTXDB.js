@@ -55,9 +55,20 @@ describe('EtherTxToDB',()=>{
             done();
         })
     })
-    it('UpdateMany',(done)=> {
-
-        done();
+    it('Test empty db',(done)=> {
+        EtherTXDB.find({}).select('blockNumber').sort({blockNumber:-1}).limit(1).exec((err,tx)=>{
+            console.dir(Boolean(tx));
+            done();
+        });
+    });
+    it('Test scanInterval',(done)=> {
+        ethFUNC.scanInterval({
+            blockBegin: 2476000,
+            blockEnd: 2477000
+        }, ()=>{
+            console.log('Done');
+            done();
+        });
     });
     it('TEST transactionsToDBHistoryRPC',(done)=>{
         ethFUNC.transactionsToDBHistoryRPC(2474418,2474450,{lastBlock:2474450}, r => console.dir(r));
