@@ -34,7 +34,12 @@ describe('EtherTxToDB',()=>{
         }
     });
     it('TEST RPC',(done)=>{
-        ethFUNC.gethRPC('eth_getBlockByNumber',['0x' + (2474400).toString(16),true],(e,r)=>console.log(r.result.transactions));
+        //ethFUNC.gethRPC('eth_getBlockByNumber',['0x' + (2474400).toString(16),true],(e,r)=>console.dir(r.result.transactions));
+        ethFUNC.gethRPC('eth_getTransactionByHash',['0x0a67c78d3af63a17fe4f8ce0cacaa0737efdaaa77897c23c6d34a8af5df15245'],(e,r)=>console.dir(r));
+        let web3 = ethFUNC.instWeb3();
+        //if (web3) web3.eth.getBlock(2474400, true, (e,r)=>console.dir(r));
+
+        if (web3) web3.eth.getTransaction('0x0a67c78d3af63a17fe4f8ce0cacaa0737efdaaa77897c23c6d34a8af5df15245', (e,r)=>console.dir(r));
             done();
     });
     it('TEST IPC',(done)=>{

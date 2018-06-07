@@ -11,6 +11,7 @@
     "debug": "~2.6.9",
     "express": "~4.15.5",
     "less-middleware": "~2.2.1",
+    "mathjs": "^4.1.2",
     "mongoose": "^4.13.2",
     "mongoose-long": "^0.1.1",
     "monk": "^6.0.5",
