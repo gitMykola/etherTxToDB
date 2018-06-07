@@ -55,19 +55,19 @@ app.use(function(err, req, res, next) {
  * DATABASE FILLING FROM BLOCKCHAIN START
  */
 
-const box = 500,
-    ks = 2470000,
-    kf = 2474418;
+const box = 50,
+    ks = 3200000,
+    kf = 3333610;
 let fn = (k)=>{
               if(k < kf)
                 setTimeout(()=>{
                   if(k + box-1 > kf)
-                      ETH.transactionsToDBHistoryRPC(k,kf,{},
+                      ETH.txsToDbRPC(k,kf,
                           ()=>fn(kf));
                      else
-                          ETH.transactionsToDBHistoryRPC(k,k + box-1,{},
+                          ETH.txsToDbRPC(k,k + box-1,
                             ()=>fn(k + box))
-                },1000*0.005);
+                },1000*0.1);
               else {
                   Log.log('Done          UUUUUUUUUUUUUUUUU');
                   console.log('Done          UUUUUUUUUUUUUUUUU');
@@ -75,6 +75,7 @@ let fn = (k)=>{
             };
 //ETH.transactionsToDBHistoryRPC(ks,ks + box-1,{lastBlock:2474418},
 //    ()=>fn(ks + box));
+fn(ks);
 
 /*******************************************
  * RESCAN BAD BLOCKS

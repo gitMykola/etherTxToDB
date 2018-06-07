@@ -1,7 +1,8 @@
-let Log = require('../services/logToFile'),
+const Log = require('../services/logToFile'),
     EtherTXDB = require('../services/EtherTXDB'),
     BadBlock = require('../services/badBlocks'),
-    xhr = require('xmlhttprequest').XMLHttpRequest;
+    xhr = require('xmlhttprequest').XMLHttpRequest,
+    math = require('mathjs');
 //    parallel = require('run-parallel'),
     Web3 = require('web3');
 //const { fork } = require('child_process');
@@ -26,6 +27,26 @@ module.exports = {
             //    .IpcProvider('/home/mykola/.ethereum/testnet/geth.ipc',net));
         }
         return this.web3.isConnected();
+    },
+    isConnected: function() {
+        const self = this;
+        return new Promise((resolve, reject) => {
+            try {
+                self.gethRPC('net_listening', [])
+                    .then(res => {
+                        if (!res || res.result !== true) {
+                            return reject('net_istenning return no result')
+                        } else {
+                            return resolve(true)
+                        }
+                    })
+                    .catch(err => {
+                        return reject('isConnected Error: ' + err);
+                    });
+            } catch (error) {
+                return reject('isConnected Error: ' + error);
+            }
+        });
     },
     realTimeScan:function(next){
         const self = this,
@@ -244,6 +265,126 @@ module.exports = {
 
 
     },
+    txsToDbRPC: function(finish, start, next) {
+        const self = this;
+        try {
+            self.isConnected()
+                .then(status => {
+                    if(!status) {
+                        console.log('Geth not connected!');
+                        setTimeout(() => {
+                            self.txsToDbRPC(finish, start, next);
+                        }, 1000);
+                    } else {
+                        for(let i = finish; i <= start; i++) {
+                            self.getBlockData(i)
+                                .then(blockData => {
+                                    if(!blockData) {
+                                        Log.badBlock(i);
+                                    } else {
+                                        EtherTXDB.insertMany(blockData, (err, t) => {
+                                            if (err && err.code !== 11000) {
+                                                Log.badBlock(i + ' not writed to MongoDB');
+                                            }
+                                            if (err && err.code === 11000) {
+                                                Log.doubleWrite(i);
+                                            }
+                                            console.log(i + ' FINISH !!!');
+                                        });
+                                    }
+                                    if(i === start) next();
+                                })
+                                .catch(err => {
+                                    Log.badBlock(i);
+                                    console.log(err);
+                                    if(i === start) next();
+                                });
+                        }
+                    }
+                })
+                .catch(err => {
+                    console.log(err);
+                    setTimeout(() => {
+                        self.txsToDbRPC(finish, start, next);
+                    }, 1000);
+                })
+        } catch (error) {
+            console.log(error);
+            setTimeout(() => {
+                self.txsToDbRPC(finish, start, next);
+            }, 1000);
+        }
+    },
+    getBlockData: function(blockNum){
+        const self = this;
+        return new Promise((resolve, reject) => {
+            try {
+                self.gethRPC('eth_getBlockByNumber',['0x'+blockNum.toString(16), true])
+                    .then(res => {
+                        if (!res || !res.result) {
+                            return reject('eth_getBlockByNumber return no result blockNum: ' + blockNum)
+                        } else {
+                            const txs = self.scanTxs(res.result.transactions, {
+                                blockNum: blockNum,
+                                timestamp: res.result.timestamp
+                            });
+                            return resolve(txs);
+                        }
+                    })
+                    .catch(err => {
+                        return reject('eth_getBlockByNumber Error: ' + err);
+                    })
+            } catch (error) {
+                return reject('getBlockData blockNum:' + blockNum
+                    + ' Error: ' + error);
+            }
+        })
+    },
+    scanTxs: async function (scanTxs, block) {
+        try {
+            const blockData = [];
+            for (let i = 0; i < scanTxs.length; i++) {
+                const gasUsed = await this.getGasFromTxHash(scanTxs[i].hash);
+                let gasPrice = math.bignumber(scanTxs[i].gasPrice);// 2783165
+                let fee = math.multiply(
+                    gasPrice, math.bignumber(gasUsed)
+                );
+                blockData.push({
+                    timestamp: parseInt(block.timestamp, 16),
+                    from: scanTxs[i].from,
+                    to: scanTxs[i].to,
+                    value: math.divide(math
+                        .bignumber(scanTxs[i].value), 1e18).toString(),
+                    hash: scanTxs[i].hash,
+                    blockNum: block.blockNum,
+                    fee: math.divide(fee, 1e18).toString()
+                })
+            }
+            return blockData;
+        } catch (error) {
+            console.log('scanTxs Error: ' + error);
+            return false;
+        }
+    },
+    getGasFromTxHash: function(hash){
+        return new Promise((resolve, reject) => {
+            try {
+                this.gethRPC('eth_getTransactionReceipt', [hash])
+                    .then(res => {
+                    if(!res || !res.result || !res.result.gasUsed) {
+                        return reject('eth_getTransactionReceipt return no result')
+                    } else {
+                        return resolve(res.result.gasUsed)
+                    }
+                })
+                    .catch(err => {
+                        return reject('eth_getTransactionReceipt Error: ' + err)
+                    })
+            } catch (error) {
+                return reject('getGasTxHash Error: ' + error)
+            }
+        })
+    },
     rescanBadBlocks:function(next){
         BadBlock.find({},(err,bBlocks)=>{
             if(err || !bBlocks) Log.error('Database error.');
@@ -312,11 +453,22 @@ module.exports = {
                 }, 0.01)
             }
         },
-    gethRPC:function(method,params,next){
-        const req = new xhr();
-        req.open('POST', 'http://localhost:8545');
-        req.onload = () => next(null,JSON.parse(req.responseText));
-        req.onerror = (e) => next(e,null);
-        req.send(JSON.stringify({"jsonrpc":"2.0","method":method,"params":params,"id":67}));
+    gethRPC:function(method,params){
+        return new Promise((resolve, reject) => {
+            try {
+                const req = new xhr();
+                req.open('POST', 'http://localhost:8545');
+                req.setRequestHeader('Content-Type', 'application/json');
+                req.onload = () => {
+                    return resolve(JSON.parse(req.responseText));
+                };
+                req.onerror = (e) => {
+                    return reject(e);
+                };
+                req.send(JSON.stringify({"jsonrpc":"2.0","method":method,"params":params,"id":67}));
+            } catch (error) {
+                return reject(error);
+            }
+        })
     }
 };
