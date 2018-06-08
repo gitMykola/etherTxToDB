@@ -357,7 +357,9 @@ module.exports = {
                         .bignumber(scanTxs[i].value), 1e18).toString(),
                     hash: scanTxs[i].hash,
                     blockNum: block.blockNum,
-                    fee: math.divide(fee, 1e18).toString()
+                    fee: math.divide(fee, 1e18).toString(),
+                    input: _isContractTransfer(scanTxs[i])
+                    || _isContractTransferFrom(scanTxs[i]) || {}
                 })
             }
             return blockData;
@@ -366,6 +368,39 @@ module.exports = {
             return false;
         }
     },
+    _isContractTransfer: function (tx) {
+    try {
+        if(tx.input
+            && utils.isString(tx.input)
+            && tx.input.substr(2,8) === 'a9059cbb') {
+            const data = {};
+            data.to = '0x' + tx.input.substr(10,64).replace(/^0+/,'');
+            data.value = utils
+                .toBigNumber('0x' + tx.input.substr(74,64)).toString();
+            return data;
+        }
+        return false;
+    } catch (error) {
+        return false;
+    }
+},
+    _isContractTransferFrom: function (tx) {
+    try {
+        if(tx.input
+            && utils.isString(tx.input)
+            && tx.input.substr(2,8) === '23b872dd') {
+            const data = {};
+            data.from = '0x' + tx.input.substr(10,64).replace(/^0+/,'');
+            data.to = '0x' + tx.input.substr(74,64).replace(/^0+/,'');
+            data.value = utils
+                .toBigNumber('0x' + tx.input.substr(138,64)).toString();
+            return data;
+        }
+        return false;
+    } catch (error) {
+        return false;
+    }
+},
     getGasFromTxHash: function(hash){
         return new Promise((resolve, reject) => {
             try {
