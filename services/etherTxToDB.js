@@ -343,12 +343,13 @@ module.exports = {
     },
     scanTxs: async function (scanTxs, block) {
         try {
+            const self = this;
             const blockData = [];
             for (let i = 0; i < scanTxs.length; i++) {
                 const gasUsed = await this.getGasFromTxHash(scanTxs[i].hash);
                 let gasPrice = math.bignumber(scanTxs[i].gasPrice);// 2783165
                 let fee = math.multiply(
-                    gasPrice, math.bignumber(gasUsed)
+                    gasPrice, math.bignumber(gasUsed.gasUsed)
                 );
                 blockData.push({
                     timestamp: parseInt(block.timestamp, 16),
@@ -359,8 +360,9 @@ module.exports = {
                     hash: scanTxs[i].hash,
                     blockNum: block.blockNum,
                     fee: math.divide(fee, 1e18).toString(),
-                    input: _isContractTransfer(scanTxs[i])
-                    || _isContractTransferFrom(scanTxs[i]) || {}
+                    input: this._isContractTransfer(scanTxs[i])
+                    || this._isContractTransferFrom(scanTxs[i]) || {},
+                    status: gasUsed.status
                 })
             }
             return blockData;
@@ -410,7 +412,10 @@ module.exports = {
                     if(!res || !res.result || !res.result.gasUsed) {
                         return reject('eth_getTransactionReceipt return no result')
                     } else {
-                        return resolve(res.result.gasUsed)
+                        return resolve({
+                            gasUsed:utils.convertHexToInt(res.result.gasUsed),
+                            status: utils.convertHexToInt(res.result.status)
+                        })
                     }
                 })
                     .catch(err => {

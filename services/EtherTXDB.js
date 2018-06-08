@@ -4,7 +4,7 @@ let Mongoose = require('mongoose').Mongoose,
 let Schema = mongoose.Schema,
     ObjectId = Schema.ObjectId;
     mongoose.Promise = global.Promise;
-    mongoose.connect('mongodb://127.0.0.1/eth?',{
+    mongoose.connect('mongodb://wallet:fgtRes62kJlff55jFFkn18ll@193.200.173.204:27017,193.200.173.204:27018/triumf?replicaSet=triumfReplica',{
     useMongoClient: true,
 });
 
