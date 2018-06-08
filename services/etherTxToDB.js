@@ -6,6 +6,7 @@ const Log = require('../services/logToFile'),
 //    parallel = require('run-parallel'),
     Web3 = require('web3');
 //const { fork } = require('child_process');
+const utils = require('../services/utils');
 
 module.exports = {
     web3: null,
